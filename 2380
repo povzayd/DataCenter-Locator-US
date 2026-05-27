@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AJXbYgrhZ1KPsa8fK4yrA55lLXfNdhvmrH07p2au5rj5rXD2EgZVgL2%2FB2VWPLTxzlA6en8WBrWPgf0KkOp7FMA4JfWdbfvnWUTDs6WIVNDihqxJn0dTEoKbDeHX1bNExsDs"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4569
+Last-Modified: Wed, 27 May 2026 05:29:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32deff8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "65706", "places": [{"place name": "Marshfield", "longitude": "-92.925", "latitude": "37.3312", "state": "Missouri", "state abbreviation": "MO"}]}

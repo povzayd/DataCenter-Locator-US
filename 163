@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Acgm%2BFyMJ9HkRBvgdf2IXGE0J2hBjFl3GXM6V1Oqq0wmWcLMeN3jX%2BHmQm%2BYegWUPxkw7hrCK3QuC%2B%2FHtTApe5D7Atb1epljjFut%2BAf343y1Utw7ccUFq1%2BXWmyzF%2BKV4nLo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1457
+Last-Modified: Wed, 27 May 2026 05:52:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f1bd74a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22603", "places": [{"place name": "Winchester", "longitude": "-78.1989", "latitude": "39.264", "state": "Virginia", "state abbreviation": "VA"}]}

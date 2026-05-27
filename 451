@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2rdSR7vjHZ8ntlWhgbrx%2FwTnBrhYNIlaaDtAdQe0UtfhNF5i0WDSNRXRyiZU2Ok5L11sfkNDM9StaT5dfGg6uQzbT%2FANtlljZkdgr7Z2dXFm5Z9NLQn1x3AToUjKS2qhQDBd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1556
+Last-Modified: Wed, 27 May 2026 05:52:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fa8ccaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63026", "places": [{"place name": "Fenton", "longitude": "-90.4683", "latitude": "38.5015", "state": "Missouri", "state abbreviation": "MO"}]}

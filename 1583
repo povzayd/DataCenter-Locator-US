@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IVo6%2F89FIx%2FcgO6w5pmMGyzBh3DzpUVKvz7GlARB2ID7DO%2BJbuxYPZOgbC2ixuHgSaLC8eRJi4C%2FdyzYNLqm%2Fy0%2BkfBGENV1O4dXWuCAII6kBYW5h2RqqZOjaLJpspBrBg2A"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3137
+Last-Modified: Wed, 27 May 2026 05:34:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316d9fca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28779", "places": [{"place name": "Sylva", "longitude": "-83.2031", "latitude": "35.3481", "state": "North Carolina", "state abbreviation": "NC"}]}

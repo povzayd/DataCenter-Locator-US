@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A9IO1nwwlJUcfgl0El4ZavYeOIHWP6kPVzuolW8GzYMljuW%2FyCUhkT0FQnysW7BP%2FLGz9ltv1mGbBV8ywS%2Fozu87%2F2S4ifxjE20p0Mz8Cbbn30jjktiXCZX%2FXN7pPTzQJRS1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eda98ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "71409", "places": [{"place name": "Boyce", "longitude": "-92.6867", "latitude": "31.3216", "state": "Louisiana", "state abbreviation": "LA"}]}

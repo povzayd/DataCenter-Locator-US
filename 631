@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dPlRIKC8CKqPEtfH9gTT6mDXso7xlwQLjFpixxo2n7c7rNHtruhdm570eyDi1d18j8WfuMX9DK7wk9fkGX61R%2FlE%2B1Rym2%2FoYcUTVbJwtRT41%2F6WylAYIIpRRGrJbS%2FB1Oui"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5707
+Last-Modified: Wed, 27 May 2026 05:32:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe183da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "52806", "places": [{"place name": "Davenport", "longitude": "-90.6038", "latitude": "41.5733", "state": "Iowa", "state abbreviation": "IA"}]}

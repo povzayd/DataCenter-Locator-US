@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gTbP%2F8niuHvjG1IxOTPXxP9iQgFUc6Yz9BYDnc4lyGG3rgPPij5cSt%2BJox90NRQxOFI02T0WVHm8c0K2k1I8jqp3OwLH9fsJk1bQKkEaK4jKg4rF1NCdHA8Aaei%2BAkmc7lCN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3801
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3231da9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46052", "places": [{"place name": "Lebanon", "longitude": "-86.4641", "latitude": "40.0449", "state": "Indiana", "state abbreviation": "IN"}]}

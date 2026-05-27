@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gm%2BP8QWmGo4y%2FnJGJAnj8J5wl1kPAWOYe4EMDQ%2FwAj%2BpFuXW2X3KTs2KWraUpu19UPM71XTzYjYpWjMUYC5b%2BGozFTQKR3ejEzCHVjm1QKtMxSbtg9ct61fq51TkWStX%2FpIO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1563
+Last-Modified: Wed, 27 May 2026 05:52:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e329ebcfa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "66018", "places": [{"place name": "De Soto", "longitude": "-94.9714", "latitude": "38.9462", "state": "Kansas", "state abbreviation": "KS"}]}

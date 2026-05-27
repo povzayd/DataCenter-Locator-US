@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wi7MB6WHtjww6jptOy8FkoF4klr8%2BPEkETtJRZSgdI1Q8Ft5%2BeBqhy3iVvDsLPj1pHJuK4Zaw5iSk5tmvicaxc3ANqSn9Yob2ww9n7ujCcsyApL7Bxw8viWVhSxkHe27ZQgy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3232
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5d8d1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "65329", "places": [{"place name": "Florence", "longitude": "-92.9986", "latitude": "38.6101", "state": "Missouri", "state abbreviation": "MO"}]}

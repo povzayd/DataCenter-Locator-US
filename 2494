@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NfMRLTDdboLNiChDcmGkQDK5Ti9bpBI5C5%2F2YoL%2F4NyvU0ZDsGLcIOnvQeU74Aw8hMcMviHDKv2hF25QjfbM3%2FYL387suQbYJRnYiYrMzKSUcje9%2Fg3mqe7D1TthZGOSn3h8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5146
+Last-Modified: Wed, 27 May 2026 05:35:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3313b26a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79238", "places": [{"place name": "Kirkland", "longitude": "-100.2076", "latitude": "34.5297", "state": "Texas", "state abbreviation": "TX"}]}

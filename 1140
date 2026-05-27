@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ytILiK6px7UZhvf2n330h6zG2bN2Ogetg0%2B2yrbxsRiBPq7XI%2F4vBMHaX6buaxW4JtKtx4slAoB%2BKKArNiZ%2Fjkts6rEIpv3XU5KJejIipJbItHn9Tq4MlekLlLb2EVVulid2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5705
+Last-Modified: Wed, 27 May 2026 05:33:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30cced8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "93555", "places": [{"place name": "Ridgecrest", "longitude": "-117.794", "latitude": "35.5405", "state": "California", "state abbreviation": "CA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0Wl3yjD6nq9Pr1mijmaSzVHZt1kXtTVLJo%2Fkg9Cl1D0ACotdbtr%2F%2BgtWrV%2F6msF3JGWldVSHaHgZMb6OlPBZvPtoj85lOuPl4X0dacxSm%2Foz%2BCYFl2B%2FM6xGTEQvFvL0MFoe"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6473
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f17d2ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46360", "places": [{"place name": "Michigan City", "longitude": "-86.8699", "latitude": "41.698", "state": "Indiana", "state abbreviation": "IN"}]}

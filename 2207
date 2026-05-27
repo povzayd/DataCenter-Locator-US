@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=g7gk9zYOtN%2Bz6sbis8xWbrYvc0su0RIVumLbNSV6RQ%2FCyCwGmcYJiCW1Ru2mkqZ2qihQGOmhGiDdLT6Rh40skx6%2FbMRo5AfC6z0exewBYPSGI8dO8SReCx%2BvNJ%2Fp7Tki8kNj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3876
+Last-Modified: Wed, 27 May 2026 05:30:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3294b31a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30214", "places": [{"place name": "Fayetteville", "longitude": "-84.4806", "latitude": "33.4679", "state": "Georgia", "state abbreviation": "GA"}]}

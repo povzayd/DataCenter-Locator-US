@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RkSrcTxZuLJg5tTY3Tkd%2FsXRRm1c3J0z6HoeUPcPUF3g8zn%2B0JNqNYnw0gtUxvDJP4CenAyQ442RzFdlsI8u5yHW6AEfMUdn7e83rRMcXm27jDHIs9uNlM%2F4K8JPnkLxgHbC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5711
+Last-Modified: Wed, 27 May 2026 05:33:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330cac3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "39042", "places": [{"place name": "Brandon", "longitude": "-89.964", "latitude": "32.3038", "state": "Mississippi", "state abbreviation": "MS"}]}

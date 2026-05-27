@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9XM%2FK9sXZzzxrIKnMShEUk3cABHW1pZpsC26QrOSPP1RLqKScjjU4reE9P530V8ziSdqJ9RwcaA5iaI7bH%2FcE01ZYg6d6AO36Oa6Nag8fKiIwbYrDnL%2Fr9%2B%2FHfUuwjn9SWd6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3231
+Last-Modified: Wed, 27 May 2026 05:30:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f6d9c3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "73078", "places": [{"place name": "Piedmont", "longitude": "-97.7431", "latitude": "35.6695", "state": "Oklahoma", "state abbreviation": "OK"}]}

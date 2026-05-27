@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6OHlrr4O0td1K4h8bVDdonv7kE%2FZHnJdacXvZ6s%2Fxh%2Bo%2Braqf5TM%2F3tnVkEb6bVHJfesIQk8FnrN%2Br7NAZw2EgE5nC%2B9VhsNYghMneEPKGZCUHLzrkZf34bEvKfNTtTpL%2FIU"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3226
+Last-Modified: Wed, 27 May 2026 05:33:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3003a09a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45365", "places": [{"place name": "Sidney", "longitude": "-84.1622", "latitude": "40.2874", "state": "Ohio", "state abbreviation": "OH"}]}

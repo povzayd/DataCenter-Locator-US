@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hV3V%2BJFBmNODnX4fc6AR4dku6iGg6C5P6%2BwMhBAVJrugS8GTISzv6%2BrPjES4i%2BJ89B4NglZq6DAEVm1q8lW%2BtU5Be6vQZ4qoAbtY6PEyaLRjHJjlH%2BdGNNF5l7%2FPLDPOf0ih"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2137
+Last-Modified: Wed, 27 May 2026 05:43:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e311cd1aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53024", "places": [{"place name": "Grafton", "longitude": "-87.9521", "latitude": "43.3231", "state": "Wisconsin", "state abbreviation": "WI"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ab8D%2B0RW6NcAsw%2Fg69%2BkYaWqWk%2B7wAqoFbZHvgfU3QebYPzCg72DLwv%2Bx2BlDFs66Eq8xYYS7MlqcvgLHfu1tKTHsVbz2Q6QyanT9R8%2FAxBGEpvoMSxx7fszemdDL4WkoKB9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3226
+Last-Modified: Wed, 27 May 2026 05:33:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3039ce2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22554", "places": [{"place name": "Stafford", "longitude": "-77.4306", "latitude": "38.4586", "state": "Virginia", "state abbreviation": "VA"}]}

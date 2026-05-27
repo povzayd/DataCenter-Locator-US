@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Nb9XEZD4WP6BMm9orRGYKC3gWLWJO1fXRkRBI2Dt1TIIvspCH%2BFvDTCVwkHnOCdcrXFcHTcgfCjFX8vqnyUJWtT8fqxOnUX1OHxB7Ms%2Fsf3zzsf78j4zB4SvA9CG6JdvTM5W"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e320cb5ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30474", "places": [{"place name": "Vidalia", "longitude": "-82.4067", "latitude": "32.1934", "state": "Georgia", "state abbreviation": "GA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jeYhfJMwRg0T0bxRGoTnxJjUv3hLpUDITL%2FZgp8ODTckbTu4%2BAmDiYCqVBntrphK0iN04SlF4JHYz66TVT9AOFaBINwoPO7g3fpEMIfGljf0a64LE5dWhK5SaZpbCNZsV1al"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:41 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327b9a1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "82609", "places": [{"place name": "Casper", "longitude": "-106.2806", "latitude": "42.8406", "state": "Wyoming", "state abbreviation": "WY"}]}

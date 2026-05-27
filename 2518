@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qcIvl7BuSNmByQLI65thD8xARm8BADCu43kN11DhrleGz%2Bdzd0AsKEpoROKj5Y%2FnZ82MFCKvT8t6Cw6JSnvWgJv4Rtpsr6L2Itf6NbyoIGzXtH2B%2F1gDEOLMRL1oMcfLeo12"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3238
+Last-Modified: Wed, 27 May 2026 05:30:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332ecbea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46818", "places": [{"place name": "Fort Wayne", "longitude": "-85.2067", "latitude": "41.1468", "state": "Indiana", "state abbreviation": "IN"}]}

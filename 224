@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nOB%2BWkbczwTKmh2nHewSh%2FTRV4PDYh%2BZL84Pj%2BBmC7YBKc7szMeU6Pp2yort%2B3OZLFa8nFdL4W3FEMcHGrM5QWTxX3UImueJMOHVNZjBCJlJzxu5g9mpp8tXi2YSDgf3F2Yu"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3232
+Last-Modified: Wed, 27 May 2026 05:30:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f4fff2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "37310", "places": [{"place name": "Charleston", "longitude": "-84.7666", "latitude": "35.2556", "state": "Tennessee", "state abbreviation": "TN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uMSRte2fe6yZ8s7IPdYVFE64ES7pcc3IfTgta9L6Se4wj87ql%2BYcD6nI1%2FOMapD5fgGdEXoSUzjP%2F%2Fj68pQv%2FYolsV0%2Fr99COtIuHZxQymvvPeWfcBNqyS3suKp%2FUaYWmvqu"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6480
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31a0cf1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43811", "places": [{"place name": "Conesville", "longitude": "-81.8951", "latitude": "40.1804", "state": "Ohio", "state abbreviation": "OH"}]}

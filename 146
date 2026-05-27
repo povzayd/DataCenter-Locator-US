@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nAL45Rz0KOriynVFbI5IN2i4MO048P2Jgdu2JZ0asZjtUdzEYWlzr5oZJbiGVfkOjc61%2BkdIJ0Ymw%2BbGAaHOGYFegxvpfE88dxmk%2BV1TZxQALAq8nysP4mB%2BAJuiFUBfMC%2Fn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1606
+Last-Modified: Wed, 27 May 2026 05:51:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f14d0aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18424", "places": [{"place name": "Gouldsboro", "longitude": "-75.5037", "latitude": "41.2448", "state": "Pennsylvania", "state abbreviation": "PA"}]}

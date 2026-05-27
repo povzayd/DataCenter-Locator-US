@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eBZSrFsXBXb9EptzzEBTf8E%2FH5EPbSmpbFuqXZ0WBghGROFiWZvs6BY%2B%2Ff%2BjmanNobxQMpjSeyIeMWv5Ep5dI1PplZ6Jf%2BuPEKQsNpT3AJLUxWKN%2BqU5%2F%2BxXfipVVPe%2B60Tl"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 165
+Last-Modified: Wed, 27 May 2026 06:14:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c2e5fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30265", "places": [{"place name": "Newnan", "longitude": "-84.7121", "latitude": "33.3958", "state": "Georgia", "state abbreviation": "GA"}]}

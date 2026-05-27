@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jNg2EdjGjSRQaurP7FPuyajIGxOaEVVoqliYGb7LdlvhOWYRTUIYKW6h5B8fY7NeN3BtAH7U7vwoYXMGG9PmOUHNvS5C9H2tLJEBeHIqhtGKnCMlxEPMpaoVOvsLUc7MbS1A"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1602
+Last-Modified: Wed, 27 May 2026 05:55:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30c6e6fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83253", "places": [{"place name": "May", "longitude": "-113.8167", "latitude": "44.9681", "state": "Idaho", "state abbreviation": "ID"}]}

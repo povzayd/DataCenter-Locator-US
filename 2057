@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PtCZnOlqVH%2BVdJdb3uoNIPQtndMfLgzTVRgtDC6RVm9HpiiNQJsks4HPW9B5en2CaBzfEPZ0pFNup3bICHKC%2BRk8G90Cjl%2BtGoiekz0eHsfloBvVgiiOaRELw6oAF7kxWNC0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:25 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3264816a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89060", "places": [{"place name": "Pahrump", "longitude": "-116.0393", "latitude": "36.2645", "state": "Nevada", "state abbreviation": "NV"}]}

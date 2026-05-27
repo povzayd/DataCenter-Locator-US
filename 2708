@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DdZUDexeXuytAR0TmSuens1hG9A15lPcsAo0HZ2C%2FlNk3A64PVxpL3vMG53w7aFJwzzMkVZVo%2Bdt6h9U3wLXfTMtUtem%2B2sNNydDneMuosTAwssvqBRqedaN9PkQ5L20tHDE"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1617
+Last-Modified: Wed, 27 May 2026 05:51:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e337b969a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "07033", "places": [{"place name": "Kenilworth", "longitude": "-74.2944", "latitude": "40.6759", "state": "New Jersey", "state abbreviation": "NJ"}]}

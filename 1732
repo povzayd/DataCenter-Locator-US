@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yAy4KWKFflNBIn2r7yv2BDPukWwa8%2FDjxA4ze6xAc2cZtfY4Qnp2SyCIJxgyuUhOmiJp1cLtE5bYWt%2FrETINCSlapBeqIwQJ4V8oncaSrNpFaETRMX10RRFmR7ds9bgQm27d"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3890
+Last-Modified: Wed, 27 May 2026 05:33:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b6e37a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97124", "places": [{"place name": "Hillsboro", "longitude": "-122.9636", "latitude": "45.5387", "state": "Oregon", "state abbreviation": "OR"}]}

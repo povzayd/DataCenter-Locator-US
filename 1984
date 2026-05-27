@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ohoQiInCqC95umzJTkm2WJzDP%2BsxCSczpOdGZiMdQKkQtzWLC3ZC8RqbY2IoSL6HMxOwHRLMTSF4C%2Fg2DZb5aYAAkUlciNpsJVOYFRYx6d%2Fkm2Z%2FVP2fz8yVmWISwcRorT59"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3227d00a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18951", "places": [{"place name": "Quakertown", "longitude": "-75.3507", "latitude": "40.4411", "state": "Pennsylvania", "state abbreviation": "PA"}]}

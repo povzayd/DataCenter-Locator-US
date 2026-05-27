@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5l5S4yhaxBGCRyFqJzIB0ZOZHNUeaAO5Mz06YLBdjUED9B9rCpnQGrHQbwjbxfj%2FkvMkf%2BijRbi4e4LUL0AB18Fm%2FyheHgn8p7x92usqZJgRyOEnV47vD8JwykfETohCODfp"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3149
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30dbfdca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15748", "places": [{"place name": "Homer City", "longitude": "-79.0843", "latitude": "40.5245", "state": "Pennsylvania", "state abbreviation": "PA"}]}

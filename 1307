@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EkSK0RnLXF8SGHgDZCB2xUt66N2AvcwyLyIg7L8cJnBUu%2Fj53ikgOP%2FVeRQPByENrS9%2BrpCFWW7iAVU%2Bdr6HPf55T0EqzX3bNhX8661%2B%2BsAlJagPSPZAzutWqhqrBJT0eXXW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4997
+Last-Modified: Wed, 27 May 2026 05:30:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3107b40a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30558", "places": [{"place name": "Maysville", "longitude": "-83.584", "latitude": "34.2736", "state": "Georgia", "state abbreviation": "GA"}]}

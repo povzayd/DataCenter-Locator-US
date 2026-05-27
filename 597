@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jLHoWORhyufr22IVTqQkHtU4e0LXsOhvSqDEC%2Bz4Xf8uk%2FGKZ8lkTyB9oMv5sgR4ZVlLiEOh4z58Pvq%2FK62rc4sCJ87sFuH1Chji1DPSfD5e6Ws1AxIHpFG5W7npCiQoruwE"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1468
+Last-Modified: Wed, 27 May 2026 05:52:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fd7fb0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18069", "places": [{"place name": "Orefield", "longitude": "-75.5974", "latitude": "40.6248", "state": "Pennsylvania", "state abbreviation": "PA"}]}

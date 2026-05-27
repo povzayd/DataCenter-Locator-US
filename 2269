@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5TYKewU30qFObvTr4QfBTMAN8Gw5OMohLV6wVcEgPk%2FNRkLBfsiWR%2Bd53EQNpG6P%2FcXMO1G%2BL922aBUipZZBN2kj9goGvNa9Pp3HM16kbvmDs3VdhZ2V6b75LqzJKrIYQh9H"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1466
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a9c96a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46507", "places": [{"place name": "Bristol", "longitude": "-85.8262", "latitude": "41.7169", "state": "Indiana", "state abbreviation": "IN"}]}

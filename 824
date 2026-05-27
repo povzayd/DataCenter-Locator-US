@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H3jMku7e6kJNQgudPHjmFpYKSKi7opZDKNbrf%2FDJbOGM1xKB0rp7QfTfDyFyQER9kYVjSF6ig6QTeNDL3OU7jvfgUlGlD6OEkBCt4jc397S18AOQddSO7onwQbwJO5S%2FuLcB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5703
+Last-Modified: Wed, 27 May 2026 05:33:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3032c84a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60115", "places": [{"place name": "Dekalb", "longitude": "-88.7548", "latitude": "41.9008", "state": "Illinois", "state abbreviation": "IL"}]}

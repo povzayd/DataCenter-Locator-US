@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=81i5V3z0LWDFzjknTpVFtNJiDkVjB2J%2BSyJxWDEX4DNfK00iQxosGiHgTHZUWTqrT4kttYzuRKafJbrqRyLCKX4C4z4kNKcdnB0%2BeQm1lKDmQhmr%2Fg2VFB8CfZhgVywUVHZu"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 645
+Last-Modified: Wed, 27 May 2026 06:10:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3125db1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "88063", "places": [{"place name": "Sunland Park", "longitude": "-106.5997", "latitude": "31.8186", "state": "New Mexico", "state abbreviation": "NM"}]}

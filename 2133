@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AL0FUvrTTb3NWiVNkmBE8esg%2Bv%2BD7s0g%2B1a6ZQ66xRJ4CQyc7WDmTEJU9Ir3xhk8Gt4BvKHkaOrBzQdCkrjilnzduxXPVMb9OmTaZvm3Dpn5OyKH3NeY9kABP76wmkTVwX%2F5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:41 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327b99ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85629", "places": [{"place name": "Sahuarita", "longitude": "-111.0002", "latitude": "31.9452", "state": "Arizona", "state abbreviation": "AZ"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dCwI1CZeyy202QvXPvPPRMV9sCqvQ27ZtG9xjl4%2B%2Bmc7y%2FI1h5F9%2BPHrmYvdz7jBU7ZYk1jmXkXvaV8wst9gGyBSmNq1NEz8YjnMhjTNfKvKQnAQhTwOjPvZcxvB2eL454jC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 152
+Last-Modified: Wed, 27 May 2026 06:14:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f55852a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "08831", "places": [{"place name": "Jamesburg", "longitude": "-74.4336", "latitude": "40.3425", "state": "New Jersey", "state abbreviation": "NJ"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DDf4Kb5WvVCpO8rwczJ8pkkxhQiTYjnZX3EPy4ulQ5UoTR1%2FG%2BIVjAH6gjIKXvE2tsI3%2F0vMZAlyolvO%2BdWnmPVBc2I0tgJVcZ1kqHOz%2FKrXfVJTpMxFRq9OO%2FDw2QLOWPtZ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5144
+Last-Modified: Wed, 27 May 2026 05:36:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e334ceafa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "10962", "places": [{"place name": "Orangeburg", "longitude": "-73.9609", "latitude": "41.0442", "state": "New York", "state abbreviation": "NY"}]}

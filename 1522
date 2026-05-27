@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=taJhnmOkFVBxpctMyoEj%2FvB13rye%2FS6A%2F%2BO4CwOFuKg371d7Wz%2BmT5YJ%2BWazoK0Ra3TYKVHxYmsv6yh19Q70x%2FEOT0XhOkQYItzb2Hs0SKaQt5cF5Q2fcqplVkY40dOuMdwn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5146
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31598bfa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45402", "places": [{"place name": "Dayton", "longitude": "-84.1895", "latitude": "39.7563", "state": "Ohio", "state abbreviation": "OH"}]}

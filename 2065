@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KA68xWpOMGk0X%2FCes%2F8hZACwqFr1nnCKc9gY9n8HHQuT9hDHiR8SmVi5e0ZOBc5LMR1ukf1GfTAlbyhG7%2BxHqSpE6Ae80eUQcr8ogpaUAsPdhdVFQqjQy9vWgHOEfY9MX3pS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:25 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326683aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49031", "places": [{"place name": "Cassopolis", "longitude": "-85.9923", "latitude": "41.8968", "state": "Michigan", "state abbreviation": "MI"}]}

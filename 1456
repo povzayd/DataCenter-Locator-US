@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=I9CRAGDuR0M2GzqJ%2BvNsWxU82of6V6bwe3gOFqDA%2FGNZwZNjy%2Fk2SUTmwJPgTDGyj3N5m91noknkAeHm5YqHFcyUpbeV%2FU0f60J%2FSQwx47oCLwvIoq7eqiLsZKWs9XW7vlaD"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3528
+Last-Modified: Wed, 27 May 2026 05:34:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3139ec1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14813", "places": [{"place name": "Belmont", "longitude": "-78.011", "latitude": "42.2334", "state": "New York", "state abbreviation": "NY"}]}

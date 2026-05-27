@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iF%2BeoagRDo7NwwCunhgPLoQlSBQpMiRHb6cGHofiBySI9h5h2cYbrfnOD%2FnZ7eNVRwtW9x8irdrnxT48zWhYZjyWyr8PzbHwV6opRvPrwg46yVv7Zwdv6DDZimxblOd0EbRN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3814
+Last-Modified: Wed, 27 May 2026 05:34:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316192ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74079", "places": [{"place name": "Stroud", "longitude": "-96.6719", "latitude": "35.7398", "state": "Oklahoma", "state abbreviation": "OK"}]}

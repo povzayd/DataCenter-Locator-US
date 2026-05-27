@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7Q0e2ErAhgfud9FTqa97q%2BSg7sDgXdj3Ieg6ZwsxO8Apm7qpJqeNTopvJY4oBRgqPyUr6T2R85RcT6m0DChgmuUBVmptfAa1t4lZ9oQ9qgF75W49O0%2FtRfTkk2vTM1HkO3Vj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1442
+Last-Modified: Wed, 27 May 2026 05:52:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f64937a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "06501", "places": [{"place name": "New Haven", "longitude": "-72.9275", "latitude": "41.3657", "state": "Connecticut", "state abbreviation": "CT"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZD4J5iJRvXBYLUbbXAtCKHNlQyNUMbZzip6lpLI9%2B862g%2FnXQxL%2FD2XFArOjoxM2U7JpRBxtOfkjn%2BYD5biDX4PpOUJ%2FuL1vAtvIZ75DGruvjutf%2Bgg8KsuHjiqadn6dqmoN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3555
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3127dc6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60030", "places": [{"place name": "Grayslake", "longitude": "-88.0545", "latitude": "42.3524", "state": "Illinois", "state abbreviation": "IL"}]}

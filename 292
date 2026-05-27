@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U8vJ0qLRp1s0lTMoZ3qzydRJW5hF9bgFeId8dEhGs%2BO7MO9CAdKEIJ8zFgzELVD5LemQyBFYoBZKINi3leX1Pbke%2BumhxuC0oPcxnHQ%2FF0HxBWo93PN6%2BPxuvPEsL3%2Fz45iM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5136
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f67962a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84021", "places": [{"place name": "Duchesne", "longitude": "-110.6181", "latitude": "39.954", "state": "Utah", "state abbreviation": "UT"}]}

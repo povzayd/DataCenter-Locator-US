@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NOEdDYqVgYI5M%2BrUYRpkukVttC8oAaMwkXDliHZMDTKpEioM91pBwr9OZm%2F%2BG06%2FWmJqAouRQdZxrjOydvvXOzGOecFJ4Pe%2BWLIXZEtXM96lylVrN9nNXYtMUW%2B%2Bd2QMI45U"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e337792aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78401", "places": [{"place name": "Corpus Christi", "longitude": "-97.403", "latitude": "27.7941", "state": "Texas", "state abbreviation": "TX"}]}

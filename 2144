@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BpmQDnxtA%2F2hnO6zlhiQM9rh2tY2kymzhuXyVDhbUOkgGuxdzkdKXY1NtGLX%2BB8lWaGBXXVFu39exjob9hSXk5qpHQomJD9FKLEbMvOlhF5%2BU1hlLvnhD9nc%2Fao00qtiGo2C"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:41 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327e9d2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19706", "places": [{"place name": "Delaware City", "longitude": "-75.5957", "latitude": "39.5725", "state": "Delaware", "state abbreviation": "DE"}]}

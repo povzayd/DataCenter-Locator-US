@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9puv7VOdH%2F64x0pIdhAKcnZmY%2BwjRiktdeJBjBHHnMJU38ChxFC8%2Bt64gzh6PlD7X8%2BEK%2BcOyLqNZOV0XsaOMk2vNMfhdqMOzzQI7c6dpOhULxZmJonE9EteiAvG5i%2BKy7gc"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5596
+Last-Modified: Wed, 27 May 2026 05:35:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332ecc2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "50401", "places": [{"place name": "Mason City", "longitude": "-93.1954", "latitude": "43.1499", "state": "Iowa", "state abbreviation": "IA"}]}

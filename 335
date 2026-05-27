@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Wn9hxTKS6eSC2LUdnp0UShO%2BCByrOtNMPrkkGDWIZgftqA9lQSrs5%2FZW36qhGIPedlZPmHOhFE9X0v%2FKPzR3OKLNKKkg5lVQRMPLxxk%2Fc30gEQ5GyIvNWO0VyT%2FvXJ%2FEfb0e"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4991
+Last-Modified: Wed, 27 May 2026 05:30:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f74a2ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46113", "places": [{"place name": "Camby", "longitude": "-86.3118", "latitude": "39.6405", "state": "Indiana", "state abbreviation": "IN"}]}

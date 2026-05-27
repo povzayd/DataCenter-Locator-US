@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2F8t7FibmWhL0gjY4orsVX9bUaYSbGEUv5zKMy0EFWUb%2FPJItqbx7%2BapKeHm%2Fyp55G06Zr3TXXZuJeAYN75klIthwcYEN5bYBo%2BqCzewEAu7O55BLefbg%2B2r8OwN0qGKF3AC6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:37:07 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330fae4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "44087", "places": [{"place name": "Twinsburg", "longitude": "-81.4559", "latitude": "41.3289", "state": "Ohio", "state abbreviation": "OH"}]}

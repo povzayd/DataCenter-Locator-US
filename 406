@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t431IsMxcw70Gb5DGtBGzVP9QPZiO%2BnhifDzomkJVKSqK7xas7y9a8KTPxEH4jzbjitUN%2BAd4KbSiNoNKDAeMhespuhqeCEEusCDP%2FSHT9j4Cvp%2F7EcA4i4vbI2VWxClsm7d"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3229
+Last-Modified: Wed, 27 May 2026 05:30:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f99c0fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "16157", "places": [{"place name": "Wampum", "longitude": "-80.3392", "latitude": "40.8819", "state": "Pennsylvania", "state abbreviation": "PA"}]}

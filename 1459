@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZV5wfY9ZOnZNKcsV9cduSN8t9xa3UizoaZ6TL5FYFg2%2BQsQo5vpT8q4d7BIXQYm2Zsb3kHp5IxvDLb8zFopa6H%2B5pmEou2zq4e34NlixzgzmXV%2BbXcrpHImq6dQq9g4Wvlx0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4995
+Last-Modified: Wed, 27 May 2026 05:30:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3139ecba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "07821", "places": [{"place name": "Andover", "longitude": "-74.7524", "latitude": "40.9614", "state": "New Jersey", "state abbreviation": "NJ"}]}

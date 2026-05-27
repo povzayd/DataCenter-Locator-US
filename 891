@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DwKpnFVPz4gDUHbRnqH6VvA9AY2Ll4N91Duz%2BxvQCX3mgISICNsIj1BPIl1WD6qKcP6%2BTdJ0Ab8toOEI7HaKsmSsIK2VVtNxQJ3sRkJxvjKQUOA4Ptim063cQlehXf5xHBGl"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4901
+Last-Modified: Wed, 27 May 2026 05:33:41 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3048dd4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18360", "places": [{"place name": "Stroudsburg", "longitude": "-75.2485", "latitude": "40.9877", "state": "Pennsylvania", "state abbreviation": "PA"}]}

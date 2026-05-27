@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=o53HwX7mBPZPpxPVes8eZqqsGgGL49YZ5UnW6tXdXGu6Fs5Ti9zOqdqw2AoTZ3o4ZbtvfC%2F68WW8csA9hUgO253MzeTl2PcZEPWujzIHBLjWociSjk0SyLBCyvTgPbtD5G1G"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1506
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30ffaaba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85388", "places": [{"place name": "Surprise", "longitude": "-112.4512", "latitude": "33.6134", "state": "Arizona", "state abbreviation": "AZ"}]}

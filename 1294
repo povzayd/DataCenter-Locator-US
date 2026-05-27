@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fHcLkwcuYlruk%2F4iO7tqTwbd%2FyWeeIMKaR1YHQcAYB2TpeS2GRBnQ2VWVmcf76ICQwqphXosk7XfBQbtkGAz%2FzH1xYa6nHgOwV91eFUXeh8xhfa5GXwPIcxadr3ACfVK0H2S"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5705
+Last-Modified: Wed, 27 May 2026 05:33:15 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3103af5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31008", "places": [{"place name": "Byron", "longitude": "-83.789", "latitude": "32.6181", "state": "Georgia", "state abbreviation": "GA"}]}

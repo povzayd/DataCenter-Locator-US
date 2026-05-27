@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VozPCEROjGCCAOvL1n3JrO5FktulmNdJAlj7qT5UyQ7%2FDOAXrFH0LpsEFWgqaCYMCWrP3b5kdnuEseP8EQggtfjZz7poBkRfg0Al6NfrVuTTCLJ88WWWuSZFg%2F7HAm7B3V3P"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3206ae4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68801", "places": [{"place name": "Grand Island", "longitude": "-98.3411", "latitude": "40.9219", "state": "Nebraska", "state abbreviation": "NE"}]}

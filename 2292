@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rkebgQvWQIaMqqyWnTf8%2BgRJnufJ%2BIN%2BzNcXCcBbAk%2BHH5Jvxq2aOhYGf0XUwG3b3r92xHnU0YWqkDV8zhTT4x56Tem2NVgTv3HQ13lxNJ5QsVQM7W%2Br0C7Xf0s0XXah7Qsh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32afd02a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "32425", "places": [{"place name": "Bonifay", "longitude": "-85.69", "latitude": "30.8464", "state": "Florida", "state abbreviation": "FL"}]}

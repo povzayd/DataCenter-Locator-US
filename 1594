@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oWO4IVvTQYUgA4bC4rq0GZ7kkzHdey0Bgj5luPr3tenJ8WDZCYMQGCknd%2FCbpd%2FAIMgod%2B5GiH1ZWQrtbui2%2BatR5XWPYEWkZvwenkPjsCDp2ODTAfEKDOkhaO%2Fp6lWNCMCD"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5702
+Last-Modified: Wed, 27 May 2026 05:34:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3170a21a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30132", "places": [{"place name": "Dallas", "longitude": "-84.8278", "latitude": "33.9163", "state": "Georgia", "state abbreviation": "GA"}]}

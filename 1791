@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=logW1WWVDmh1F8Hpo4dzTcOso4%2F0MDg49rlfbH1r8dj2ZhQHJhr9WWoXIhbLyL%2B4YxggpIhS9B2Ks4TETo%2F0tPztbKbuq1O29DURi%2Fgtdvrrcw%2BbFCXF4r1oEVYMw%2BDOYZpj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1601
+Last-Modified: Wed, 27 May 2026 05:55:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d8845a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18707", "places": [{"place name": "Mountain Top", "longitude": "-75.9376", "latitude": "41.135", "state": "Pennsylvania", "state abbreviation": "PA"}]}

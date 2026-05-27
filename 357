@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VzwfAAG9iNinYGEaZhWNX1Z%2FX86i69hi%2F9Z%2B6%2F6q2vw4a3pO6QSCYVG56w8VbmyEjRtTW9QMeJbu%2BHOMtou7PnstvVCwemyUOW9bQMz%2F1n2N59H3vNYnD%2BtyHrBPHgw3h3Wh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3784
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f87b25a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18403", "places": [{"place name": "Archbald", "longitude": "-75.5334", "latitude": "41.4876", "state": "Pennsylvania", "state abbreviation": "PA"}]}

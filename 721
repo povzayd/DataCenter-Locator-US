@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=y4GtLvnK%2F3j%2B90MNbk4IKFApg%2FX%2FRtpyDoNrEF31O5WgMib%2FaxqEHwoohl1GzsjKgwndY6ZZFYjuNeizX2qZvlIWMY%2Fnn7PW%2FS%2Ba4unzg7HJ0FgNoTE4joToK4qBid21LqXb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6475
+Last-Modified: Wed, 27 May 2026 05:32:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fff9d2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89005", "places": [{"place name": "Boulder City", "longitude": "-114.8344", "latitude": "35.9727", "state": "Nevada", "state abbreviation": "NV"}]}

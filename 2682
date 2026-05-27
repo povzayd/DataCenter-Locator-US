@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pvaaN3VG1aX2PKu9dXQsaFPCzIFNn9Y%2FdVBj4rQXmPdi6S1XfXBDpcc7aOQbm3PeuE7%2FjpYNr%2Fs6Wj4T7ucrnCEJg9IMhWkhGcXzAuifKga9g0wfpBQc0cbi8oT4kS3r1FJz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33718bda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17044", "places": [{"place name": "Lewistown", "longitude": "-77.5756", "latitude": "40.5994", "state": "Pennsylvania", "state abbreviation": "PA"}]}

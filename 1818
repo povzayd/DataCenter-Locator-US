@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9VzGH1fc4Efw3cUlgUNt7stAhunBBWhNe%2BUE6rXpypVvFArjcteXdJzvfSiWpTsfM7ccikRmPGmffowum1G0EcxKW10xPm0CCQ7FrMIGyBEbiHcS6W31Gh4c24rX%2FTZ63UDg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1821
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31e08d4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48309", "places": [{"place name": "Rochester", "longitude": "-83.1837", "latitude": "42.6626", "state": "Michigan", "state abbreviation": "MI"}]}

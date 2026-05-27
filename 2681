@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P9pVJsD6311dnc6ruFubeErDDoM1R1QLllC2LFVO4s2I7pL2T%2B4mekq6mQmY5ULaI9tKFOE%2F%2BeJZUJ18aJS8HBxd8jUWKBEsQsH8EpqVtboJApP4HHHSU60iuRUej%2BSH5c33"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3558
+Last-Modified: Wed, 27 May 2026 05:31:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33718bea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "44030", "places": [{"place name": "Conneaut", "longitude": "-80.5803", "latitude": "41.9345", "state": "Ohio", "state abbreviation": "OH"}]}

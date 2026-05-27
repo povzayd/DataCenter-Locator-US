@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6do%2F330Y9SuyZE5mMF4HYYySS7mwMjdH%2FA9uemw474IDQKDWj6QYjzRjG%2BGcKW1r6Snd5ISo8E8%2Brsjr81RXtby6i7uJEU4%2BPO%2F2EJmK52Rq4TECx26SaPq6%2FphgVCiTAgV0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3871
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32bde01a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46530", "places": [{"place name": "Granger", "longitude": "-86.1411", "latitude": "41.7427", "state": "Indiana", "state abbreviation": "IN"}]}

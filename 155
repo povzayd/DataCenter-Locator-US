@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gR6wIA%2BcIsYLsn7WMSrFoOhJT54V%2BXy9MsINlhpIo%2B4%2F31RSHi9bKrg2UXGvVOM1NVYRiw9KfB91XTUH4MqyKMN5h%2FfJSsjiqUNZAw7lFNiovQG5%2BB7T99OONxg78aQRy0KE"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1863
+Last-Modified: Wed, 27 May 2026 05:51:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f18d3ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "82007", "places": [{"place name": "Cheyenne", "longitude": "-104.8107", "latitude": "41.1084", "state": "Wyoming", "state abbreviation": "WY"}]}

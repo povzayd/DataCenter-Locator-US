@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HBQz5Ki3xkAc7pr5BgE5raw224axyTUQ%2FqamRCRGrksqMI4CVsXcoSSE2%2Fg%2BFfaPq%2BY8arGlX6%2Fphu1M5H%2B15iMrXl5Lv9PoMXaWSiwvLVJam3jP1ToqnDsYfzDRuNiNvlx1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1508
+Last-Modified: Wed, 27 May 2026 05:55:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3014af5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "52338", "places": [{"place name": "Swisher", "longitude": "-91.6739", "latitude": "41.8268", "state": "Iowa", "state abbreviation": "IA"}]}

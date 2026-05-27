@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JfyKppJDmb3F4GQJIUDJhbr3hI2PtEJPnkZNDCNKj9KeuJMhjsnwqWYUlKKlcKS7q%2B8Fm%2F9%2FfD3CIZ48Lx9HEgGc1BqJsu6%2FvmCzF9CsCXL%2FqSRDd2WzzjRKY2Fph0YuvkpJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1524
+Last-Modified: Wed, 27 May 2026 05:55:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3156887a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "13662", "places": [{"place name": "Massena", "longitude": "-74.8845", "latitude": "44.9322", "state": "New York", "state abbreviation": "NY"}]}

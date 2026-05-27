@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LRFQPKoWjeadGDwP5h%2Bl8lgOlBk2IO9tP1OZBxkJE7rxDaXDdjSxfrzLgkqm1eoOyi%2FKi2DksxC52uT4szbmo7v5dTfsOB3hN5nF8Q3%2FGJfKGHvbe3FSXWKw8fzZoB8UXgoF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:37:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e336b862a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18245", "places": [{"place name": "Quakake", "longitude": "-76.2296", "latitude": "40.7226", "state": "Pennsylvania", "state abbreviation": "PA"}]}

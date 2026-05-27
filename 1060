@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NkBGy30LSIEz9Omru26cSnAfmuCNv8OwmqL4WoI2iStpJraFI3muuSzSVuDSQCOIxokEFeHsQt4JlBHW3pqeGobXg5R5vTBbOK58W9Hp9V9bu1HcRFhQoPCdUXkw0d6WHV9p"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2834
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e309eb75a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "16141", "places": [{"place name": "New Galilee", "longitude": "-80.3939", "latitude": "40.8569", "state": "Pennsylvania", "state abbreviation": "PA"}]}

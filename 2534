@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dbM9Cb%2B2rSiVQhZmZh%2BlM9ArnpqBnHBWuipW99xAK0HSSkHIj5f4%2F4HVoflCjMEoK7H1eO1RIzggpD9Hkq2L46y7%2Bqox6cJCgHGBfMKpJALUquQ4mJmYrU74bqvckTILU2P0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5245
+Last-Modified: Wed, 27 May 2026 05:37:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3334d34a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43946", "places": [{"place name": "Sardis", "longitude": "-80.9243", "latitude": "39.6526", "state": "Ohio", "state abbreviation": "OH"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k87I7SO0V6G60Fjn%2B4gktcSkQs7fwQfzwa1qYmPxSGuOrOZE6H1XMsb1rVOTEsRQaGTvHAkYIcZjGNougBfXcFrcYDjXGqytKsnlj7Hd0%2B2pU7YZsEIw%2BqmFYYkGLt9LR6jY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1863
+Last-Modified: Wed, 27 May 2026 05:52:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3231da6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20147", "places": [{"place name": "Ashburn", "longitude": "-77.4805", "latitude": "39.0373", "state": "Virginia", "state abbreviation": "VA"}]}

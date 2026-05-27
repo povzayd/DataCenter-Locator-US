@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IxTK1UaG%2F5aC3HtVUy2OyoMs%2FbcD6Qh8mrUCPaMdqgCam2Zchjq1XbF%2BXnZ6%2FOrFXoqx7qD8EFh4b65bq2s4YoEFCz6NOM%2FcIFLxE0yEoGAHotljit%2BvW1HOUIaZptGmn9d%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5712
+Last-Modified: Wed, 27 May 2026 05:32:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31598d1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "71006", "places": [{"place name": "Benton", "longitude": "-93.691", "latitude": "32.6976", "state": "Louisiana", "state abbreviation": "LA"}]}

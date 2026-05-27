@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=x9SGicJgmETOcVQ7Ys6EUnu3T7t8dAK4yTVH9zZDfcSVnSiNn1WsICasuwaQUPjigFVhy697rtE98sC3k6CLUL2VHhEAFmTO7jL8pAIqp6fksIv2H83ZZKj%2Bh8pCLEVT06yR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3237
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3202ab2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29710", "places": [{"place name": "Clover", "longitude": "-81.2201", "latitude": "35.1065", "state": "South Carolina", "state abbreviation": "SC"}]}

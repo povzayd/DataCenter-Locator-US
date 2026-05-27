@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i9ycDVL1mMkNdtbiWnDsnJLBFEFyPH2x%2FZjQlVs5JOvE%2FggQYxLtQO51OZsvboi6Rp77FceBQVj2cIDe2Kmn50y8IVVsGM0JE3mdzXxKpMThqRouNn8PSN4TGU8j3wAV7j4W"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4924
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e304fe4da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49319", "places": [{"place name": "Cedar Springs", "longitude": "-85.5452", "latitude": "43.2215", "state": "Michigan", "state abbreviation": "MI"}]}

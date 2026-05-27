@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IZT4puDetf4YN%2Fzo8aZWMz2TZWLm4Tp7fHoa99HmCnAO9qw4JkvuoIDTA4F4bxYBzgblkitFdYG1uTgcl7fcduzrFH0pX08GMJtR6oiVLl5bG9rUOuyuwJESRNiv0%2BnSEkqX"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3233
+Last-Modified: Wed, 27 May 2026 05:30:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f38eefa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "26260", "places": [{"place name": "Davis", "longitude": "-79.4563", "latitude": "39.0882", "state": "West Virginia", "state abbreviation": "WV"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=K9TpE%2BnkrFEBVWA2tMSbY7VxLyiq7DIvi%2FoYkGig4zfgc7uLD%2Fj5q2iW2rp3o52AoGBgs4TH3NBd7wOVFB%2BxTGMocCfvirhOgKvzjyJ477S51436brll2sqX70PT07Eu%2BRLH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f08fda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84639", "places": [{"place name": "Levan", "longitude": "-111.9438", "latitude": "39.5215", "state": "Utah", "state abbreviation": "UT"}]}

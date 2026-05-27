@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oUuvYxqqbDuIwZzbAD1REHbVnio3%2Fw23R%2FgNn6gyu%2BFlg%2BYv5DiJgqrH40obL3RkuFBRfiJHO87Vg%2BdZocDX9DBW%2Fuy8nmNeFoe3FIBCY67Cc7eGHLgGflaVpDU7RpiEMY4F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3411
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eedafaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22408", "places": [{"place name": "Fredericksburg", "longitude": "-77.4681", "latitude": "38.2481", "state": "Virginia", "state abbreviation": "VA"}]}

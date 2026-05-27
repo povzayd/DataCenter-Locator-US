@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0UnniC0Ibt3kAXWLgz2yDKbC6gEPV%2BJ%2FUb%2B8%2B3mmaBimhvv8pxnLNX2xEo%2FOjkxR2btVBHwouqGQZu3YJWoQe1fahyICc5yvxlV7bxalqNIw8X1pj0wZmY1WDTMinmGPDAAV"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32728fea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15077", "places": [{"place name": "Shippingport", "longitude": "-80.3863", "latitude": "40.6025", "state": "Pennsylvania", "state abbreviation": "PA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zNLUCFJZ0%2FzAToBcsrqiH88N4vQliZVPp8T1Ph9boUImuwuqdoLTeWzNGlpz36CZsvuCAEVDYwFuY05yB7Iduj69eXwBo%2FCIwjcT5oaKS%2Bl1CosWYRjm1XJurUtQMkTUDvq%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3226
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30bfdeda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49090", "places": [{"place name": "South Haven", "longitude": "-86.2542", "latitude": "42.4041", "state": "Michigan", "state abbreviation": "MI"}]}

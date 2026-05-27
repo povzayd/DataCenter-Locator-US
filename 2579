@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S%2F0poPqQfSB8n%2Ftl59%2FkEBxyQVBGqoozFfoeigQDTSeigM4er7y74BiWY%2BiFsBtYLfuwWEcXWaSbMqu1rnlrBxPmoTEpChSrdEHpcvNGDxEhyau8W4OSItSzaFzDpTdhUoRw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3342df8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77582", "places": [{"place name": "Raywood", "longitude": "-94.6764", "latitude": "30.0542", "state": "Texas", "state abbreviation": "TX"}]}

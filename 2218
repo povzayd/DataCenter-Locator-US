@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=R1adYJXw7VPJJ9JY7l2oTiArXXntxgq3geb90AWB4LDgTjM%2FNXdFP3T62TJLZ%2BfMFfKwnCTufutFWN7mdLpV2UGXB0I8v2CqWcLc49WdWR%2BpjhHz3Q%2FmVGB6YCJwJ3tpvbWW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1071
+Last-Modified: Wed, 27 May 2026 06:10:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3297b5ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20110", "places": [{"place name": "Manassas", "longitude": "-77.4878", "latitude": "38.7492", "state": "Virginia", "state abbreviation": "VA"}]}

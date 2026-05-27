@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GjCEu5jQQ177mZ%2BYfszFfoI3orbscFv44BIcWAe74Enpwv0ENV0K7RjDYthHzwExLTnChEl28U%2FkXvKI3Ur2nmQFdjmV4BcznVaWpUnogEdOwOqkiceBSztmuJ8k0bRPUQD9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5715
+Last-Modified: Wed, 27 May 2026 05:30:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3050e60a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46176", "places": [{"place name": "Shelbyville", "longitude": "-85.7875", "latitude": "39.5043", "state": "Indiana", "state abbreviation": "IN"}]}

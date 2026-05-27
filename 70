@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GhuopPOw%2FQGC%2FPCbyuhA8WEedPSXx%2BnOU4RGGOkJgDbuZInxjZS3n71NKzS1niu5xmyJrBz5u2gP5b96KU8fD6jIz44oiNOZX3m675c%2FWq4yJWB%2BMfRd1H4ghbyx7GC5a8U8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 162
+Last-Modified: Wed, 27 May 2026 06:14:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ee7a6ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74553", "places": [{"place name": "Kiowa", "longitude": "-95.9328", "latitude": "34.7278", "state": "Oklahoma", "state abbreviation": "OK"}]}

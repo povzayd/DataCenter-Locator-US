@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=piw9nMNu%2FmrITty91nTs%2F9DlZdOBSY6G24icfNLjQdkC79DKW%2Fs71YGgdBt1y7Q9UlpQDarudLbdUEeirehJA9LL5K0C47DPhz%2FLGX3FNUCgsj4XskM3F0ciwowThlZ0fFD6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:36:38 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3277954a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77905", "places": [{"place name": "Victoria", "longitude": "-97.0338", "latitude": "28.7525", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pqinBWICrGA%2FuLPuMlCoyilrnB4cjUcOopr6qQIUPY9vHGC4%2BfjdnPeldZpeD87z4QoaRBPwpKcTNNHSOmMc3ZIoUjVfRuoDc1l9N5d972R7RW0nmo%2FR65Q%2BVEAwdMTaU4%2B8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1601
+Last-Modified: Wed, 27 May 2026 05:55:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e308fa5ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68504", "places": [{"place name": "Lincoln", "longitude": "-96.6532", "latitude": "40.8392", "state": "Nebraska", "state abbreviation": "NE"}]}

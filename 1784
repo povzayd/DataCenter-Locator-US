@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=avYuGpb9j%2FYwg8fg5kFk9UgKW62rPxQ%2Bc4YnfmhWtafHzQq0TUfye7Qx0Kwt1S6fg6lRYruW8XzQibSbNsn765P7FnxpDIxqTEWz73o0vjITNyYShcO%2BUZV55HhNrY1pDfRP"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1600
+Last-Modified: Wed, 27 May 2026 05:55:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d4805a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30814", "places": [{"place name": "Harlem", "longitude": "-82.3097", "latitude": "33.417", "state": "Georgia", "state abbreviation": "GA"}]}

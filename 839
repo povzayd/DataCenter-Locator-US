@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ksBtdym75jywnjO47bT2yqvFF9S8YQwvMkQ42s7xe%2B3%2B3mhFL%2Bd%2B%2BAP5LTqOxX%2FWxWI%2Bs5XCZunQiakt4EGkhWok37GH9dd4Y1FIECIQPSb9riBCQPYgu6D%2FbbfguaVIftcg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1508
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3036cbaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "86441", "places": [{"place name": "Dolan Springs", "longitude": "-114.3777", "latitude": "35.5692", "state": "Arizona", "state abbreviation": "AZ"}]}

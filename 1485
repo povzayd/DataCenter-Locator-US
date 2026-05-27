@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vbKiLhgH5RApHsI0ag4oe7pcMUsvz3jRcLEpYywYBYwkL1gsl3Li36szoH4cV04Xz1Eua9RGbty7crPPr%2B0WJlT5Q7dI3T55t1lMtY5pZOEk5mYAg57Q3EKXrY2NtivQAJ%2Fj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1063
+Last-Modified: Wed, 27 May 2026 06:10:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3141f46a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76065", "places": [{"place name": "Midlothian", "longitude": "-96.9936", "latitude": "32.4757", "state": "Texas", "state abbreviation": "TX"}]}

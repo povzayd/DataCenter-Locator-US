@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MWj9JuLF42JBdokhi9U8JnfrJ5DHdo%2FIu6w2fKg3i7TCp%2B8pXDoVWjXfiEYkJLD8PPQYHYb6wAkdMKtxIma9x%2BGcKhswSpAJ1o9QWMMbn32ycMaBiVmuxO1OHnKT0XV%2FhMY8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f87b21a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43119", "places": [{"place name": "Galloway", "longitude": "-83.1838", "latitude": "39.9366", "state": "Ohio", "state abbreviation": "OH"}]}

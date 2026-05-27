@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LNlSRNw86W7KMR3ewdfUZACycN0KWJQNgiLb1w5mBofL9%2BIuAsaXeg%2F%2FqekhgNT4nUnGnjE%2Fa2LSuLNXe8KbdEr54lwuBBvVVCiPUGk3QYm58z47o7zc0nqNSEInyxBKdWiQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1619
+Last-Modified: Wed, 27 May 2026 05:51:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ee09eca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "08062", "places": [{"place name": "Mullica Hill", "longitude": "-75.2065", "latitude": "39.7252", "state": "New Jersey", "state abbreviation": "NJ"}]}

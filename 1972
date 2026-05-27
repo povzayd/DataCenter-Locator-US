@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r8UIAKLDivNZhfHQvCklW8K3A9wY1XVL7dTXa%2FqcSMlyRUIZZXbOQbgF%2Br81TX1ZFnlOok%2BPYnKJJn3bErGQ%2Ba%2B%2FgD2K%2BUtrZLga7VINtV4W7x0RbsMmREQgakuz3GNKOGF9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1403
+Last-Modified: Wed, 27 May 2026 05:55:42 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3222cc4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48173", "places": [{"place name": "Rockwood", "longitude": "-83.2127", "latitude": "42.0731", "state": "Michigan", "state abbreviation": "MI"}]}

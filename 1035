@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SuGdekbXfJkoYIBHK6mOjllhjlyh3Y1i3yk3HG7Bbyc7EauopmgI65tHCCKjnJ9Y84V1zpOl7idy43yOxWtyMBtVQ68ySAGlpLCBVHwFTiLdenndpMF%2BMMaqnRAvIXq32M5K"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3547
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e308ba23a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "64468", "places": [{"place name": "Maryville", "longitude": "-94.8735", "latitude": "40.3434", "state": "Missouri", "state abbreviation": "MO"}]}

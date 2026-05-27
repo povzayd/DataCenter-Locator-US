@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=B%2F2uc72zvG6CA6klAYmcQYPOFEGgy%2FZnXdsaLwVyxz741Zy70a9e4574uQW2hx1R1nuEI%2BX%2FcXQfu8%2FLbXcc6xeQh5urbuVL8hCP4q7kWB8oSRkDxsm0oPlkTESheJniJp5c"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 450
+Last-Modified: Wed, 27 May 2026 06:10:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3132e6ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "99354", "places": [{"place name": "Richland", "longitude": "-119.3067", "latitude": "46.3257", "state": "Washington", "state abbreviation": "WA"}]}

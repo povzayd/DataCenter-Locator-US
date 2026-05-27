@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XW9WeamvXWkou7E8ArnDV8Uok6wMYkl19DXlE5jWUIXNaKTBLMXb6dn7mAvh8ll7jjV9w9Xbvwrm3TzcmOLzztuHJbD5w%2Fym8DFvIqpBztyI3GruP5p%2BjK3E9Niu%2BvW%2BZIUR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4901
+Last-Modified: Wed, 27 May 2026 05:33:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e307d92aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30204", "places": [{"place name": "Barnesville", "longitude": "-84.1515", "latitude": "33.0457", "state": "Georgia", "state abbreviation": "GA"}]}

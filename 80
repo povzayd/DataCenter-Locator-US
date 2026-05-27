@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Sx5JiWsMq036D6QKv%2B42HNn%2BwPVoftFsRt1BGs77M85mE7%2BJZKueOhXKBUYv6GQ1Ch%2BvI83g1kFEl5v9w78KV2zI2lS%2BiGeIkMuA09xgwG7xn%2FxUYBbSwgK%2FPDf%2FhTdF0C4P"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1606
+Last-Modified: Wed, 27 May 2026 05:51:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eeaaaea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74055", "places": [{"place name": "Owasso", "longitude": "-95.8222", "latitude": "36.2863", "state": "Oklahoma", "state abbreviation": "OK"}]}

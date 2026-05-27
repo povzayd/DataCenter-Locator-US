@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UenXDQVYO4Im7DShkdIKZmdTxnZOPR4%2B3SzYt%2BViSObjC3n25g13wjZ%2FriSKexE%2BanEDMtSgcrKFxue10FV6zGluFizaOpuMS%2F06cBhP3Mz0tOrtMF1SfTmbJKtAsAkmdcHe"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5144
+Last-Modified: Wed, 27 May 2026 05:36:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326d8b3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31822", "places": [{"place name": "Pine Mountain", "longitude": "-84.896", "latitude": "32.8735", "state": "Georgia", "state abbreviation": "GA"}]}

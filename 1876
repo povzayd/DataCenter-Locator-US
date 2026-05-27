@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GkTyUZWzUD6TnJtv5zjWywdMe31sKmhd3rMaZUQp7btb4p6YHetFGwfDTRzncmgI%2FUhjxj4s1UvVRbN0q%2BfRy2akUhUBxWsWzYHxxPJze5n4mtP7YTi%2B8rWo9SU7%2BLGbzQY3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:30:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3203abaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53177", "places": [{"place name": "Sturtevant", "longitude": "-87.9031", "latitude": "42.6967", "state": "Wisconsin", "state abbreviation": "WI"}]}

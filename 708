@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hR7qmsW8og3ombTYgizaL0LPRWYunBTNQKA45n0lhstryE4Kgh8DcBwKEvd2xuZCeOAdO7i1do5S9I8VnKHkvKPj7Hsh2gj44J7nFWQP%2BIP3DwKCdNzEb61gCT8HP4gVw%2FT6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3886
+Last-Modified: Wed, 27 May 2026 05:32:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ffc9a2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60073", "places": [{"place name": "Round Lake", "longitude": "-88.0888", "latitude": "42.3668", "state": "Illinois", "state abbreviation": "IL"}]}

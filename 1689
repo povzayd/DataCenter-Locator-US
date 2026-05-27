@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0tX9Hb1qwYeKYctHtsceCu6wQ%2B7yyZIE60LL1E8lYg7qK2FXwqFAlJOtsk9b2D3Mw2FEr5zGYGRRi0L1ON9jmbP9kjPcc%2BGLrBpuH75HZOK3kB3P0OXrnKc%2Bn4xG1NtcgoRL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6478
+Last-Modified: Wed, 27 May 2026 05:30:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e319dcc9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43078", "places": [{"place name": "Urbana", "longitude": "-83.7671", "latitude": "40.1066", "state": "Ohio", "state abbreviation": "OH"}]}

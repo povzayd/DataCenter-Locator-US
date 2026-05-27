@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AVecoPQWFrdzozlccD7CKxde%2FarDvaXx5hARiZLFz%2Fw3sOpQvLxLc5sL6BI4ywOzftjv2DI7eekPYYU6ua1XDM0GecPcoUgyWz7hcYJ7xdVpIlql45dZboj3gFw%2FkY%2FwDi36"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1602
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30e3871a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "02917", "places": [{"place name": "Smithfield", "longitude": "-71.5207", "latitude": "41.8964", "state": "Rhode Island", "state abbreviation": "RI"}]}

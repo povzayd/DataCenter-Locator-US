@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1gHreKmLalw1EJGWrUDx575%2FhWB8amqL1j3vGCQHqpTDZYZb3ARllM5R1ga9H0eV5R7M5tMaHJtjpwoejJD5KbQBtDMyvu9bcBVmlDZalDRngCyoTPWs8CywIpyPzQQSYCsY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1498
+Last-Modified: Wed, 27 May 2026 05:52:13 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fcbf00a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75160", "places": [{"place name": "Terrell", "longitude": "-96.2831", "latitude": "32.7515", "state": "Texas", "state abbreviation": "TX"}]}

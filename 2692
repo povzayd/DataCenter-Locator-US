@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eaQG2MP3i1G2wYBqqeSne6UUlqEAXAXr00Zo4tXJjj9kLGD3BdNVPf2zLB0lI8cZzM7m7UtNaYaoi1iLDEQ0Oa8vX1OdJ%2BvNb6vokuvpmaioIX38DxirBUMgupshq2%2FNDRjC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33758f9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75840", "places": [{"place name": "Fairfield", "longitude": "-96.1572", "latitude": "31.7361", "state": "Texas", "state abbreviation": "TX"}]}

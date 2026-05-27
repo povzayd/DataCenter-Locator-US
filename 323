@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CjbF2ALb3FPIP%2BQDeCMpJdwrAKh9%2B3YyBW3fFPmrZ61nxenK3nbpMnetHO1H72OEYlTTkX71xrhCOQxHlMO5GTStM2coWFD56uySHEkxW%2Fm9g5rnTOtC0y%2FX14ZC40PKCus%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1555
+Last-Modified: Wed, 27 May 2026 05:52:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f719fba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77474", "places": [{"place name": "Sealy", "longitude": "-96.1592", "latitude": "29.7826", "state": "Texas", "state abbreviation": "TX"}]}

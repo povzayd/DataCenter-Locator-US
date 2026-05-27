@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qbLt57RmuvNHMxaJW6y3edLppepOwEQ5%2BjcJxsiZ5QajKoR8EnyTIwn9%2BJm%2BToGZAXBSg%2FVriivhB%2F6tH%2FUG3dEBDcXLqxfjQINtIsJB4ByPu1JyIblUqFx7dLpkfqov6U9y"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4563
+Last-Modified: Wed, 27 May 2026 05:30:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30b8d57a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75482", "places": [{"place name": "Sulphur Springs", "longitude": "-95.5922", "latitude": "33.1345", "state": "Texas", "state abbreviation": "TX"}]}

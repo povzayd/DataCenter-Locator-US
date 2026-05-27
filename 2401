@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OSd3kMs0kBD3cWgiN6%2B79WpChlFGoYfOCHDSI0rD4bAiS0yHWlKwmsw62EODNA7CQRHZaC82kDC92lLsH3H%2FfI3TGQtWarmuP6DPf%2BafSYEaGj1QSmNFL7HAUViUmoZbUWWc"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e7885a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "39577", "places": [{"place name": "Wiggins", "longitude": "-89.1324", "latitude": "30.861", "state": "Mississippi", "state abbreviation": "MS"}]}

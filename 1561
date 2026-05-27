@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3nkYtM%2F0rsT1m6RdyWtxZMUEl9N2S1RDDxU6sULUpbeJdndRc5AUHDjKlE%2BU2mxHqvlT84xtqVHTyPGp4oS6xB%2BCJzvo11HOvBN3%2BWxWYd%2FVgNSAt3PvNixFBiIZzFHFdXeP"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1605
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316597aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78644", "places": [{"place name": "Lockhart", "longitude": "-97.6769", "latitude": "29.8868", "state": "Texas", "state abbreviation": "TX"}]}

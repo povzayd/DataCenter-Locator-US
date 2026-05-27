@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rIRTurnUeRaZO3Gk0%2BIJMFMMTGOYpLpBN1aBgFxIU%2FsiYdj3LCYIEdx6oDIh%2FmV33Pyor3B3059T9q5P7SGzePOJ0Nm%2BUHiJwP%2Bu6We%2FZ6DHBzh3eVXRYhq1piT6S1kHZ7NK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 486
+Last-Modified: Wed, 27 May 2026 06:10:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3156882a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48111", "places": [{"place name": "Belleville", "longitude": "-83.4854", "latitude": "42.1949", "state": "Michigan", "state abbreviation": "MI"}]}

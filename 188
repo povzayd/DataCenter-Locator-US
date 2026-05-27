@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wNSwhk2lR1f4D1PAhTVUTWE0CqUG6sCyMmo9QTG%2BjruaLl427HM1LkqA5JQlBU2OtkidjCM7sY0YfWBs8rp6TAolQP5jN3DuipYZ4AVtiuegAhwDfsRLY0%2FWYFBCh7MyRcck"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6048
+Last-Modified: Wed, 27 May 2026 05:30:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f34eb3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "67357", "places": [{"place name": "Parsons", "longitude": "-95.2693", "latitude": "37.3389", "state": "Kansas", "state abbreviation": "KS"}]}

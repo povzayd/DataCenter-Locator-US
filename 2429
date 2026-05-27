@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JyiTbbMtdAV%2FJX0W3R9bxOAXkTC5B0DcYd%2BTRalHZl5GXmr144bbgmebJaya%2BdmXp%2BkFC4xRm2ntVVMVGLNXLp8U8qCowZdj4YmZaJilXcGdx9KbX5mw%2FjQ9AnZuXkC49ie3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1514
+Last-Modified: Wed, 27 May 2026 05:55:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f08faa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19355", "places": [{"place name": "Malvern", "longitude": "-75.531", "latitude": "40.0468", "state": "Pennsylvania", "state abbreviation": "PA"}]}

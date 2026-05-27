@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XkBvHElYv%2F4TkZTgb3y%2BNTdIyXVZoDt3NSbdabfHiqcBTmrILloTfdTapMCNzQhZxlN%2FDPWmz%2Bs%2BzcuN%2B%2By3IBwB4TCZbXP8xnSJpsK8nn4X4z3f9TyYv27SVNEvqj4zMTZf"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3817
+Last-Modified: Wed, 27 May 2026 05:34:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31689aea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29472", "places": [{"place name": "Ridgeville", "longitude": "-80.3086", "latitude": "33.108", "state": "South Carolina", "state abbreviation": "SC"}]}

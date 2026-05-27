@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GjS4STrZ%2Bc1GPspuehpGRO9EaVm6fhBgBLif0pQA2JyQ%2FUS15ZaKp14Fb9Q2QOmNSO3Nv%2FmKEfHtnQeFZRGoA1tfyTDebeaOcwxgurBf9KdrSFONw6EBKxXFWnri3XsRrMDz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3231
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f6b9a2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75492", "places": [{"place name": "Windom", "longitude": "-96.002", "latitude": "33.5633", "state": "Texas", "state abbreviation": "TX"}]}

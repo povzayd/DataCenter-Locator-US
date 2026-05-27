@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CsBNz2a8uQet50z%2F8o4dv8CPR8vpvaILaKq1AZHvmHbZLs0qn6r3So1k1%2FysGq6YgHQdwBfV1DQ5TUcB3c7GNrKjtzjzEhTq8VGSjlxdoszgQ5fm58x1q1wnm8zbYTLSmWP0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3826
+Last-Modified: Wed, 27 May 2026 05:33:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e302ec3ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36260", "places": [{"place name": "Eastaboga", "longitude": "-85.9608", "latitude": "33.6031", "state": "Alabama", "state abbreviation": "AL"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EOZOAclGDe%2BSkk%2FABlV7Db0Qs6BAxXcvq9QKC2f3mdiRBXDxTiqSFkDfj0%2Fe5dKWznRQb1iMqNFqa08GdyLGWI2Gwuk%2Fgo1Tf8ZLR0C%2Fw%2FWZb3rqMFhTzB8bU07rdpyoWznN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5136
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f64940a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17602", "places": [{"place name": "Lancaster", "longitude": "-76.2844", "latitude": "40.0335", "state": "Pennsylvania", "state abbreviation": "PA"}]}

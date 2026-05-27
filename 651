@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0PCD%2F59AiFA5%2B8sfen1Rcuk%2B5tefzAvn7g9Dzxtex5jsFP0Jt%2BDJLKuMRYRjKCG6qGGsGZ2KeJwKBOpLU%2F4pz9qsAQ4%2B2j%2FAqgL56xCZ7uyg5ScLkpJLyGtp6ssxuLakK5un"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1468
+Last-Modified: Wed, 27 May 2026 05:52:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe889aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "95640", "places": [{"place name": "Ione", "longitude": "-120.9418", "latitude": "38.3324", "state": "California", "state abbreviation": "CA"}]}

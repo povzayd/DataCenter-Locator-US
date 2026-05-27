@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4dZIAwnYhcd5TRtEIVrtU6kDuSo83lUvXgzaJM2iugl6N78bliz0lwEHqCKRjydYm1J2vq3i2KyU9FPtgC8WkysXXiRXJ%2BWAKmTtrpW8VR5YwI7aP1B5JYVS3aNkj8rd8xE5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:22 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3260fe8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79258", "places": [{"place name": "South Plains", "longitude": "-101.3031", "latitude": "34.0715", "state": "Texas", "state abbreviation": "TX"}]}

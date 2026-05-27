@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SjhDjV6R2D%2FWMAQwiWq1gZLmhnRCsBZ54VXZ84B6PXi2OHcnXBpPzKRTKVinO4mUfCvITtk%2Fgu1mJoIXyuNZoB%2F6nHjeaJtQqdZJwSy%2FQ%2Fq2IEGfkGc9DwFJODEcQ8lg1KE9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:22 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332ecc0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76711", "places": [{"place name": "Waco", "longitude": "-97.1547", "latitude": "31.5175", "state": "Texas", "state abbreviation": "TX"}]}

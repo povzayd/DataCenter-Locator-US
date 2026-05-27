@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PYc3tuQ3IJugVjtvYk231wYyh9b%2F2y%2BTJnqUdgUCBUtQ26tLvJBogfNqtFRcIMGadbuMYEXmVitqhOdhtoHr3kTEHw4%2B7mnh2p6AN6IfOQ4S02gpT9ZgCtYQD5iZScrefw%2Ba"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c3e73a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19087", "places": [{"place name": "Wayne", "longitude": "-75.3999", "latitude": "40.0612", "state": "Pennsylvania", "state abbreviation": "PA"}]}

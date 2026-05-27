@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qjb%2BYkd6uNsONfm%2B7KOrjKzhKmbes2LW9kqc8%2FmjS10Pw1XuylusNOW396YWjFrHEiKcFeDkUMe5wp16Ks5EvFK6JV0C7lXuNQkMS%2BuZAC3MTPs9uDOjhhqRHZkOr0LJGIVR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:44 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3281a04a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "61108", "places": [{"place name": "Rockford", "longitude": "-89.0235", "latitude": "42.2514", "state": "Illinois", "state abbreviation": "IL"}]}

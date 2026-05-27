@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lp0v8mpEIn23avyfhPYsZpg39%2BMG6%2BYyEsAn2Txcbad0EK%2Bqu7k8k0joopx8R0gz6ASO%2FXWdHyRhJ4xPNMF%2F%2BJD6vHJ1BHYTPEgaOxrRWS1wG2dGUSmnUD3nDfjE8EPJPuYE"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5704
+Last-Modified: Wed, 27 May 2026 05:33:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30d7f8ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78660", "places": [{"place name": "Pflugerville", "longitude": "-97.6299", "latitude": "30.4421", "state": "Texas", "state abbreviation": "TX"}]}

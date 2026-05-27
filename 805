@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tiOKyAVJeyDcV%2FWWy3LEzNNJ0K%2BSNpCKxFTHyu3K6fBxZHYteA6RbqX2m5uogl9JAnI97HxVrwxmbm9uh%2FOtwLDVezJTW6YNpNWiZIHeDQJp6%2BVJUpoZlChDugjOYWjktIXi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1603
+Last-Modified: Wed, 27 May 2026 05:55:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e302bc0ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62692", "places": [{"place name": "Waverly", "longitude": "-89.9449", "latitude": "39.587", "state": "Illinois", "state abbreviation": "IL"}]}

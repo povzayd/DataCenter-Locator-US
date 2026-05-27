@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=62Zqx8nsB8QrxNH0IiwKSGf3X%2BsarcSOFjpITyLVnw2vKF1iclrYCxIJA%2BAqPZSnxsDoJItK29rTmO1%2FC2lnJwMxfMwZ%2FoRvbxrqPHayqs0yEjT92IZWEK18rSgTyjb6tWjM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:22 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3260feba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "73110", "places": [{"place name": "Oklahoma City", "longitude": "-97.3974", "latitude": "35.4605", "state": "Oklahoma", "state abbreviation": "OK"}]}

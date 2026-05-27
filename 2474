@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nJ%2FaKQmKJdvCood6DkOCjMBLInK4LDHE9LAG3sLKrkSul6CaaJS3l27Sf%2F%2BAFEn%2Bi45QhNU9JOLaR3h77o6m81E0aLQxAEnT3FYRTOHFBVN718o6zTAYkEP72KmHeR6P9hAC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330cac6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "64848", "places": [{"place name": "La Russell", "longitude": "-94.0329", "latitude": "37.1739", "state": "Missouri", "state abbreviation": "MO"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2ByflGGwvUCwg9pWPEqLhrMK6inz%2Bk1TwCVE8UQuUN%2F7ELydv9OPsDBruX%2FB27Q7kmOAAsfPH4tSf0HSLR%2BMESEH5%2FpEqzEpftyxg6SU9Pl0AW%2FSzVNTtrsvk4uc6e2%2BFTNYN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32aaca7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "71107", "places": [{"place name": "Shreveport", "longitude": "-93.8738", "latitude": "32.6016", "state": "Louisiana", "state abbreviation": "LA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MI5R9hrnALqSs6qmrIEpiKofeCyYJdWsCnubfjdKx2e%2FT%2Fvv%2BVreYJoogR8ljK1ffpO5ifRWhF01XrfZI1d2fbBGcfB2sQ5K8ixZug94DOMPKGgJj74ZGHXmuB%2FQCXBk6%2BY8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3137
+Last-Modified: Wed, 27 May 2026 05:35:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b9e6ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15613", "places": [{"place name": "Apollo", "longitude": "-79.5772", "latitude": "40.5565", "state": "Pennsylvania", "state abbreviation": "PA"}]}

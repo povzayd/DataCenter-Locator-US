@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MRjb%2Bmy4d46PnHjTCuD4iYwK%2F5tbvDrCyTY79k%2FzG3SeugzqRl%2FauYhe1edkKRyRk0AMpMQpeuj4xuqNeERWKqo5Ir0YB%2Fq9AT7tJgGEN8%2F61G7p8OycTCXNqn0v6fDo54Dm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4907
+Last-Modified: Wed, 27 May 2026 05:34:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3103af1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "07733", "places": [{"place name": "Holmdel", "longitude": "-74.174", "latitude": "40.3859", "state": "New Jersey", "state abbreviation": "NJ"}]}

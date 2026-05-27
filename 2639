@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3fVtawYygChk8h0R3BKFGIH5vMx3IhF%2B2l5Id%2FcGM2jrEoTqhd8j%2FgqgCzNgupB2h8w00xRrhdipgQV6FxNVDyCW%2F2gSKhv53dLg78aR228vn4D9FbEFZgQ8%2BWds5A5J6brl"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1507
+Last-Modified: Wed, 27 May 2026 05:52:12 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3364802a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75158", "places": [{"place name": "Scurry", "longitude": "-96.3925", "latitude": "32.4818", "state": "Texas", "state abbreviation": "TX"}]}

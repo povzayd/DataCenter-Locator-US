@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mzbblxfDQysDeWJAQp8XaezG5XyfRp3K63nqhMTZhKBL%2BjpGp4YqJkKhfqYYn5TyWWhDRm8FgyqWSILfr%2Fk9PcHLitSy30t7BTLELOTmoWDDbAyoLjui%2BIDFfwi0idMMX1%2BB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6470
+Last-Modified: Wed, 27 May 2026 05:34:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316a9cba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78626", "places": [{"place name": "Georgetown", "longitude": "-97.6707", "latitude": "30.633", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4Due2eXGlzuS64KXTu3laR6tjPLMTQbfuJIxNHo7kiO1QeNSRhdlqgJLVJ9ZITaJLDMChJvCnjiNo3ow4gPWXhEI6OJL9DvW6%2Ff72WNToUWsbdZd%2F0BvHUBY6jlpSgWJeaZb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1603
+Last-Modified: Wed, 27 May 2026 05:55:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fdbfeaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76048", "places": [{"place name": "Granbury", "longitude": "-97.7742", "latitude": "32.425", "state": "Texas", "state abbreviation": "TX"}]}

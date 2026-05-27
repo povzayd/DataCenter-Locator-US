@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zUkvd4A5ioMaLl6GdbyWU9Odp75%2B6kfh2l4Kan3Asfvh7L7niRUJ%2FTRA97%2B%2FInEGBWrfdoHr1%2F8Bdc1oFZg0xdcoZeWJUi%2BqCGQ5BikWxwIR4MJ9sRjPgv7%2F55Wl6IQ72dNz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 149
+Last-Modified: Wed, 27 May 2026 06:15:05 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fde812a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14303", "places": [{"place name": "Niagara Falls", "longitude": "-79.037", "latitude": "43.0878", "state": "New York", "state abbreviation": "NY"}]}

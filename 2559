@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kicu2DmF3LLrUZI41C9mR2%2FKamkjtcrFhYIL8UkolyGT3TqnHfU1uecwkILjQpZGUTJT4PJNBiAMVA1XP3pmiFJzfbfqR%2B%2F27aGS8S5Tc%2FZRnPuZF4pIwVw6B%2BU%2FVdpRayAr"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e333bd9aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22124", "places": [{"place name": "Oakton", "longitude": "-77.3233", "latitude": "38.8852", "state": "Virginia", "state abbreviation": "VA"}]}

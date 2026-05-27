@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HMYmmbLW5We6EnvKNY5lgbqEC1olzlaMuLKZTrpJeJCgBSqYWvn%2F1kH9P11t1ZO2StFhiSHhPmTLp%2B7%2FATo4bVjt3sBzotLo6P0U1O0f24rEFL20iIRiZ09%2BgFFWD7xzLY31"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3820
+Last-Modified: Wed, 27 May 2026 05:34:05 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e310bb7ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76064", "places": [{"place name": "Maypearl", "longitude": "-97.027", "latitude": "32.2993", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=txbtJ%2Fi36aTDYWKyH79GUjE1eJM3mFKK6ZAVWD2M3ycvvLCO2C%2FLoT7IlhxKQgXdz36X9nyCBmYF2Rn4QKXZyValoNYws8kN0P6I6UlHDOa1lwfkqtJm72PM7nMeMOxgEvPk"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5150
+Last-Modified: Wed, 27 May 2026 05:34:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f5969a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20155", "places": [{"place name": "Gainesville", "longitude": "-77.6216", "latitude": "38.8157", "state": "Virginia", "state abbreviation": "VA"}]}

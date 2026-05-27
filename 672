@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t8j%2B6JhJQ9WcrCGNCDqNSYTha%2FwVskBUGQVQniwQK0RxI9C%2BHXiOdQxJi8py7AstPN1Jzge9Fm5Ez2ihoTAsLBRNPM3EdVsjjSZ%2Ffx5vJOtWHH4d8M5USSNyGqTFiKkb9f%2BJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5517
+Last-Modified: Wed, 27 May 2026 05:32:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fef900a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "24175", "places": [{"place name": "Troutville", "longitude": "-79.8786", "latitude": "37.4019", "state": "Virginia", "state abbreviation": "VA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k%2F877%2BDHVBGsrQbqMbQTcWRYzQ7%2Bi2bI6VjawkHb%2BYmjVS6oBqgISGQJtGppPJPw8r5hIzbMjTBbTz%2FHLQCR3Ud%2Bi0BdI1jpvp91dpklYWuDAExpzMsuW4zlifqR8zPNWstg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3282
+Last-Modified: Wed, 27 May 2026 05:32:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fff9d3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "25661", "places": [{"place name": "Williamson", "longitude": "-82.2642", "latitude": "37.6902", "state": "West Virginia", "state abbreviation": "WV"}]}

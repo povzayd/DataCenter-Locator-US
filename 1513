@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IGFI2GE5TL4x81PZ4sCVR2wRWKL4ibVh%2FTNgmN1VePL9xJErVi29T78sGlXv2Y1C6vqfAtUsVLVuH1hclGwbaKRvUUgEuWIx3kLozLazVgZq%2BqeqM5GtHopNZ5cumqjO%2F6wA"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1472
+Last-Modified: Wed, 27 May 2026 05:52:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e315687ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46350", "places": [{"place name": "La Porte", "longitude": "-86.7077", "latitude": "41.5994", "state": "Indiana", "state abbreviation": "IN"}]}

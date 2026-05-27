@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7x%2FsvkRDsqug37ff5sys5Dwt2wdmmxFX4WSSjuyt6CLEHODjjcbHasC5IBGyDa5P%2F0LOZLuxQxwZEJc708R1Za0T6NPUDYvZ9f%2B%2FXM%2Bey83wHNqzO%2F669jnSZl5FJgJLQcRd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3348e69a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "32628", "places": [{"place name": "Cross City", "longitude": "-83.2032", "latitude": "29.6372", "state": "Florida", "state abbreviation": "FL"}]}

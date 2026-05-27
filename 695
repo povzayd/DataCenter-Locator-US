@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1kf05hTD5nn0a%2BIN3%2BfAJuKJ6mJ46XUeO7yhz1mJ%2FRlNmyyTFbsgXmU9ZLqLD86HWgjsSEvW3diaubmARhuXw8W3pg%2Fa0nOnnfqtzyjw4NBZ0RvUQfMnuXa%2FPGzXoN7HS68A"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2864
+Last-Modified: Wed, 27 May 2026 05:30:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff5951a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "44646", "places": [{"place name": "Massillon", "longitude": "-81.4973", "latitude": "40.8116", "state": "Ohio", "state abbreviation": "OH"}]}

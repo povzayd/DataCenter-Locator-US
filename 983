@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wGooKA3w3bYnib4yhxqhoGJBvVuyX%2B5sYxll2VpOZeXfIT5kdbcqlc4Atl0aXLWukd%2F8pd2TB9Ef5%2FIHfh12yI%2FyK7Ss1QldTHrL9lS%2FtzFAHfsryiOxRciqpPlIrUCSqMuS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1610
+Last-Modified: Wed, 27 May 2026 05:51:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e307a8e4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75414", "places": [{"place name": "Bells", "longitude": "-96.4237", "latitude": "33.6178", "state": "Texas", "state abbreviation": "TX"}]}

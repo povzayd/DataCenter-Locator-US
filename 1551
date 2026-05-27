@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rvuywEA7y4Xk0KoQFcylwqPLWIIJ5dJBWaaGNlV8iCCBnCRMI2cwx1AWAxU2crUmHmG1CIRhAPq%2FOSBJGz%2BR38ur3VSQpgvbNnMTEbE4ZrcbhAszlJWLjNQekFtmGF8vaHN9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4982
+Last-Modified: Wed, 27 May 2026 05:34:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3162943a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43040", "places": [{"place name": "Marysville", "longitude": "-83.3622", "latitude": "40.2477", "state": "Ohio", "state abbreviation": "OH"}]}

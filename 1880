@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qXZ3yKE2v6VSLQE2%2BdM5rjOBOHP5aEApmNbk%2BuI3uenIN2vyN2clNkEOhcO1W9LqCaH%2F1AuksgfCoq4No4blHlX1KU679xgVuIx5GFj7aTLrLAUQV6ano4tWbGxAAWmyL%2B8r"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3798
+Last-Modified: Wed, 27 May 2026 05:34:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3202ab7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85355", "places": [{"place name": "Waddell", "longitude": "-112.4387", "latitude": "33.5673", "state": "Arizona", "state abbreviation": "AZ"}]}

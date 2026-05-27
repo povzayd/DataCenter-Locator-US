@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3yJPFvB8b3QH6qETAanF3JCZ7CP%2BFjPk%2Fl2KSvPu34iigVpY1h5Cq0XueZ%2FMZY5V02dOp%2BCaemmAVIANtKCJVOdvfkoZqAfIIerhZ2Ob8yO4%2BhQmIk7Cgoy6rpvclSzs6mlw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1467
+Last-Modified: Wed, 27 May 2026 05:55:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e304fe49a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30232", "places": [{"place name": "Inman", "longitude": "-84.5044", "latitude": "33.4038", "state": "Georgia", "state abbreviation": "GA"}]}

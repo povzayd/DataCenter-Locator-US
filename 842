@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BYlPCXjVrtgGu0eCPs1pXv1uwYJ9sV%2B0%2BaxCp4yYPyyx3Ok0Mr6dnUgwJ9RyUehWDElgst26IhB62bbxQ3bmHJkhMlr0XCLgg%2BQFikHLxYpcWh7mo%2FbLYmCDdjrLvjDwms9s"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1508
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3038cd8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72801", "places": [{"place name": "Russellville", "longitude": "-93.1315", "latitude": "35.2842", "state": "Arkansas", "state abbreviation": "AR"}]}

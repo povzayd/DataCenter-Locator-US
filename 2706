@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2B7NVToM6v6M4V4agOKd%2FRgevdj6a5D9gsRebicdl2yggA%2F1JtGRO68VLy1Qhq89Tf4rLIBCTevozoDcKisMqngis80kNZuDTEX08%2FOBqPhwyxo90SW2jrmQAxuPspzU44i4T"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e337b966a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18372", "places": [{"place name": "Tannersville", "longitude": "-75.3244", "latitude": "41.0472", "state": "Pennsylvania", "state abbreviation": "PA"}]}

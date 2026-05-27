@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sdWwfq7oQoiDRs0yf57aDGTNqasd304cRq4KtB587YcEHnnLSvujcDiWnuYvRse4F2XAKbSU3roq7sTEqPzQKRHL4CyWjUMCk%2FppMAAf%2FEpYgTw6UmTF1YSpy6z5Nyff%2FhKF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5517
+Last-Modified: Wed, 27 May 2026 05:32:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe687fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "99180", "places": [{"place name": "Usk", "longitude": "-117.3189", "latitude": "48.296", "state": "Washington", "state abbreviation": "WA"}]}

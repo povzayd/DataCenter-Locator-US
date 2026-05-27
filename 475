@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xvP77b5qgl%2Faw%2BBBCK9R4tHwabwsPG8obD5twPtt3M5duXpIHCSmfIryLg%2F3AqEDQTjaMySL49m3GfKDUTCGjP2RmcSqdUJPSjQnAM0FPQlCz4BuE2yO0Wk0mobWYcce3O%2B6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3549
+Last-Modified: Wed, 27 May 2026 05:30:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fb1d6da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14020", "places": [{"place name": "Batavia", "longitude": "-78.1929", "latitude": "43.0003", "state": "New York", "state abbreviation": "NY"}]}

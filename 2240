@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1gub0rciHIz0WbldIF24pJSMePm%2BthXHPlntuUUMF67ahyioX56RXQqI08TDHOyQdEZLV%2BlQ42xr8Tc7xpJX0xwdtJrpRPTDKYvSlN6hepWTCqC2RflVwqxZKJyCxjmDG10B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5148
+Last-Modified: Wed, 27 May 2026 05:29:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e329ebcea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "92251", "places": [{"place name": "Imperial", "longitude": "-115.573", "latitude": "32.847", "state": "California", "state abbreviation": "CA"}]}

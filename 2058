@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YfemdHa7kH1ddTDQtj7D774zFmz87gngRD03lqoDDB%2BSyzrLe3lvil4N5BlzVqc9ms54mYpJgfQmaXsXgKy8ckghESx2Yjtu0NAEt5YFvOumED%2BYrAjSf0KFkAuevt73kv8p"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3572
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3264817a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "38464", "places": [{"place name": "Lawrenceburg", "longitude": "-87.3526", "latitude": "35.2507", "state": "Tennessee", "state abbreviation": "TN"}]}

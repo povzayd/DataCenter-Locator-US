@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7pyrbRx%2BEDlgXPb1AG73ojghRtjrsZOw8qFXUpP9RYbOEIS89E7S8u1n6nXhKAqgCw%2Fcele1%2F7rz1xOFztubARvs0iOHqsb6fPY3aFVRJnhBeCBxeBKp9M2%2Bjqhn98Kvd4%2Fv"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1302
+Last-Modified: Wed, 27 May 2026 05:55:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3149fb4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17113", "places": [{"place name": "Harrisburg", "longitude": "-76.8416", "latitude": "40.239", "state": "Pennsylvania", "state abbreviation": "PA"}]}

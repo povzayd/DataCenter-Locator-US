@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MZUVgCp9xY%2F88bFC2uk7cxRWKRUI298%2FZ1gPhO2rReb1oizn%2BRYa856Rlz8BAm1y92z5HM8GTeKCDyvxHFnl3IF7eD1h3xinrmUXRbQcuAbe0uMH5txzrpikbcZeKkprFa4r"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1466
+Last-Modified: Wed, 27 May 2026 05:52:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a4c38a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45356", "places": [{"place name": "Piqua", "longitude": "-84.2531", "latitude": "40.1486", "state": "Ohio", "state abbreviation": "OH"}]}

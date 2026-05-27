@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tr%2FlMXA4d2spvToZ6i4SmphUt%2F0BZUjQswCZo7d7aE3gxx3MZUwLB%2FhDJ4ZFCasvehB4nE8KEvTGLITWbhk56CgugqrTzEuNhDldhQvQUjrlXqOYc8kzgqmwbLNlT%2BWr6g8o"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3226
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30bcda4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27330", "places": [{"place name": "Sanford", "longitude": "-79.1717", "latitude": "35.4698", "state": "North Carolina", "state abbreviation": "NC"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zgc4IAJRPZRpb9ZIMLd7aPQr8yIJRsY8%2BFdPGmSEmkuuiGyfRd1Bcm3WyoNMaxQt0H5tJ7QDYyxlS%2FLhLRmAhSNN8es5n1P94alljoBbs2GQWp7KfljizSRPIwJH%2Fy7VdgHV"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2edc9a7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "07860", "places": [{"place name": "Newton", "longitude": "-74.8069", "latitude": "41.0695", "state": "New Jersey", "state abbreviation": "NJ"}]}

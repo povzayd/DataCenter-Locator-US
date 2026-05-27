@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=St0Mi4q4AqwnKHFGPHNCF2%2F%2BKBQqj0iuHQ1PtTImYTM52M4ath6%2BdTKxgMxFGW9YlEfYYQM4Uu42PcVxIT%2BVrkGc5zTkBI2I3iGZI9paCNMy00kdqHr0F3dvJf%2B2kV5xn0JO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e336a85da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "42127", "places": [{"place name": "Cave City", "longitude": "-85.9443", "latitude": "37.117", "state": "Kentucky", "state abbreviation": "KY"}]}

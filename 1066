@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tXvKL9LNmJjxNnyQGE1RWx2UCOvv1FawBGy9Da5IthopkiPuJi0U2lxLXUccyWHNOVytQlkrMfp85BXE8nfkV%2FUYsHpgCeGC%2BBaQnF5WtcnVPr3Pl9%2FIYVfwChzLp93UKMTH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4909
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30a2bafa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48165", "places": [{"place name": "New Hudson", "longitude": "-83.6342", "latitude": "42.5076", "state": "Michigan", "state abbreviation": "MI"}]}

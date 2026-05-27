@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Zb3P7xWxzSAHxpO9cEXedQ7uLfTWpytoBsEk0c6U6w6UYjrAulGa0wt9AMGYgnCjFHBXgnkQxdJbtYLowjizDwjz1Bd3I3LWgig2N9hBJPHWKMScScptSzhoJHtZ4mQRC4dI"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3529
+Last-Modified: Wed, 27 May 2026 05:33:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e307a8eca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "24522", "places": [{"place name": "Appomattox", "longitude": "-78.8224", "latitude": "37.353", "state": "Virginia", "state abbreviation": "VA"}]}

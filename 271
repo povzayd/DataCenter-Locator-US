@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vVip76%2FG%2BUx411vyDwA1AxUZ463g%2BEneddYZrEc82CybdB%2FOLfLwMy0PjGuFOTxCh%2BA9q%2FgOIfPJAKSzbn7glALo6wBTWMevpDCt0EAzeF0V5VZag2VizxWuiBF5y35PqmJG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5f8dda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28633", "places": [{"place name": "Lenoir", "longitude": "-81.5398", "latitude": "35.9376", "state": "North Carolina", "state abbreviation": "NC"}]}

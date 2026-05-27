@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HmkR%2FsiO%2BQbPiTRInrfyj5nFqpRmoq2A8ER7wL82sKXiX1DmjEnwIsJ5apbGabhau%2BFlYHkww1%2Bsh22K6GNWLERYfFMCvmMCf7x3ekHQTANUmDQU1EJn4QUuNPUycF2eN1t7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32deff1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15063", "places": [{"place name": "Monongahela", "longitude": "-79.9241", "latitude": "40.1937", "state": "Pennsylvania", "state abbreviation": "PA"}]}

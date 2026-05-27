@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cache-Control: max-age=14400
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A5zNXdJhye9nE99Xfzh7fXmHWS2OomsO8t6gplg7Vc8%2BPZ968qiMCdtx%2FjJ%2FEzxOwj2ObJGK46VL01QJ1fnzXnH8tGJvqQFUHT8syWRvJxRaJmbiSebLt4SKth1cN8Wn5YRS"}]}
+Age: 3229
+Last-Modified: Wed, 27 May 2026 05:30:21 GMT
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f9cc38a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31020", "places": [{"place name": "Dry Branch", "longitude": "-83.4558", "latitude": "32.7151", "state": "Georgia", "state abbreviation": "GA"}]}

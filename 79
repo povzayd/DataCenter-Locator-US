@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XmWliQJm8fv9jJEyHdpCkZjz8bFzcsyhUky86aPHWSBRv5h8Ev2qYKwiDiKWy4F4zTcUtf4h%2B%2F9h5Aw1Hu4HtAJuEdcmwfuNn70l%2B8dmd2NboUWCPHKYXnAiFl%2BWCDR70Ric"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1394
+Last-Modified: Wed, 27 May 2026 05:55:43 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eebacfa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89447", "places": [{"place name": "Yerington", "longitude": "-119.1596", "latitude": "38.9866", "state": "Nevada", "state abbreviation": "NV"}]}

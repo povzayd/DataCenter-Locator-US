@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Dx5UhS08fh2n%2F9B%2FfuKqszo7793PqGWmaQQ2gCSTdNS2DoqfvL6nIa0G%2Fyv3kiuNKLUlV7vQQ%2BtkwaQgXrv0WXa0UDnvJpUhEsWQPmxyYfJ0smKGq9ZqqbpWhbji%2FnerJMva"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1821
+Last-Modified: Wed, 27 May 2026 05:52:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fa8cd0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17015", "places": [{"place name": "Carlisle", "longitude": "-77.2312", "latitude": "40.1772", "state": "Pennsylvania", "state abbreviation": "PA"}]}

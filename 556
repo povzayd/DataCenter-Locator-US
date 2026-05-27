@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=m0IFOA6rhD9F4wfgMpTRJfeX1k2lNDDjYkXt64unon4sD8OQZi0p6tw1y1gllcQ7oc1oS2Ny%2Fh%2BhSdP1g5CcfCCRptB7V9nhpWjwq3QYmcSdA4DySR8DpHOdqKzpUSkHSE%2B8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4921
+Last-Modified: Wed, 27 May 2026 05:31:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fcbef4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79735", "places": [{"place name": "Fort Stockton", "longitude": "-102.8799", "latitude": "30.8908", "state": "Texas", "state abbreviation": "TX"}]}

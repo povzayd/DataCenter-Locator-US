@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dQyvLw1j94r4tmPfxfxIYEzl2SnrzvImRrVo0LiS62SNA8yAxfNP1ocfssjkTLRhCPOsO5SG%2BwXo3vNA%2FXlH5aO4wf7CEBgpKAOYu3ELqqHXlOty8WjeszGE0ORHvASeKA%2BY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4921
+Last-Modified: Wed, 27 May 2026 05:31:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fbde2ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "64856", "places": [{"place name": "Pineville", "longitude": "-94.377", "latitude": "36.574", "state": "Missouri", "state abbreviation": "MO"}]}

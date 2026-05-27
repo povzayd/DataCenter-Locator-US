@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Nd2Q6e6kwxMTV%2Bq2f6sQVbqKqVrc4bzAOdgIgMBZ6iRlzgPNWmw19mKvEdn5KfKYCFi9G3%2FlaK6gwq2NuGETemVW3gkVDiIlaJC2u%2Bh0x9I6AUAy%2FU7WRpA3%2FjZZCKDvX5kG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4998
+Last-Modified: Wed, 27 May 2026 05:30:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e319ecd5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17020", "places": [{"place name": "Duncannon", "longitude": "-77.0473", "latitude": "40.4087", "state": "Pennsylvania", "state abbreviation": "PA"}]}

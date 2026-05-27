@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BmSdqzCZTiZTZqFouOHKMCZCbuhuawDyizNoZ7JgPzSC1hOQYps4DS2dlPtTtHAyXAS0NYcNbJxlivqi8afhzZiEDR2L48xrAM1y6V6wV00FNSvM9%2B%2Bc4sD62u5ab0lJpFkw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3305a7aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "34491", "places": [{"place name": "Summerfield", "longitude": "-82.0325", "latitude": "29.0112", "state": "Florida", "state abbreviation": "FL"}]}

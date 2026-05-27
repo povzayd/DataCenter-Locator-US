@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BzFzGcjp44YbJP6tk5gQWGbzDx%2FXlJf7IJcTc9a8E3ZoRK0kemeFvchCpyF91G5UVKSmYLivfNgb8WkzO5GDEcNkl4%2BVg1A%2BN7llOShga2X5OFFgeazsxaicXuA0wCME4m8%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5134
+Last-Modified: Wed, 27 May 2026 05:36:44 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327f9e1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "23455", "places": [{"place name": "Virginia Beach", "longitude": "-76.1446", "latitude": "36.8881", "state": "Virginia", "state abbreviation": "VA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NlFLv9duwO2D%2Fjo%2FPqOMoMoUmynpKx2C5i2ePBMc4uSflLDGzbF33xqOo%2BgfYCEiE1UUJGcSK71EWSezJobHpKNpzvCX58YxJ1EgDMfZYiZy%2FpAqGfpyV4MDmGdWlWNJsyH6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 7117
+Last-Modified: Wed, 27 May 2026 05:35:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31e390ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76043", "places": [{"place name": "Glen Rose", "longitude": "-97.7629", "latitude": "32.2298", "state": "Texas", "state abbreviation": "TX"}]}

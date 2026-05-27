@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iCKLfzF0GfMhRjPMuUj1llp6bajeQXJ6ZZ%2FV96mGq6ujZqvBw9T%2Fsinb3fgMG956%2BnhgK%2B7qPTqviqRK%2FK971v22AkFdaG15ef53Nwj3Yk4NezfozB2muwT58xFdKvbqGIjB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5615
+Last-Modified: Wed, 27 May 2026 05:33:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3013ae6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45067", "places": [{"place name": "Trenton", "longitude": "-84.4598", "latitude": "39.4799", "state": "Ohio", "state abbreviation": "OH"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=svQUAgyEuPTy0JcFNgOf4XgHZBm26puVv5%2B8bspbv0fsyx8rtxb%2BYBjmtpynLpd4xwlkMl9ZrxO92ONsb%2FLw620yMH6FmF28nT3yZt6ndpVSz45ST4mnBT%2FbblCvbvWDgPp1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4997
+Last-Modified: Wed, 27 May 2026 05:29:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e306f810a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79601", "places": [{"place name": "Abilene", "longitude": "-99.7182", "latitude": "32.4682", "state": "Texas", "state abbreviation": "TX"}]}

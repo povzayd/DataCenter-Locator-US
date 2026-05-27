@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Gia8q9NVOAYFu2SCc01z7iKYSqDfCrXRIcbrIPsr4kik%2BLXwiSh6w6f2MrARTNpYHONx6j0eTLoblD33mkFFjpCEeEzi1BNaMZUFf%2FrydEyhbjkTSg31MlOPGdeMBNFGrja5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5707
+Last-Modified: Wed, 27 May 2026 05:34:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e6871a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "91748", "places": [{"place name": "Rowland Heights", "longitude": "-117.8969", "latitude": "33.9818", "state": "California", "state abbreviation": "CA"}]}

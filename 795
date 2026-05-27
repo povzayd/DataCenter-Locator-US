@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nn9Dp6xohF3k38gzTCTNh6Gq%2BLsty015UMkOenaid4aN2q1fisX3kC81yXpJvfoPmBTfYghBlIzJUXO1%2FKyE0W0EnVZH6uGj7PXztR6Np1Y7AxCoxoob7KEd80ZoH8YWgFbA"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4991
+Last-Modified: Wed, 27 May 2026 05:33:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3028bdfa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19702", "places": [{"place name": "Newark", "longitude": "-75.6993", "latitude": "39.6349", "state": "Delaware", "state abbreviation": "DE"}]}

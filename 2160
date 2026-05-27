@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aRkMoyH%2FgR0yu6eRV2fpO%2B8HGMVOT2pD%2FwyQplZIg3nt2ONwS1zMm%2BUGwWThlbA5LTocuTxQyfkw6EspfEiCKj2O5xpnKdKAkQUC4L9NOkRMeOo%2B5Wt%2F57jm%2F6YxqeeCGlx7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:44 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3285a3da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58102", "places": [{"place name": "Fargo", "longitude": "-96.8318", "latitude": "46.9209", "state": "North Dakota", "state abbreviation": "ND"}]}

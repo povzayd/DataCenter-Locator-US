@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=L9MqFk6iA4czEhDtK56ldQM0pVMV9LtiQH1b9Ip0%2Fg05824zttP3Ks%2BJaxskDiMthrX%2BwOhPmNmt0%2BYPyIvG29N3PIxnRs9a9Ku%2F%2FQAP8YJCOjjur7RVNbIrzisCXQN8obR%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3227
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2feb8b6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15474", "places": [{"place name": "Point Marion", "longitude": "-79.899", "latitude": "39.7351", "state": "Pennsylvania", "state abbreviation": "PA"}]}

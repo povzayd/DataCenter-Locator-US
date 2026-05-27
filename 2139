@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zuksJYq%2FCFK%2BwQnl%2FcmD7FHUkCGVEPz1wGV1r8BeimjQA9xWCXY21PNbfbxtKn1QOmCFS5tAWGGRTM5OQkQezG%2FiqU1fo2KdJl3RzZKl5%2FJRu%2BJemjiSEkb4VSg0ml8Z%2F%2BTW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1559
+Last-Modified: Wed, 27 May 2026 05:52:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327e9c8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "35022", "places": [{"place name": "Bessemer", "longitude": "-86.9657", "latitude": "33.3224", "state": "Alabama", "state abbreviation": "AL"}]}

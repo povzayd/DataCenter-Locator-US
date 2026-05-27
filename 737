@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=e%2FXAfqAoBqRzPB8JSYHSw73NSxJeC%2FQmfo3rZzn7QTbxKnZHj1PtSyeqrPbr7aGHq10xo9EsV85VTSsF57C3WOXaWswBTL7sOsl8IWXoHIla%2F1sWWY2pZXbO%2FjGtw4B8UVAr"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4995
+Last-Modified: Wed, 27 May 2026 05:33:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3004a0aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "98065", "places": [{"place name": "Snoqualmie", "longitude": "-121.8225", "latitude": "47.5293", "state": "Washington", "state abbreviation": "WA"}]}

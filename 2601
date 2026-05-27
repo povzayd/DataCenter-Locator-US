@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2lj57uqNcTwHzu6ChM3VT1uWQ%2BbB7xKPCRYFWsfHG2DY45oTaCp4ikGdPEFYO%2FXisusGgK%2BonmAXgbw5hqkrvQ7IZmCULxAgLXAMj5Cwlyn5D%2B9XLs039L%2BYUeoUbm7T0cpn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3349e79a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43964", "places": [{"place name": "Toronto", "longitude": "-80.6325", "latitude": "40.4733", "state": "Ohio", "state abbreviation": "OH"}]}

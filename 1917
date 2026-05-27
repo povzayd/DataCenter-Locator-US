@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Sgt7UY6J2GVNOizrCwnLxCaDuTO7bPoQ0WI60tMcMDEN8PkAaIMVUbceWsGqcpMxlALNaDhaCl68DiTNtsKjBAa40oSBVAjs9nyJSKE%2BHGNrmBbgN8uo8BLP3iJRhI0XN6Lw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3210b91a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19428", "places": [{"place name": "Conshohocken", "longitude": "-75.3044", "latitude": "40.0825", "state": "Pennsylvania", "state abbreviation": "PA"}]}

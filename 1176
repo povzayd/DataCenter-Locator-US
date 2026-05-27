@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JiMGX3xW347c6IRpSV04rwaCAL2c1dsW6UdgezxrgO0AbF49El7oTxk97Ja1v4rvWIxpZBtrIXlvYFxn6THGMwRmIhkzjQ6YpS2v2mToGJMGLhxCC2o8cNUpaiTO2u4W7F9%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1609
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30dbfdea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89503", "places": [{"place name": "Reno", "longitude": "-119.8374", "latitude": "39.5354", "state": "Nevada", "state abbreviation": "NV"}]}

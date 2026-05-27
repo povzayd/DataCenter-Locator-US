@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WHXkUGEN8UN065X0slBNugdULiVIFDSAwg25urhf2088sd2gSK4NGsZLmZVZzrHJUkTVvO3xTIAnmcUCFYp6Hwm4cWNn1FPw%2BLntc8OnyhMieaFdIDobLNF5J6KarBxpwDZ2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2864
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f0dc97a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "34956", "places": [{"place name": "Indiantown", "longitude": "-80.4803", "latitude": "27.0615", "state": "Florida", "state abbreviation": "FL"}]}

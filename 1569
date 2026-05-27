@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t%2BFdRfrovrPLrlOBI15bJN902VhDvFa%2FJRotYbG9NE9jmc%2FZ%2F3i4a6RzTY7s0MdkxuIhJNUC%2BdZBmUp79jMHPfC19fpT%2FB%2BPSYHZhg5mTIpg9W8SdYhbogUJzJTUQgpqFdEr"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3814
+Last-Modified: Wed, 27 May 2026 05:34:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3167996a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68355", "places": [{"place name": "Falls City", "longitude": "-95.5931", "latitude": "40.0742", "state": "Nebraska", "state abbreviation": "NE"}]}

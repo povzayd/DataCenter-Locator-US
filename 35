@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hK1VfKs5F%2FKZ%2BuiKOTap7yaXgJETjXEiYSQBI00By8JX9nWcP8RReDyZpujTvsc3yWY76Prhu3yeZDQuWvrYQ8DcZy%2B82p8ASy28F1MAPNK29OPGRENt%2F4dD01yrqhAp9E%2FL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2864
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed9974a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "33841", "places": [{"place name": "Fort Meade", "longitude": "-81.7823", "latitude": "27.7464", "state": "Florida", "state abbreviation": "FL"}]}

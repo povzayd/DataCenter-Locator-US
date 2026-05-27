@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=acTz9Smosb4pdQIb0tFeMllxuRA8q4%2BmATmZ8X9TeFJaDqjDFiL%2FG1Sviw3UhRyKc7FhXQVMDNF%2FqDTVLTuiGFMk4WRkcPeU6b2QByTR2vzznTg2EyTryNHfHzQz%2FctX4ObB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32ee8e4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45640", "places": [{"place name": "Jackson", "longitude": "-82.6472", "latitude": "39.0428", "state": "Ohio", "state abbreviation": "OH"}]}

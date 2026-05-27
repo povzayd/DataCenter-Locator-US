@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zaY7TBEpXDci%2B0MIiQu40pi3T4D%2FiAiQ8PkSeu4x5IagXiE5YuDhmJS%2B5r3FLPCDz0CKI1Jk4HaTu3GGsjWFTeZchQOmbqkOvg9MCCqhEaJhk%2F0kcz5Qpt1rLqYI4YnFaMRQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 43
+Last-Modified: Wed, 27 May 2026 06:15:07 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3028bdea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "52773", "places": [{"place name": "Walcott", "longitude": "-90.7256", "latitude": "41.6453", "state": "Iowa", "state abbreviation": "IA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JkFCCdX1q6k9x59hNp%2FpIWipK%2FYssooN581u1taVNOXSeBOc%2BFZnS7vThnERs%2B7VfRmAWCq%2BP95aFEMglG9L8KelVBm9cn6cEqvpgJyuvcBzdsncUSyY%2FNbkJvZOc67Q1rxa"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 154
+Last-Modified: Wed, 27 May 2026 06:14:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f87b1ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31548", "places": [{"place name": "Kingsland", "longitude": "-81.7075", "latitude": "30.7977", "state": "Georgia", "state abbreviation": "GA"}]}

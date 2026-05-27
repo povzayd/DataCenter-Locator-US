@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tY9DcjjzE7kvWlmLDkqPUbwXdE7kbDypy4nwXhkyqvjQ5zO8CKEyhQiR7wXZTBsZhjzTlncV0vjMU%2BS7lr3F4eOFMCGzFdIsD9Qm%2FVW467FjyIUjz%2FqkIty8TJJU5XCBuJPW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1864
+Last-Modified: Wed, 27 May 2026 05:51:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b6e2aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20657", "places": [{"place name": "Lusby", "longitude": "-76.4346", "latitude": "38.3661", "state": "Maryland", "state abbreviation": "MD"}]}

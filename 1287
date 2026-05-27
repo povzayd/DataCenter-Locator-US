@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qc%2FVl6iY2mfyTbmkZIRsiAtni1QSocHE96oUOXRPebPqiL3P6B5tjS%2BnsMA80MQ8bTzB2RCLOIt3Zqmvcb7XvUPFj39liRA7VQwl63D1QYf%2FKYU404wVZtVSDFHZ3aliaMW6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1506
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3100ab9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79521", "places": [{"place name": "Haskell", "longitude": "-99.7309", "latitude": "33.158", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PLyGXpTetkmmuf%2BvpzCLWitRv3e7I0X5OunbBYXHHbwGsP4KJLcQVs12OcEPp0CNfcWasAadV%2BQ4Rv7ebg84sKiek6Ob%2BvYMc%2FL9BIz83sfKUeYprXNDryZbTV529CvOzfJR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1608
+Last-Modified: Wed, 27 May 2026 05:55:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3146f8da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68059", "places": [{"place name": "Springfield", "longitude": "-96.1438", "latitude": "41.0765", "state": "Nebraska", "state abbreviation": "NE"}]}

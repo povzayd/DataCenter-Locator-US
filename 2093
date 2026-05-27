@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QcXjmKRdKVqhA23eD5FtXbAVd4IXmx5Vg%2BI7DNo613JYRZnbOoJM652LE2QYnENpxbNFiMoIBbhO7%2FCtXx6B0EPMDCQoeZEMVhMZPXhq%2BWzHBgtTI4rP7SW1G8vm%2FVpKUYs1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:35 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326e8c8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53216", "places": [{"place name": "Milwaukee", "longitude": "-87.9742", "latitude": "43.0859", "state": "Wisconsin", "state abbreviation": "WI"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AVMJ4xMgfVr4S2aAyYM3IYp35lOPnMLhrZY1T8SimXZrRiKu3mclIetT3a3FY6t0JHOcX4GqnbsqCxQY6WdaMRY%2BXI48QtgQnKyYXCN2JGP2mlccOxVMOUkmDpxh8M%2F7kUWt"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 152
+Last-Modified: Wed, 27 May 2026 06:14:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5786aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "80112", "places": [{"place name": "Englewood", "longitude": "-104.9011", "latitude": "39.5805", "state": "Colorado", "state abbreviation": "CO"}]}

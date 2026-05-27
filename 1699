@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Bm5YrmfZLB%2FSY5Jp9NYp2%2FgR1ehjC23tRQ%2B07zBlTvBWn4aUY1INyLzR7mTdovCPBx15pB84tzbFteZPAIzk3Mf3gfnYn9bYQF%2BO7sUVjAE%2BNiKtcimBcaDcrAs8q6%2FOLLVR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3137
+Last-Modified: Wed, 27 May 2026 05:35:43 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31a0cf9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76574", "places": [{"place name": "Taylor", "longitude": "-97.4401", "latitude": "30.5807", "state": "Texas", "state abbreviation": "TX"}]}

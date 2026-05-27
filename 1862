@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k%2FVSEszxNheaid4iP4uLojW6XLDpFm%2FgyrQyA%2FU2XvFa3GaRjq41QROPbtBBqD%2B%2B8kxN1E%2FSJwisqED45Mp1jdtnhtoC5m4T%2FFj7muwvhudvstD%2FTgXctIquPHCbYesH6OpJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:36:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31f19d5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "37066", "places": [{"place name": "Gallatin", "longitude": "-86.4512", "latitude": "36.3834", "state": "Tennessee", "state abbreviation": "TN"}]}

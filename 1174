@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oCp%2B8oK9FgL9oVLBJN3W9gPh873r4D1xhRyaCYDlFva0nE15k%2FPBwhKOvpYitwormDQl%2Fx3k7HLyvQAj%2FB%2BSXz%2Bsnli46Zu%2FwflBoi7KjNNoZpTLZL%2BDkAX5n6CvXOz7R%2BG2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5014
+Last-Modified: Wed, 27 May 2026 05:29:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30dafc8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79068", "places": [{"place name": "Panhandle", "longitude": "-101.4304", "latitude": "35.3808", "state": "Texas", "state abbreviation": "TX"}]}

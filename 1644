@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NHBUq8d6dwn4v9g9BCGQ6JSzDghaW2ptKbMQxsVnWePta8xoKQ%2FP8jBweKot%2F8Zm%2Bm0mnneei7qik0MNz%2Ba%2ByQtKqfHn64L3u5cTEECxgrTbs3jMJDFrFg129DKGYg8jFtOz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3134
+Last-Modified: Wed, 27 May 2026 05:32:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3181b3aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58436", "places": [{"place name": "Ellendale", "longitude": "-98.5138", "latitude": "46.0073", "state": "North Dakota", "state abbreviation": "ND"}]}

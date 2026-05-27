@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KkpWcsEw%2FikilE5gMtf3yyGtgJhv%2BL4vlDBu47b6xtmXduowDUOj6V0IvRHSuFcKhX3A9DVJryGb2eLzEC9giAnfZtR88E2jQXdl%2B0ea4J71qFcm0TdW6AWkCrG60oS8ITyb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4989
+Last-Modified: Wed, 27 May 2026 05:32:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fd8fcaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53406", "places": [{"place name": "Racine", "longitude": "-87.8551", "latitude": "42.7242", "state": "Wisconsin", "state abbreviation": "WI"}]}

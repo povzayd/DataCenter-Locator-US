@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IneSKGJ10IgZ8oBKLL61WZqeHi0J9erNI1XLDENrbn%2B96Tmd0BxkSzt982Lv03ZAhwPKfMiIVrcoefQfzSaaDJcOo6LTQ2kBUMlL0v0XpvuktrHWCTw%2F9XAEBTGfvFcjLz0%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3417
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e320cb4ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27045", "places": [{"place name": "Rural Hall", "longitude": "-80.2936", "latitude": "36.2293", "state": "North Carolina", "state abbreviation": "NC"}]}

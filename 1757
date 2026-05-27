@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AXUCooPRBgJtQsYiyF0r1xpqMHifuBo1wOekComxypC%2FGWHh8u7fzlY%2Fez3pT%2B92YfSr46D3eO3EUMnWZpDN2UG4B8SJUkHTVd05ymkr%2Fj2xBM1sfPDna7YP3XqB0rhnvOeb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1608
+Last-Modified: Wed, 27 May 2026 05:52:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31c0ee6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43074", "places": [{"place name": "Sunbury", "longitude": "-82.8511", "latitude": "40.2655", "state": "Ohio", "state abbreviation": "OH"}]}

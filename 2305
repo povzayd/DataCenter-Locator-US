@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OyuuZVr3reFp4u8%2BT3EQkk7s4jvvxlo48zS6KmMpweih9%2BpxqUBGEQL7aAbZy%2BCu%2B82wcSemKFEV3H3AkSH%2FDYv%2Bsqj2EekI2r%2BQNNfeamMNTXebokH5kXy5vdOlfkhB7YHp"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1616
+Last-Modified: Wed, 27 May 2026 05:51:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b3d67a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74014", "places": [{"place name": "Broken Arrow", "longitude": "-95.7223", "latitude": "36.0544", "state": "Oklahoma", "state abbreviation": "OK"}]}

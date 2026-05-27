@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jB1NhHCv92LlD3m9eMjW0Tbg1D872NABkxBydIbFxA672RCyhClZSFZB0TerVPwy7KDRs0pqoDbt8nMqaq4QruPVo2f9q%2BXMmoKFA06lq7WP%2BXp%2BZiaYZM06eHndJxjbng5s"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3227
+Last-Modified: Wed, 27 May 2026 05:32:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe284aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31010", "places": [{"place name": "Cordele", "longitude": "-83.7854", "latitude": "31.9172", "state": "Georgia", "state abbreviation": "GA"}]}

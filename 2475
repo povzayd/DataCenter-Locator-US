@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4%2BDYUyb7LsA1jy4XzOjic3czNwmdO%2FtGHihJwhn0qaYowCZS%2BnBteZWvCOBnKXS%2BGfVS%2Ft8C35wG0V1F9EyuY2agXEennMwf0bQPa2XtLx0nmJWFHDshLn9U%2BqwjvQWQiqWX"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5147
+Last-Modified: Wed, 27 May 2026 05:36:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330cac7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46970", "places": [{"place name": "Peru", "longitude": "-86.068", "latitude": "40.7492", "state": "Indiana", "state abbreviation": "IN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G4oi%2BTCm3d5HqSy%2BniO0YKb5jTH1VugUqKyW1zj%2F7cUClSr7WUEM6Ze3j9YkoyoUTMR04Tzh3n8c3mhY3lPacnxdOAE2fQfFUOQldFhHxYr5V4MnjY5VstC5xnxOL%2BibBfZh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3411
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eecae3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76649", "places": [{"place name": "Iredell", "longitude": "-97.8793", "latitude": "31.9722", "state": "Texas", "state abbreviation": "TX"}]}

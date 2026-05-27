@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Kj09mSo1PQGaFkch5kw4GM8ztb1zRV76Zbqu%2F2qUKHO5QgKRYt24iPG%2FUqmzmNwqRWLWDY797qleT%2FWADO9hj5kcJ3xVTyMQu0Ic3DcWPkGqXe6Kh2welHCQ7NqF7iiPefn%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5715
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f1ad6da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31566", "places": [{"place name": "Waynesville", "longitude": "-81.8039", "latitude": "31.2448", "state": "Georgia", "state abbreviation": "GA"}]}

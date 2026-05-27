@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xYBdBJeOuqT6%2BiIbwfKwD9Q%2Bn2pw%2FnUzIDXmu%2FtFxVHzh1VmCb6rWiKLuw1Z7pdjE2mFRQyX0OIrTK4HysfDHfeR1LhcaN7eMeK6NNmdgzQxLYPivYiHh3EpLfnv%2BjxvgYLr"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4936
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3181b47a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20842", "places": [{"place name": "Dickerson", "longitude": "-77.4199", "latitude": "39.2126", "state": "Maryland", "state abbreviation": "MD"}]}

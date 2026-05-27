@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1wbEpIiJtjiKr1s8qrTt76yf29gfxQmDvUoZFp3MEuIwZOaRn4JWcg6l8jw84q6rV6Gy97rscKKuxMsYtxjQ6Pb2chMzzZiZkIzBS5pgQhd%2F1APqs1HI9RrjYtCdpc70jl5J"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3411
+Last-Modified: Wed, 27 May 2026 05:30:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fcff3aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84720", "places": [{"place name": "Cedar City", "longitude": "-113.1682", "latitude": "37.5886", "state": "Utah", "state abbreviation": "UT"}]}

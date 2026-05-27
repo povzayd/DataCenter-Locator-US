@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FdO52gCeOzGp7FsrvLyAV%2FxWZhxwsEXc6oDNwhQMj8Un3m8r2CW4UDS7yHKDkYghP1YWtekodH8p8qSoEUmx31fygGizkZFe%2BTeLrLMSaclKE%2BH8U18BlLgbFxbFGkBpMzgG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3227
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff2927a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45805", "places": [{"place name": "Lima", "longitude": "-84.1459", "latitude": "40.7399", "state": "Ohio", "state abbreviation": "OH"}]}

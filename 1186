@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OoL7%2BhPRNzXW0XxYe4oCcUnuNBgu6RyzW%2BDLkl8nl5gywNeV%2F0VUF2ZxIzMGn9yhQnI9ZBq9esmBUKM9fm23hZpTigPrLGuk9wHdlmDZc6kh917vziupFHhhzg5wZLFeUbZK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1609
+Last-Modified: Wed, 27 May 2026 05:52:05 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30de816a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48178", "places": [{"place name": "South Lyon", "longitude": "-83.659", "latitude": "42.4567", "state": "Michigan", "state abbreviation": "MI"}]}

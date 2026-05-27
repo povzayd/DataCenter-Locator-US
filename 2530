@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6TCeoM7WLTSro3n%2BTz7tdlgPc0gsLg52VxhtWoEqjmOKdBWBZ%2BQD23Q3Ud6ly9ytlIIygg5Kom8u4HmaDD8sYnMKE8bF%2BXWwH7sdDf778wZ4UZO27VuvTHusKMrUF13%2FSZNM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3331d0ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17314", "places": [{"place name": "Delta", "longitude": "-76.3441", "latitude": "39.7518", "state": "Pennsylvania", "state abbreviation": "PA"}]}

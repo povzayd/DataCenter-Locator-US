@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=W3INQ5F6SSuWp6kB%2BvgMxidsLpL1N26L5Gxgq8e0uvpa7NEhxhNtR%2BTOgZgDwemUIrnssBjJeSPnhT83cOUTXX%2BuKiIrKWKFPKM34E%2FfJ%2BPri4tbz4S3kj7L8ukQeIrt7Xk6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4908
+Last-Modified: Wed, 27 May 2026 05:33:32 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e322fd82a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78016", "places": [{"place name": "Devine", "longitude": "-98.909", "latitude": "29.1521", "state": "Texas", "state abbreviation": "TX"}]}

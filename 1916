@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k9mkLb8tZSu2gP%2Fro1jDXloC7Fek4Cc92d4HTuW36MO%2F3QJyE2751RaloPOQGMWdL5zAs5G2X%2BvQXo4s%2BHzm5SbbQ7oREjuaAaMkY6gnRDPL0T4MRsMXmET2IwvU%2F3P1ac%2FL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3802
+Last-Modified: Wed, 27 May 2026 05:33:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3210b95a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62526", "places": [{"place name": "Decatur", "longitude": "-88.9382", "latitude": "39.8583", "state": "Illinois", "state abbreviation": "IL"}]}

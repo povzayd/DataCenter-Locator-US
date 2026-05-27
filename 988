@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7r8FJWlSsWGE%2B3g2bduzszIWLSXHse889Xb2f5THVPe3ciDlFjqngAck6XMgl6ucttIa0ROJOO2%2BlJ4SiVzcoh4Sp364SpMmP3o%2BA2l4XbkudkJQDHIs9iHohhbio8jezFxH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1601
+Last-Modified: Wed, 27 May 2026 05:55:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e307a8e9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18447", "places": [{"place name": "Olyphant", "longitude": "-75.6015", "latitude": "41.4677", "state": "Pennsylvania", "state abbreviation": "PA"}]}

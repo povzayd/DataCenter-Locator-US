@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=e1jdDXMrNTOAURQ2iO0S4nZT0%2FDrn2VMkO75RAWkwwR9cizv3G13GGdW0nJsg%2FRgJVHjR1wrGZ1eTHGsZWI%2FwIyeCXldy03IuoOhzrtUwS6PECVY%2B7GwpPrrjFgzX3I7sxRY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 7077
+Last-Modified: Wed, 27 May 2026 05:33:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e303cd40a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "35611", "places": [{"place name": "Athens", "longitude": "-86.9707", "latitude": "34.8036", "state": "Alabama", "state abbreviation": "AL"}]}

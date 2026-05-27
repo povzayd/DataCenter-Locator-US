@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=30YTnwm2tczmlMyh3DY0%2BJlTRL5BBwdO3PVW%2Fezgvk6QGd6R3035UGF331Pyt8UodDDbLWdxpwVWYW0bgOvcn4P2IHm9uzhgu4BJ64IvjzzqRuO4psdZDkX6p3ZubdrSZRUP"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3229d27a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97078", "places": [{"place name": "Beaverton", "longitude": "-122.7893", "latitude": "45.452", "state": "Oregon", "state abbreviation": "OR"}]}

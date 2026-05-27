@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ySRMB8wreIbaRBOnjGg3EWneBGMiBpzmAhRfXzzXRojtJY5C7EiFAZjmKZFzrCKSRHiM30kYvOZUEpkbpCJwlXuUZJ%2B4Y4R0%2BcJhA5FhLre0Ew92hoA8tm1jFgNSDAALpZy%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a1bf7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83864", "places": [{"place name": "Sandpoint", "longitude": "-116.5332", "latitude": "48.312", "state": "Idaho", "state abbreviation": "ID"}]}

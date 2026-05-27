@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HNmES84MSSxorZjYIZU04wODbvOJjXp78aQFz3uL%2FbhdIbVdBuaRx9JzO%2F%2FwIBBq%2FhBXs3gYvmCAN6h0PzM1lJcRkKASxUQznk1l%2BJTDQg0LvTEvrkoaRkNgn4yh%2BII41LeA"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:37:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e336b861a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "03110", "places": [{"place name": "Bedford", "longitude": "-71.5213", "latitude": "42.9403", "state": "New Hampshire", "state abbreviation": "NH"}]}

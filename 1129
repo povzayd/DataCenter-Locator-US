@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=q6BwYYm3f%2BjZLzkHr5%2BvlXDEDugwMVe%2BcG5bAe%2B5gZUR%2BxghagB00E9u5mc9RDq6gxLSKqI5StpjUhX%2BQWFMH%2Bsr8b8XPkf9ZRBA7FCkLNTMuKoe04TI8TBP3BMQ137kDVf7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5612
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30c9e9fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60018", "places": [{"place name": "Des Plaines", "longitude": "-87.8687", "latitude": "42.0155", "state": "Illinois", "state abbreviation": "IL"}]}

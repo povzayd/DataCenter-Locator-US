@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=d6xOPMe7%2Bry4o7zHayYO0KUiqN0ODROO4ms0Kfhu45nf6hpiccOQyBIwicIF6hC%2F3wwf4bmqgj6uCmVyK4rZ7a1SNKWFmRKzmAuaMKCsuDI6WdDTZhJhq3LyRbTR60R54xai"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4989
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff6953a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28379", "places": [{"place name": "Rockingham", "longitude": "-79.7666", "latitude": "34.9336", "state": "North Carolina", "state abbreviation": "NC"}]}

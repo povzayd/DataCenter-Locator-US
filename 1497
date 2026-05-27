@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9Gwq%2FF8By2hcLmcVgHy4G7EnrLIyTPfAANzGi%2F6imN8cK5%2FL%2FdYhC6WVezlSD1ChIKjnOnjdmh%2FGp1Wb3Sqv%2FOHE3C0BzyRRGVSaZQlgV%2B28XrWqbEEHvSFdTCI7dC0yMgsl"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1064
+Last-Modified: Wed, 27 May 2026 06:10:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3145f7ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76692", "places": [{"place name": "Whitney", "longitude": "-97.3463", "latitude": "31.9713", "state": "Texas", "state abbreviation": "TX"}]}

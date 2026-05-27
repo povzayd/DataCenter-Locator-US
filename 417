@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DVn0APcjxA%2F9wTpEcKmuMGkCu%2BT5J1k2du1cPI8UEVdXtPlOoOFHbCtsBUqFDcj8p7OBTYs1%2BYrsu%2Fp7W7AWSvBlrhK1hBdei%2Fw3y3ZAtBmyRtxmDYUMoDKRf2SeoT2QOAoK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f9cc3ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58545", "places": [{"place name": "Hazen", "longitude": "-101.6107", "latitude": "47.3271", "state": "North Dakota", "state abbreviation": "ND"}]}

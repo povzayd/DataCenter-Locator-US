@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yxaSnTigFdrRXpIZQbbaVf0RyWkjg%2BOi9y9osaKOPq9QvGuvcsqnUaPJCwUw2iHuRuXkNjDyOIEIn%2FmvI55V8f5EUZvTjTMilrslfml3qfD5xVxcFCCSTfWRHzAww1MW9DZ6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3858
+Last-Modified: Wed, 27 May 2026 05:33:13 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3010ab9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29730", "places": [{"place name": "Rock Hill", "longitude": "-81.0129", "latitude": "34.9151", "state": "South Carolina", "state abbreviation": "SC"}]}

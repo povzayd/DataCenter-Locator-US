@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J4grhHiEwUJX5Wba2Ql7meHT2k%2FB2Nbe2l1XGdPHcPzOdcLizsJPg%2FiKDPMf7NG0Ixpm2D7eM%2BGCO9nqK2jbRqSG64h34VjZsv6O6t4YqDekTKB2%2FrGMTLagusVwsOR9H%2Fxw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5705
+Last-Modified: Wed, 27 May 2026 05:33:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e306cfe6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36047", "places": [{"place name": "Letohatchee", "longitude": "-86.488", "latitude": "32.0862", "state": "Alabama", "state abbreviation": "AL"}]}

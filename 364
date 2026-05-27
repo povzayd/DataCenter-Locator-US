@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nB98oQk1zbP%2F%2BDRmydhTUpxrOfdBzvfN2nm%2FjvtZpR4vX17RjGHgAQXCljvoVGhdOBDSTsHRZ8Ugbgmm7EclLeZvdvgZwcpAwXJGBNbpO%2Bij1GiGzqLTBGYveF2%2BahuttYe7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1428
+Last-Modified: Wed, 27 May 2026 05:52:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f8ab41a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "35233", "places": [{"place name": "Birmingham", "longitude": "-86.8003", "latitude": "33.5062", "state": "Alabama", "state abbreviation": "AL"}]}

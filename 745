@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yIclC93htYBDeIsrzF%2FC%2Bdj%2Bac586ni4WovJWTgpuTTzRGxp5g6mdmEEmibweI7Ec%2FBz8zB%2B32iF3Q9ddkaTCq4Ruw04JqJXi3s%2FobGtOQpx8o4h4cmSHpmG4F5NcZoA7%2B9M"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6472
+Last-Modified: Wed, 27 May 2026 05:33:11 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3006a2da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "47882", "places": [{"place name": "Sullivan", "longitude": "-87.4102", "latitude": "39.101", "state": "Indiana", "state abbreviation": "IN"}]}

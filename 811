@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KTYupM%2BOD581ZmHYoCkOzuYwj8Qn6fhtdvCxxmP5SI4Y6WkN6N9WRYqGD00eP2mHrYaSzCnDQKNEMsoqNd17VpD%2FXZIpGIQahCjj2ie1ISCbPhJukP3i8lIk2dgb0xDV1OBG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5615
+Last-Modified: Wed, 27 May 2026 05:33:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e302ec3ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31210", "places": [{"place name": "Macon", "longitude": "-83.7455", "latitude": "32.8926", "state": "Georgia", "state abbreviation": "GA"}]}

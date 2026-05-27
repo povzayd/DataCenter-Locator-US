@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wSmxFRwPjCv3%2BZhYoie9I9b%2FQKRN%2FSTr5GluqYIcWIpu5dQ4Wd0Mv20tvv54badqeNNri16YNwWslMTt4f%2FvcTbiF6egR4VeSWk5JlXst3ZnizRbI1CL7jMGEy81%2FC95Wh%2B2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5008
+Last-Modified: Wed, 27 May 2026 05:29:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed08d2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "55362", "places": [{"place name": "Monticello", "longitude": "-93.8023", "latitude": "45.2956", "state": "Minnesota", "state abbreviation": "MN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9qdjeDOanJRQf3fd25hgtS3eH99YSYAYVHBa7owzcElb78K6IPTE5i9te9OgUjzzr326sqYYSSvTCzSzBjt2CHulb0yi3FEun7BxVeLZ9BA8BpF2rl%2BMQDkCHAWX63fKeYSi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5599
+Last-Modified: Wed, 27 May 2026 05:31:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fbadf1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28658", "places": [{"place name": "Newton", "longitude": "-81.2425", "latitude": "35.6498", "state": "North Carolina", "state abbreviation": "NC"}]}

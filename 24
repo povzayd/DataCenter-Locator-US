@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=15BplQUmlYJcbnVBBFX%2BGSy4D0pJ3SVba5%2FdkayOgeCef93GcvMnPZ7lLUn7M3lMFAbKXjRq%2FmuR7Q6VK63rCWGXUOxoFv2Xfb4R1OfJp5BLxXwVZSe%2FN3oqVPcPmSFplEID"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 480
+Last-Modified: Wed, 27 May 2026 06:10:15 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed5930a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97756", "places": [{"place name": "Redmond", "longitude": "-121.1896", "latitude": "44.2767", "state": "Oregon", "state abbreviation": "OR"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qglmyosteSNgpE7KyABtaVcKFOMDk7kqONOP0vgWQwR632e8AtqOejVjeMGI%2Fh9l3zZ9cTYl23NuDs0SeRsxsBKVDu4b%2Fl3GO153luns13DJOKmDb1%2FPJoDSN11u%2BPdNUqBo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6475
+Last-Modified: Wed, 27 May 2026 05:33:37 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e317eb13a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76627", "places": [{"place name": "Blum", "longitude": "-97.3652", "latitude": "32.1052", "state": "Texas", "state abbreviation": "TX"}]}

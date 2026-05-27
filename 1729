@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rf13jh40FBIyPLQnk3UvEaRMNsNH8QqFeSNp602Io54sQT2zfX2klRZuLH9EYcLhVtmqfQG7LguJOYFCKoRX2RMtvZsNHKRNT469hHoyy8vJXhbPMYFmDYAe1zo8YYsUOiaq"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1815
+Last-Modified: Wed, 27 May 2026 05:55:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b6e32a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76634", "places": [{"place name": "Clifton", "longitude": "-97.5203", "latitude": "31.7918", "state": "Texas", "state abbreviation": "TX"}]}

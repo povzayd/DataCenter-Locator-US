@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yx4IdEiQCPa%2Fz%2FSl%2FuzJNHfHrjod0w%2FHfEABF0zhBNJ8Z55cuIy9ChGCIqkZBfi9oEpI7rlfluoD1m74O095cS4KbghQjuJKN4a7Nh6znPyBb0%2FeYmhVTUpk3kSd4NQ%2FtILK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4902
+Last-Modified: Wed, 27 May 2026 05:33:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3043d8ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75135", "places": [{"place name": "Caddo Mills", "longitude": "-96.2391", "latitude": "33.0683", "state": "Texas", "state abbreviation": "TX"}]}

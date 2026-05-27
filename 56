@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Thz9RtoxuynQq4zYb8uKEDz8rbeR%2BR1JXF2Aoq0%2FE0nCABhhsCESlK13l1qp5GvdLyaDLF0%2B3Zba8XThysV2Dq3%2FWu9tcHLqRc3sceMaEiMi%2B9zAzV7TMQ%2BPzL134jUDFfmy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ee09fda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63383", "places": [{"place name": "Warrenton", "longitude": "-91.174", "latitude": "38.805", "state": "Missouri", "state abbreviation": "MO"}]}

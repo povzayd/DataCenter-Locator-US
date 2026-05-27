@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=msDBazX9rV6TC5FEfR7kEEru3pobWR4Jmjqgv9UXcziwvQz9xFaK66diacySK%2F5E2fdWPByAu3Hd5n5s2Bfn0tSrFp2obxiqNaS%2FxuUQyp3rZ%2BUAmFj7jCj88z7mln6attqy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 151
+Last-Modified: Wed, 27 May 2026 06:15:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f87b22a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72201", "places": [{"place name": "Little Rock", "longitude": "-92.2819", "latitude": "34.7483", "state": "Arkansas", "state abbreviation": "AR"}]}

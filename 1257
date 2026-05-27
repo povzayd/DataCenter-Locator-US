@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jOa%2FC8JU6cC15W9xeqTKeFnhU761HMroC0UL9edXha96OgS8j%2FXVJ02Rs1vhivReyquLrZZTUS9zvDDrt%2FTKiWH6%2FYBBcm8aMl%2Bo7STGvHrBqeUVDnta0kf8aGO5Q2zfa3at"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3219
+Last-Modified: Wed, 27 May 2026 05:33:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30f7a06a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48842", "places": [{"place name": "Holt", "longitude": "-84.5242", "latitude": "42.6394", "state": "Michigan", "state abbreviation": "MI"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YOHhe5hTlyBN%2FCfujqHnC9uiYjvThZ6Dwr%2FMcAK5nDR8Pq23wjVrajZUOpj4sQjR%2FSrJnp7KTcEg9tUKuCVVgx7TK9D2r2t1UKmL4bvhcUNMUkRvY%2FTxzE8Nosua6n32Q7HF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4299
+Last-Modified: Wed, 27 May 2026 05:30:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e311fd4da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79019", "places": [{"place name": "Claude", "longitude": "-101.3813", "latitude": "35.0967", "state": "Texas", "state abbreviation": "TX"}]}

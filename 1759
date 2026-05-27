@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xNYlIpO21%2FdpLwtrN9iKPkagE53%2B4M1ZXkyr8fH0yJUQwggpoLAw1qlh7DqZqbbEdaMmrJhn1SmfidDbtzHsvyasig6qoLbw1qBuhjxGlSlkxbFPhtM2TDLLjB7DBXS3TLfS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1505
+Last-Modified: Wed, 27 May 2026 05:55:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31c0ef4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30066", "places": [{"place name": "Marietta", "longitude": "-84.5038", "latitude": "34.0378", "state": "Georgia", "state abbreviation": "GA"}]}

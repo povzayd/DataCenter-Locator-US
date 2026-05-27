@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Fbs5u1WBfsnt38Xp3N2UjjMw%2FQiJkiOH9uqLzR1ef%2FbMO6hTJR5jw9SzC4vS2QzG%2Bf5UcabFdBiQ0TrZspCAOmYXX5XiIw8hpF6hreWFn%2BeFdPzFgLs93CmOAi%2FOssQk9XJo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3826
+Last-Modified: Wed, 27 May 2026 05:33:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3028bdaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "44131", "places": [{"place name": "Independence", "longitude": "-81.6642", "latitude": "41.3809", "state": "Ohio", "state abbreviation": "OH"}]}

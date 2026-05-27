@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oFzb80XtKi5JgiJRFY6O%2F2ptgbDJ7zZBpZ6k%2BsnX%2FRePNZwzC20V1cn%2B98sRBbz1S1dPVZV2GB3E%2BdzRGiHCtvuBkSMYpmOSg5nn97NJmqpEF1x51VcfcHxs4B6kRV609oz7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 7076
+Last-Modified: Wed, 27 May 2026 05:33:40 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e304de28a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49095", "places": [{"place name": "Vandalia", "longitude": "-85.8755", "latitude": "41.8955", "state": "Michigan", "state abbreviation": "MI"}]}

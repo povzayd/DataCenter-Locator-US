@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=C09il4OfxP4Kp7q%2Bjc6pnciSwai5j8S1pasUoARCag7oPU%2FOxEUF5oKJkD6RAq6S7UQFWPfq6enRrmFt4qs6j9%2FpMLpF%2FMIAYNpW1ux4BGO0hYrcmPpOZJLNduoHtc7u6Zr4"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1556
+Last-Modified: Wed, 27 May 2026 05:52:05 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3028be1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18603", "places": [{"place name": "Berwick", "longitude": "-76.2443", "latitude": "41.0665", "state": "Pennsylvania", "state abbreviation": "PA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sGZa3ju8uCekTQMqV3rcLOeuqJ0HuvgaSWiWsshej7uAWNQ169vH9%2BTlJNxME8PR9Ax8JL9E6QMI2zc536J4jW5qVq%2BMd3%2FLy8drOdtf%2FSS002mA9DuOYz0Pyg8oFZDNuSeD"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1617
+Last-Modified: Wed, 27 May 2026 05:51:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3338d71a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "80216", "places": [{"place name": "Denver", "longitude": "-104.9669", "latitude": "39.7835", "state": "Colorado", "state abbreviation": "CO"}]}

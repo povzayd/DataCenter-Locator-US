@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OyxJKCG0hpOtyInCLLbU7oHd%2FAIjCzuh4iWjFefDiC1SjDedVWSbO77aQ3Q657RZmjBAaIcrMiI6R7rh9iJ6PQTaN1e6Y9%2FyNpCylf0OuZCHfHsEN0rtl3IwnKMVLNKH8h1d"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:44 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3282a1da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62863", "places": [{"place name": "Mount Carmel", "longitude": "-87.7911", "latitude": "38.4147", "state": "Illinois", "state abbreviation": "IL"}]}

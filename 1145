@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c02zUz1Pw%2BVPiqvHZe6gsUBhDDV%2FhbvBAdWVOeI8WJk58JsSPpCUv6bX2S4UNU5bnFxC%2Fe91O3DW2NcqnZ15x2A4fnQlQg9Vv1VEsNUzPPoZixNsGObz9QpI7bjPYDn3NkvQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1602
+Last-Modified: Wed, 27 May 2026 05:55:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30cff15a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68417", "places": [{"place name": "Otoe", "longitude": "-96.1329", "latitude": "40.7355", "state": "Nebraska", "state abbreviation": "NE"}]}

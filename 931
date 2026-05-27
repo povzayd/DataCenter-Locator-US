@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xBykzzbNUjOM%2Fk0hBwu1TyXU43H5s%2Bn8lNTy2fiv952h5rFnReIyWhq0FUkznYvW709WNPitvkSn12o0Wzpv4WCL7iBwHNX1ma%2BNsiFN8jj%2FcHHYqUGFoyd2TmKpOAgwNnxC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1602
+Last-Modified: Wed, 27 May 2026 05:55:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3068f98a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "21710", "places": [{"place name": "Adamstown", "longitude": "-77.4552", "latitude": "39.291", "state": "Maryland", "state abbreviation": "MD"}]}

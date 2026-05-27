@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jdGeFClQkUuzMW2JbeBtegVZ1abqnIerZIGsfOZ9B0bDk0qlPK37b4SSrtqX%2BRJ4vuHocjlARVeUAgG6Yu6vVmmFdeY4ksc5W4dJ8ZqHVeViABjNKa%2BlR%2BLhQRSASUsym3Wp"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 7117
+Last-Modified: Wed, 27 May 2026 05:35:45 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b2df9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84655", "places": [{"place name": "Santaquin", "longitude": "-111.8037", "latitude": "39.9737", "state": "Utah", "state abbreviation": "UT"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6Gnea3Hq7BgR%2FyqaEvD8pnoh2%2BNHh9rOpiWoHbZZ2EZflbP4r58YFV93tRef4YTrjwKjT4B4ym9zAoSyB%2F2HrmJ1OGweLR%2BHEwd2SiX1cFmpkX27tvS95PxB8jhw462JmW8Y"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 124
+Last-Modified: Wed, 27 May 2026 06:15:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e304de2ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89440", "places": [{"place name": "Virginia City", "longitude": "-119.6587", "latitude": "39.2965", "state": "Nevada", "state abbreviation": "NV"}]}

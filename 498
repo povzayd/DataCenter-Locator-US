@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LboqSpuk6rou7FZwVGIU2Ruizd2orwzvPax15OvzVLK7EidiprdYeQAnVA9miC%2B2DwgX6GUYplhc77V3onV%2BFRZIYtchMbGX2QdHR7Q%2BT%2Fn3tuiucfDHDFxICgEuyuG8NSXy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4990
+Last-Modified: Wed, 27 May 2026 05:31:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fb8dd2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "16150", "places": [{"place name": "Sharpsville", "longitude": "-80.4656", "latitude": "41.2676", "state": "Pennsylvania", "state abbreviation": "PA"}]}

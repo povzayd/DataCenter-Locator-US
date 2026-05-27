@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aKidMB%2Bc9SL4uwRasFDRYivfy1DnKXVupG1AZ6fJadiIIzV7kksAmk7IbC%2BeM2ZfW8FvBsg2avFsEempU9sS4F7Ux9MJweJr2xGExhW%2Fs%2Bxls8H7pDfvuXBNtMl9dHrPzLVg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3377925a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48101", "places": [{"place name": "Allen Park", "longitude": "-83.212", "latitude": "42.2522", "state": "Michigan", "state abbreviation": "MI"}]}

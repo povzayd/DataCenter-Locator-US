@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LKaH9ZS1j2DS0wYHSYJCqisRjNWQabFTY1RKSyl2hJTDzsQMmCNZ8Yk7j0prhFrzF6u75nR2gB9YASlUgr1toUjvGhAyD0q98Wy4G2ICw3NyoXmtSi%2B4m9W8jR8%2Fr9%2F9SaxV"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3817
+Last-Modified: Wed, 27 May 2026 05:35:43 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c7eaea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83672", "places": [{"place name": "Weiser", "longitude": "-116.9651", "latitude": "44.2522", "state": "Idaho", "state abbreviation": "ID"}]}

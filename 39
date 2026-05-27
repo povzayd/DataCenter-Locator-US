@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=prA8BzWINsjMlg0XJwGYvT3PYBw7bwTrqPidcQtDOGk%2FrEjEF3tskvwJ6Z3IYZyWg8EDRgV3WKRI8wWmvtUr0Lr%2FvVsL1Gpdi1WO9fLBw%2Fgx1rGEF6NDLaNrhGCv8c%2BPAoQ4"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eda98fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62707", "places": [{"place name": "Springfield", "longitude": "-89.6544", "latitude": "39.8544", "state": "Illinois", "state abbreviation": "IL"}]}

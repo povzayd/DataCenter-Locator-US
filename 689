@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=891E%2B3z0MWV%2BO8K%2FxjTDqWQLhuXN6N0Evue4zxMyJPomsCdbB3HqeinbJMEcbH%2B01YTv2KOU1CVvdNlk7uXu37J7oFf2l79%2BdC83ca51a5ErvjwPgBHFSl47Ls4t116xLyHB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4710
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff594ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "40330", "places": [{"place name": "Harrodsburg", "longitude": "-84.8607", "latitude": "37.8033", "state": "Kentucky", "state abbreviation": "KY"}]}

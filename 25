@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Tve38jIdQaOwrU8QViu58DpW0I45SmD0gOp64lZQTsEtiKtgPotT1lxHnZny0Y3Ym%2FxK8TI4YZGp3jzr60LPFnHRbtNfdDabSou9tobU7dtHN%2B0nNK3QF8EiHYTt636jtdu5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:29:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed694ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "66221", "places": [{"place name": "Shawnee Mission", "longitude": "-94.7103", "latitude": "38.8636", "state": "Kansas", "state abbreviation": "KS"}]}

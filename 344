@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HVmEc5lARuB%2B3fXsW%2B8j%2FoO8G2Yr3kgYw1dnYhxtCrPeZeKGpYV6USJwTsrxT5j%2FJhZFxvxLZ6jmE4nMRa7s5Gy7GsbenKtnOz1UgtGs1IgPsRZtjz%2FAqMJEw50rteufu7oL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5601
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f77a50a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75751", "places": [{"place name": "Athens", "longitude": "-95.8432", "latitude": "32.1935", "state": "Texas", "state abbreviation": "TX"}]}

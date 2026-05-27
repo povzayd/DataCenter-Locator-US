@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5eJI1kl%2FnyZIsbLt5WyVvKmGN5qXu16B2ur9vHZlaIty3l9GM4guQMou2vwxIMdYils4TFV5Fce4ut11ZLqtfBvdz6JjmlgZ1NND3sK3%2BJlxaqmNopqa6pZiWNaTArWyDe8n"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4901
+Last-Modified: Wed, 27 May 2026 05:33:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3073859a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72633", "places": [{"place name": "Everton", "longitude": "-92.915", "latitude": "36.1534", "state": "Arkansas", "state abbreviation": "AR"}]}

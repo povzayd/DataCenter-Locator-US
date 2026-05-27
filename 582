@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ozUUlORnrEwSD3gej%2BL1eldZAqwkZqAo%2BApVM7kNhbq0o6XOzZsOFENhFg4IHTtAnS5bzLKQ%2BmfIVeRgUHnwkg5F04rQsP2MAe3WN8p0oCf93pwoFrvd2y9qJ6qWCM1R6Znp"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5518
+Last-Modified: Wed, 27 May 2026 05:32:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fd2f6fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30223", "places": [{"place name": "Griffin", "longitude": "-84.2728", "latitude": "33.2549", "state": "Georgia", "state abbreviation": "GA"}]}

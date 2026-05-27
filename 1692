@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kjsvpsLl0cRUgUVgRcXpYaBn0Cy9hcWWKbS8yXqBRGKwwgSXBsSxP5XLc0fd0F58wnRN69rGGuABxObxSVXst8t0rHuYlv%2BtygPR5Nf9JXjYdCKNCZr6X5BhARO54KxOjaSD"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5817
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e319dccaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30802", "places": [{"place name": "Appling", "longitude": "-82.2856", "latitude": "33.6271", "state": "Georgia", "state abbreviation": "GA"}]}

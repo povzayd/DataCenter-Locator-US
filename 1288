@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5J%2FEZGtX8YfHIS%2FnttsvR2f5V3ouejqs8J2%2FqFaszsD1dvDF6RobADL4NV5U8Jt9m48KBWFQxGP2fKWarQbYzqB2TAvutNtwf4rW4ZuPEFj9tlbZbjmHqZT0s5wsP9bIyJm8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3777
+Last-Modified: Wed, 27 May 2026 05:31:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3101ac1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85364", "places": [{"place name": "Yuma", "longitude": "-114.6424", "latitude": "32.7015", "state": "Arizona", "state abbreviation": "AZ"}]}

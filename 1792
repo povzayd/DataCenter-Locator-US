@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cIcSs8hZ7uzMw1x6MBrpAAT8u6sLJaERtru%2FViTZpzljDAYZYmpLvfvPaA2CgZkeOCwfZWij2EiykfQzVsUOvvSJnE%2FXNgMJkj4r2kncK3EFgbqz7Yh7edcFyaXH92aj%2FFGR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3540
+Last-Modified: Wed, 27 May 2026 05:35:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d8847a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48198", "places": [{"place name": "Ypsilanti", "longitude": "-83.583", "latitude": "42.2439", "state": "Michigan", "state abbreviation": "MI"}]}

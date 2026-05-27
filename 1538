@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BOLJvihZ71uoFTr1HxfBnm2TNrgq6fKko79MSDpyuCGp64%2Fseaak3yDY%2B%2B6qnFxKpQtIX686jMJXWlCZFy3pC5OHVuP%2BdUKOaM5bb%2BhPHNrSCOexXF5G09JpcqZLJXBWu%2Fep"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4993
+Last-Modified: Wed, 27 May 2026 05:32:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e315d903a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75474", "places": [{"place name": "Quinlan", "longitude": "-96.1261", "latitude": "32.8983", "state": "Texas", "state abbreviation": "TX"}]}

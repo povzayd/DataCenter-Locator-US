@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c4hiiPRG%2FDfVz30x4j8W0uWqCNPdJxN%2Bj9Jz6s7vluBaLdAwL2eFw1QFHXoNYagt0ymluEo8%2BWEX0ayQ0Fpq21aH4m%2FKiy%2FUST7Cf1n%2BC%2BuoNcxSRztMdkgP%2FPhk%2FGRChJ19"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4922
+Last-Modified: Wed, 27 May 2026 05:29:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f11cd0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72301", "places": [{"place name": "West Memphis", "longitude": "-90.1779", "latitude": "35.1484", "state": "Arkansas", "state abbreviation": "AR"}]}

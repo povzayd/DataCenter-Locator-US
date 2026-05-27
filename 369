@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UaTJJpObue832onV8siN6KuWMPp0QQfSOF0SO%2FoygZTc8xfbhHCzhej9TzxucFIuHEG%2FBFrMnh6UnfqwFu1x1LeDyec969ESPQIc07fmIPD8B3N%2FJ4iw0VEgItyd0tNo9LGj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1428
+Last-Modified: Wed, 27 May 2026 05:52:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f8ab48a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43542", "places": [{"place name": "Monclova", "longitude": "-83.7757", "latitude": "41.5684", "state": "Ohio", "state abbreviation": "OH"}]}

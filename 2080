@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=l%2FRl824Ij0MqqRm02dBoikPrwYkPdimJhF%2BHBLeQ9nBnL1meKnDV8ZuvRCimhyTbMTZO0B8A3OFJnxs0m9z%2FQkWEUHACDd52IqGCyrwhR83zXnyeZ0mCwxEv6mkTfCcT9UX2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5144
+Last-Modified: Wed, 27 May 2026 05:36:28 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326b888a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97627", "places": [{"place name": "Keno", "longitude": "-122.0081", "latitude": "42.1194", "state": "Oregon", "state abbreviation": "OR"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b6meOSeEkisgE43YipsAaFiZDIgfvtW4oLVA8pN4FKGjujIH8VWiqCCgIinfOeScT9PInjibpOfy3nogyChJRzGQF6hUf%2Fya1heADQKK1qcN8nOnnyKocQvQvfyJqfY9j3RC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4992
+Last-Modified: Wed, 27 May 2026 05:30:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5b8b2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45661", "places": [{"place name": "Piketon", "longitude": "-83.121", "latitude": "39.0437", "state": "Ohio", "state abbreviation": "OH"}]}

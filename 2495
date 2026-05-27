@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FmFonseImeGzV%2FneL0JVt1dgyv9Y9vafeF9k77VzYrJMVDjMi3s6yJdz6sUNxiSsoFSsW7CY9ZldEXL%2BMbICBE%2BQP6q6NBsU4lDOkweFxwN9%2Fzs2S4m8v2653CldaC62MqlA"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4940
+Last-Modified: Wed, 27 May 2026 05:34:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3313b2aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79311", "places": [{"place name": "Abernathy", "longitude": "-101.8611", "latitude": "33.85", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=grvFU3BUqtpE6QHT%2BoUUtK%2Fph%2FDdadCi2oxLquqytYsKjsN7cXGw9h94V4I5ON42xUBc50MR%2B0S9Es7uIRD1aeIUNm313f4u8BLy24KojYIMOArOPi7KHMhSOmd%2Fl3Hibyt7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1475
+Last-Modified: Wed, 27 May 2026 05:55:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32728f8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46552", "places": [{"place name": "New Carlisle", "longitude": "-86.4838", "latitude": "41.7051", "state": "Indiana", "state abbreviation": "IN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b4Q3Od7g1lsimM6TJ3KnzyKhCx2W8scyB0y8P%2BwIRwlcUGEfOSXAsqBnjh1dhRe6%2BkS2DNsd2442QQWNsG%2FQAnrWb2QKWLzylymg7wPI%2B7itfHStz4J4GNvqzcordMR7Ezjf"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1553
+Last-Modified: Wed, 27 May 2026 05:52:11 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fbbe02a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72032", "places": [{"place name": "Conway", "longitude": "-92.4236", "latitude": "35.0842", "state": "Arkansas", "state abbreviation": "AR"}]}

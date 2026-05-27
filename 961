@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P5NeVFCerHm22AR7Asf8AlpQz7VGtmeV84Yn7uQ8atnUOh%2FYcf%2Bi%2B18GGjYTzuO9Bh%2BmRLIpu3bNsCUqkApd8nTgoAzLcRiG83DH2lCpwWaeZMCHQTZKOsaYeAzpUisyaExM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5705
+Last-Modified: Wed, 27 May 2026 05:33:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3072851a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36742", "places": [{"place name": "Gallion", "longitude": "-87.6985", "latitude": "32.5298", "state": "Alabama", "state abbreviation": "AL"}]}

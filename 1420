@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WaVoISS2AxtsqnIS6g8uhu3RickpHyHNSOxu5MgvsTnhM27Z0he%2Ba4U2QS5VNEySDrywlKYAzp1GlyWUCM1GnN0pZfm4f%2FowPPWztWnXJDkyHVSrmi0e%2B8zI4bNfMALDbDF3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1068
+Last-Modified: Wed, 27 May 2026 06:10:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e312de17a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74075", "places": [{"place name": "Stillwater", "longitude": "-97.063", "latitude": "36.1396", "state": "Oklahoma", "state abbreviation": "OK"}]}

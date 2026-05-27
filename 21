@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EYh73F%2Fk4zled06xD4B0csBwZrJWaKZSrwiOO%2Bk%2BJ1%2F8CcCijUaPo1fO3tgpu7p3t8Ze2vy64Ez6CGxEYN1iBXRhM%2BOeVu3sFMhoVP5LeiqHilnjyomntwdGRp2hE0XE1EGx"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:29:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed3909a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "23084", "places": [{"place name": "Kents Store", "longitude": "-78.1208", "latitude": "37.8942", "state": "Virginia", "state abbreviation": "VA"}]}

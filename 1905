@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=y08MYGcMkQuSTN1afSrbGuXMDF5M%2BUzqwVBaOnIJLWvRHJF9ZGjh%2BuZ0AnXZB1JCWqFhVjfNjcMroN4B5xaRok3Fj59%2BQC2UcyzMI9HOOfSHCb7a36y%2B8cw6jOLB3AFkhmlf"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e320cb54a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "26541", "places": [{"place name": "Maidsville", "longitude": "-80.0288", "latitude": "39.6584", "state": "West Virginia", "state abbreviation": "WV"}]}

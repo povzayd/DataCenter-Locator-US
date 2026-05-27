@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jTo%2FlJLpvg9LmS6%2B%2BcGqLA3fUPp6%2FnGtATk7R%2BC75vE27k%2BM9JWt6z1PBuerDWJeMZGOhsLZ0FQEb9UW5OJ6sFHnb1e6ubtXJbBsSRXI8y3AP%2BYFNI0Ob4LeLvaIvIoW52BF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:46 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3286a4ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30180", "places": [{"place name": "Villa Rica", "longitude": "-84.9297", "latitude": "33.7173", "state": "Georgia", "state abbreviation": "GA"}]}

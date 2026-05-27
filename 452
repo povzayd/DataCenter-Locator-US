@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GqHKTU7WSxgk7zSuY9AMVl0W%2BrPLlWYNw73xwYvXl8JC75kGldujiGnvXu0WM00sbBITS5mAD%2BbLd9UjLgGcbAQC4m3Q33ixLZz2xrbUJTJUeBSFVc1CLs9ROsxL0Rf178eW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1607
+Last-Modified: Wed, 27 May 2026 05:51:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fa9ce8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53916", "places": [{"place name": "Beaver Dam", "longitude": "-88.8407", "latitude": "43.4616", "state": "Wisconsin", "state abbreviation": "WI"}]}

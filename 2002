@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0fXY0w17R2ml%2B5a5qM3hHiUugGo%2BI5xitxAM8IbbAjjzn8YweDXRJqgwV%2BYjrjaLqyi7OlGztuwkTe4nD%2B4R7c7R4m61R2B0BrEYpbvTsy9AWiUgEDNl0cyQTjpfILC8aebM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e322dd60a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58529", "places": [{"place name": "Carson", "longitude": "-101.5387", "latitude": "46.4624", "state": "North Dakota", "state abbreviation": "ND"}]}

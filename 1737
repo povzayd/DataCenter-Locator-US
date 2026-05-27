@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LrxNNpBYglAKDYf6FSo9qPthzySko1BbqRvVrgfN7T7jZborqoDHdi65X3Q4wOAFKyuAXNRaiVWc0jq5n%2FAB38mzi6ELTetYEdxO6qP2janjCb%2Bvis9aSz3cgY1KM32P1fIL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3893
+Last-Modified: Wed, 27 May 2026 05:30:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b9e71a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84336", "places": [{"place name": "Snowville", "longitude": "-112.7269", "latitude": "41.966", "state": "Utah", "state abbreviation": "UT"}]}

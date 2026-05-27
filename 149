@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zWI5H3fIoS1boWUwg5KuRyD9MgCzLsKBzEshxZyZ2omYJqnCfpr7OUM%2FVTTpbycRI0t%2F2arydBBAuMCgciF8LUzlkZXpSPdRyO1PkdxMwjB8JiUX13n3SEB9wCAO5yCStSwO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1470
+Last-Modified: Wed, 27 May 2026 05:52:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f17d23a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "34974", "places": [{"place name": "Okeechobee", "longitude": "-80.841", "latitude": "27.2002", "state": "Florida", "state abbreviation": "FL"}]}

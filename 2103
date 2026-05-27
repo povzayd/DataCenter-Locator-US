@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DKysOnH6x0Hge1EoPAHcc%2B3G721h9%2BjOO3f7hh0DZ02OcG3PU2Kh3Wn%2BK5SYMXRSvhjrOsAayqG5Qc%2FSGXTqjZT%2FyYE77lDk%2Fq8vw307Xd3ch40eW4Go2v342%2Fr9gpVAzkFO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5143
+Last-Modified: Wed, 27 May 2026 05:36:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32728faa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "35043", "places": [{"place name": "Chelsea", "longitude": "-86.6563", "latitude": "33.2982", "state": "Alabama", "state abbreviation": "AL"}]}

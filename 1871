@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YA4VdGutSQ1%2Fuec0J2W2mzEloXIDxh58QzVFzM5G1un1BSE65r1WLXIN%2BYIixF1X3VlH05EGhO5omgmZ7F97foXxRByFZGlwpW5X8wsZ46Kbh4ZSqvF02MvShVottkUR9eOC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31f5a04a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20785", "places": [{"place name": "Hyattsville", "longitude": "-76.8755", "latitude": "38.9223", "state": "Maryland", "state abbreviation": "MD"}]}

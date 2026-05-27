@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s%2BLU7EU1a%2BTAwcz81Wa2lXK7ACIqDEA9hrj6%2B5l0S6I4istLZdHJX6Rc88K1kDW%2FVHS0kQlheHtQowBEk%2FzE1EeAFGgknh5EDxlDx%2Fy90KRgwjUSxdrTNbrDQt1JsDTrdpbd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1547
+Last-Modified: Wed, 27 May 2026 05:52:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30039fea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31553", "places": [{"place name": "Nahunta", "longitude": "-81.9722", "latitude": "31.1827", "state": "Georgia", "state abbreviation": "GA"}]}

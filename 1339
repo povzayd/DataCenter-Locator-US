@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fRdXZ9PcMFv9g%2BzZnrE89HZCyUEYwdDTDuiHR3gDAf6w%2FMnOYmwx6%2BaXOvIhj7wAYCRoJp2gYqajFRnp%2FOmxSuXp3PLdnR9o6n39RxYASHDuDy2iUBORN%2FKbe%2FO8G01Fd%2FhW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3835
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3112c12a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45891", "places": [{"place name": "Van Wert", "longitude": "-84.5904", "latitude": "40.8689", "state": "Ohio", "state abbreviation": "OH"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gGjEedtwIoEkCxBiqUT7Mxt%2FvRWdsUWzSrpS27o6%2FaC8oC%2B%2FWIdgPqcjWtUUwwHqHKCvN2mYnWl8LprFZ%2FJqYAGrs5LVZRds8Fu%2BK2fZ8EdIjSc2jrlR3Zepsyu50K2M%2BYiJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1820
+Last-Modified: Wed, 27 May 2026 05:52:11 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3013ae7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48176", "places": [{"place name": "Saline", "longitude": "-83.7849", "latitude": "42.1698", "state": "Michigan", "state abbreviation": "MI"}]}

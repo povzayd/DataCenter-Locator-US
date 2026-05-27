@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fSl%2FMiC1OPxwW5wE6%2F2rvPmnocyahA64YGHmCm0STU6498LcojwPx5IQCf%2B1Hs1djKayPQvwzoRy0tOd6IgUrA1VQzOKC%2Fm6YatSywVoTgaGv2Ds%2B2WgywTenidl5gh4xW7I"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 155
+Last-Modified: Wed, 27 May 2026 06:15:07 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3031c7ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18202", "places": [{"place name": "Hazleton", "longitude": "-76.0487", "latitude": "40.9506", "state": "Pennsylvania", "state abbreviation": "PA"}]}

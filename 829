@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IGqTcKG91Escv4%2B1LqQnKuKCHg0lVrIJ5RG7TwVtQqEC5sU2j5sl4X0%2FC942bcug2bxQ75%2B9c0GWOqSEC12gKGD14oApYBBWOpmvgMQU0paMtqiDv%2FdUVEIm25rnBOW%2BMjSE"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6718
+Last-Modified: Wed, 27 May 2026 05:30:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3032c92a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "44081", "places": [{"place name": "Perry", "longitude": "-81.1433", "latitude": "41.7679", "state": "Ohio", "state abbreviation": "OH"}]}

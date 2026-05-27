@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PCUY%2Bv7aWnA6U3Zh0EDBLZRXRJgVZAtpUX7DoUUvB5Tr4r8DcFW8jbY72eLWSuJq3R3%2BFS8tQ9amG%2Bci%2B1qHk4cPSoEVeA08elHk%2BaeJNS%2BuB5Jj%2FlYWBVlwK%2BSI18qyaAab"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1450
+Last-Modified: Wed, 27 May 2026 05:52:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b3d59a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28905", "places": [{"place name": "Marble", "longitude": "-83.9381", "latitude": "35.1475", "state": "North Carolina", "state abbreviation": "NC"}]}

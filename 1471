@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KSBx6W2XSHuYjzMFOOIDAeluMNsln0RSOH5KBGK5JcYa7FzwU%2BVHL4bZp%2F6ZmQmH8C%2FlzbwxypTc7T2LEyh1dmb9yI09YxEauNML3VnMA88a2XfQ24jaKS8y7zG%2FoqPws5x8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4925
+Last-Modified: Wed, 27 May 2026 05:31:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e313cef8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14013", "places": [{"place name": "Basom", "longitude": "-78.3951", "latitude": "43.0807", "state": "New York", "state abbreviation": "NY"}]}

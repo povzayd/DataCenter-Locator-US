@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pkunoFGkMxYr95JQG5lfrbH05UCEM%2BT9xD0mEEgnKlzVIS7dWG%2BMqmkWrHjK35qO8C6XGDStIsbTbD3W25UVuYDL6opB1cawhQsSNsE6z0Qh9VejRQszszYx0HL%2BXiAyWIvU"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6709
+Last-Modified: Wed, 27 May 2026 05:33:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3014af1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30241", "places": [{"place name": "Lagrange", "longitude": "-84.9577", "latitude": "33.0249", "state": "Georgia", "state abbreviation": "GA"}]}

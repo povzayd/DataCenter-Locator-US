@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EnYrxxMSNr%2BU9ybwaMYzXkVjzdG3qwPQ5tPZQqt71giPITJTrd2Jgolp62UlmgY4NhkawsyW8nBG%2Bm%2FQQfOj8YZvExkaP%2B96GWdkmUm8QPWLcqJ6FWlp%2B5U6vmNYaxyLLyq9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1552
+Last-Modified: Wed, 27 May 2026 05:52:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fa0c6ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "01850", "places": [{"place name": "Lowell", "longitude": "-71.3051", "latitude": "42.656", "state": "Massachusetts", "state abbreviation": "MA"}]}

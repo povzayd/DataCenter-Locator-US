@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Na2eSsvolLG3T74nZOBKmNb6ZDJCp6DsM1DARw6aE5S%2BmKx1x3N5naKk%2BwOshZr%2Fj6hfN4o7ET7WDFau3DPBpQ%2BrQ8n%2BjmJRg84N22n79rGO0DfiS1cQr0EmzMcbshBrFOL7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5143
+Last-Modified: Wed, 27 May 2026 05:34:15 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3130e4ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "13090", "places": [{"place name": "Liverpool", "longitude": "-76.2235", "latitude": "43.1528", "state": "New York", "state abbreviation": "NY"}]}

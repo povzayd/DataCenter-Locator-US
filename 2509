@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=swNCHh24NYcLKiq6nD%2BxiDA%2F3tVRggOa3KTHwAp3VRxJi49mtFItS4ItJu4THEsKXgvzsUohPTQdvBzFS4cZE%2BWcaUVRMHNy6Uob5WlG1Ce56uSmQHYyEYfXK9f2pLEJ3etT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1467
+Last-Modified: Wed, 27 May 2026 05:52:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332bc9ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "47250", "places": [{"place name": "Madison", "longitude": "-85.407", "latitude": "38.7649", "state": "Indiana", "state abbreviation": "IN"}]}

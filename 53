@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rqwsWUZk64IrHzRq2kdmQsWrU%2BqrkouI9Q8BLsl2de2eiTbrwImRmtXjRlhwxTxT9C2JCCKXnGr5QouJcR7rUvh4BEelQWuprHS057G2yZx7tiWPXCfGs%2BqbP8ab4r%2FsuJUT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ee09eda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45662", "places": [{"place name": "Portsmouth", "longitude": "-82.9306", "latitude": "38.7932", "state": "Ohio", "state abbreviation": "OH"}]}

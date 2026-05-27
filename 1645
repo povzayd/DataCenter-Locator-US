@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dUPdpmiFU5rf%2Fmb5TK5FcpNBBZx0N8wnxoqcz57fwfy9Kkegr4W6aNmX0ydCNLHBqu4CgIh0yu%2BSUPv5yytDtFcC8iTYGiXeiVul8IlElINsju2GfUYMJKDCrT8jyu6CosxQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3814
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3181b41a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75904", "places": [{"place name": "Lufkin", "longitude": "-94.8327", "latitude": "31.3489", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Lt8cSU3ayB5U9WzC68exDTTnj3SPk6gfwp%2FfAJ0lrENueZTui5t8Qk568dY%2FiQRLrUfdhP8j%2BwwaSFxUx%2BHL1O9Bv8l%2F5Q4r3nZmcqr%2BJe7Ghqaz1x0no51xPydq5ydmczj%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1605
+Last-Modified: Wed, 27 May 2026 05:52:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f77a5aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "54495", "places": [{"place name": "Wisconsin Rapids", "longitude": "-89.9228", "latitude": "44.3881", "state": "Wisconsin", "state abbreviation": "WI"}]}

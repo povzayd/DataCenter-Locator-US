@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WGoZ3M%2B706te8UUddNSk6W081TRiyNg9HREmDJrVBKIoHmU5e7hz15O2IDCqzCgVdfalKfFK%2FKr1n4DxUWrKNfE1wdhU57ZLbMKsgkppj4p6cr2yVDMn1xaFeBK5P4s%2By34e"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6473
+Last-Modified: Wed, 27 May 2026 05:34:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3287a61a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77070", "places": [{"place name": "Houston", "longitude": "-95.5803", "latitude": "29.9781", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=De%2FX7kLcAK2FKv79S0FbQ4kBSHRYbXq8v81Aq0RLB6FVLoPPqeBrvBiKgLrqdqGtcV45yXwwdIwrXRicLZG%2BC8OugTYcgd4eeCzCNRqeq%2Flj34MO9P8QrXkgSdaUYx9wVjFH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3148
+Last-Modified: Wed, 27 May 2026 05:29:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3163960a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "41056", "places": [{"place name": "Maysville", "longitude": "-83.8067", "latitude": "38.6207", "state": "Kentucky", "state abbreviation": "KY"}]}

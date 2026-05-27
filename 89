@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zhUv2yAm0UVRBYAvuN19oh8fLxjCedPndFCIBpCoOKGoqZtfXZQQ85R1OtCKPsc%2FytMxOdlBuUnT6%2B3MB0%2FekZjy%2BF9CZJ1mg3I6%2FoVKq%2BxFPAFbWEHPPqhQ19DqEk36Gd7W"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3145
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2eefb04a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49323", "places": [{"place name": "Dorr", "longitude": "-85.7628", "latitude": "42.7231", "state": "Michigan", "state abbreviation": "MI"}]}

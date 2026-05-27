@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aw02%2BsdGQ0o1mzkIdppMnciZ578RiMjIXYA%2BggrqgpGw8O7YhOQk0w12AfgABvOsMhuyMGxKB5OXc87cXKF8cElaK9IXY0CcU9X%2BLLaGFdYDNhdU9ciwzsNt8QjTC%2BcYZ08j"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3414
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2feb8bea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36078", "places": [{"place name": "Tallassee", "longitude": "-85.8978", "latitude": "32.551", "state": "Alabama", "state abbreviation": "AL"}]}

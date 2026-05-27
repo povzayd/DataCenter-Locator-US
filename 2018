@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fJ0VAL5sUgc%2BwhV%2F5v2H1DjqFH4ECH%2BbbFoMtQiB6%2FEVmett6hdUmBgYSOQt64J1GgJY6zmLjkqvr4OL2DBkZJbDnSNnObFU3PfoSvFwm%2FFa%2B7oX3t2eyul5EanhSoHUvueY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3233dc4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "95304", "places": [{"place name": "Tracy", "longitude": "-121.4096", "latitude": "37.7319", "state": "California", "state abbreviation": "CA"}, {"place name": "Banta", "longitude": "-121.385", "latitude": "37.7149", "state": "California", "state abbreviation": "CA"}]}

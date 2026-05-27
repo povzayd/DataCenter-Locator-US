@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lxQAg%2F9HrN7NgWj7LUgMMgp1yr8Dbkt3D734lY%2FuYgZhSVulsp7WQ3gLMXuGAQNGFvr54MJOOytfD3wkt%2BiqyOPbvjpOr8DEK2Gi3RzQ1I0fu7KCwG8ewsZkJJR5Qq%2FZoq82"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1604
+Last-Modified: Wed, 27 May 2026 05:55:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e322bd41a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28147", "places": [{"place name": "Salisbury", "longitude": "-80.5615", "latitude": "35.6817", "state": "North Carolina", "state abbreviation": "NC"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Co2hvexaADN2bj20%2FcK%2FYrACQ6nsd1MVchhYF0ZJdZa9fmLX32uDQcaEC7JrhNeB18TRrocPSqGP7v8qdZZMSTurTZ7O3EmQqktRxJu3f3XM57Sj%2FTf1a6GswOfrPtqpAMJt"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1083
+Last-Modified: Wed, 27 May 2026 06:10:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f6e9d3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "37769", "places": [{"place name": "Lake City", "longitude": "-84.1386", "latitude": "36.2032", "state": "Tennessee", "state abbreviation": "TN"}]}

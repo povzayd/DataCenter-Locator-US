@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iImKVSpj90b8bmZxqKZ%2BqpOJAhpXTBLlqgn9Fob32yTqNwtXqSIw5XW8XjFhtmXX6Ajftp9y1%2Be1HOdzMDj0yglBxZ7g2MHrNAAANCH%2B1jxmkdPGf3nrmsV4C7H55SQGoNGe"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5000
+Last-Modified: Wed, 27 May 2026 05:30:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3353f2fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46952", "places": [{"place name": "Marion", "longitude": "-85.6741", "latitude": "40.5743", "state": "Indiana", "state abbreviation": "IN"}]}

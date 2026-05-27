@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CwWyXW3f25F%2FdqAQ1zIOyezQAPkvXVwTTahpK70Y1weOMwD1iFrBydRBZzM022034grNnrv%2FnWhhp5yCEioaGxposADBu8mZvRYTgSTCrBaSfY9L5eoV8%2FJiruYJ%2BdsU7UVi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3814
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3177ab4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75109", "places": [{"place name": "Corsicana", "longitude": "-96.4199", "latitude": "31.9937", "state": "Texas", "state abbreviation": "TX"}]}

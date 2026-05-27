@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b%2FA02r8uGdq86oKDQtiUqWiB6SBIyXXb8w6811TrOpcrGLyQRV7MA7d1tQ3e4oCJh9A1bl7qg3lcrUIQC3fFheqimFjIZp4KEAtUi%2BjJ%2BL0EVdrCaJwbuq2ycoS0YI2sV7DX"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3528
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e315d906a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "80018", "places": [{"place name": "Aurora", "longitude": "-104.7071", "latitude": "39.7102", "state": "Colorado", "state abbreviation": "CO"}]}

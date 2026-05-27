@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CGqhXpzqDgGQn7V5zEAQ3Ym%2BL6mjtHjb79CPTh7mzPJVMQWap5lDBsivhuCWQM7n8uCuLHRJOERapDL%2BVVwxnZFennm7XjziEqhENOzIoF8VDm0kZdlJr%2F6cG5nBAHJj%2FbV1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:29:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ee1a06a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14150", "places": [{"place name": "Tonawanda", "longitude": "-78.8547", "latitude": "43.0028", "state": "New York", "state abbreviation": "NY"}]}

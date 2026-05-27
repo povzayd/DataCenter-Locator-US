@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5rmhA0lxclyJCp10nEBBRevBJ09o%2BH50ZcctNYduCj%2FFiZ0j4%2Fkh95fwcOtkB%2BMMyY3kpQtKJ%2BP%2F2sWIzGfTzbgpT24LOiPrmv5oms%2FWzU9qHCmlU1FKe%2BcSWEhxFp3A0nnP"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1508
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3031c73a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60554", "places": [{"place name": "Sugar Grove", "longitude": "-88.4397", "latitude": "41.7741", "state": "Illinois", "state abbreviation": "IL"}]}

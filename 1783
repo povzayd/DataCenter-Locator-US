@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q4lCAsyC46vMbkm5pbE8UWWmBsYU%2FxrZtaopTmWe49LQj6wMtv4I%2FkWZz2jX25rtF0km2FYJBXaqIAkda8bzhsVrg6WJARL55jsn8B6e%2F1gQPlBGS%2BJAv%2BZvrwI9jTpCByBf"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5604
+Last-Modified: Wed, 27 May 2026 05:31:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d4801a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76126", "places": [{"place name": "Fort Worth", "longitude": "-97.5448", "latitude": "32.64", "state": "Texas", "state abbreviation": "TX"}]}

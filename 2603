@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=344kAW5RIQMCIKpWgZ0XTqZPfH1zHuPgm%2Fe8xTefR42kBCjrqPr3mbCk0V9v8PK84Ml0DvmSrvIt%2FmlWLYXHg%2F%2Bq%2B9rSMIFtBgk4whYf2JDU7RA62QTdnq6j0VQBli0tytiv"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4932
+Last-Modified: Wed, 27 May 2026 05:32:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3349e7ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20136", "places": [{"place name": "Bristow", "longitude": "-77.5474", "latitude": "38.7343", "state": "Virginia", "state abbreviation": "VA"}]}

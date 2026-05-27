@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6hAmQ7dJELSU%2BEuH1KXvVagcfFHaiY3rbuXUULXeWK1JO4MfUCIP9BKfmtFIVmieXUI8Iya6Nw2aqaLaZ0A3CHd54u3uH7AOiF0kMR8mVDe%2FQSDZ66kNpMXA1rAXVQNwRl%2Bm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5245
+Last-Modified: Wed, 27 May 2026 05:37:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3331d0da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "47861", "places": [{"place name": "Merom", "longitude": "-87.5397", "latitude": "39.0323", "state": "Indiana", "state abbreviation": "IN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ALcS4OYs%2F61estH%2FeAVUW0l%2Fs%2BQpxp%2Ff6DTpP%2B%2Bt29Mi87cujf%2F0KKrMpH16QYpEdRZ5A1QbAeq5xBv5vWw%2BNU5kv5m%2BrLf8u8Z1Q6ujdkMvkwaM2loHKurZ0K2XrxNXjFQ6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed8966a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46234", "places": [{"place name": "Indianapolis", "longitude": "-86.3163", "latitude": "39.8088", "state": "Indiana", "state abbreviation": "IN"}]}

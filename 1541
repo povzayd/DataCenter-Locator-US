@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6GGg1KCUCWms1gCfuSbxcMiQ8tRbqvqTgQRmO8kS5h0zTQLVq902nOv3cmQnJzSsk9TMcJNmlfiYhbb6RaJG6Pzz229%2FYg0K6Z1PrSYKB0WRP0JPSb5UmmGlNVX0WPyoAO2p"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3815
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316091fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75402", "places": [{"place name": "Greenville", "longitude": "-96.0927", "latitude": "33.1047", "state": "Texas", "state abbreviation": "TX"}]}

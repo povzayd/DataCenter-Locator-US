@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Zo%2BB2UZO5TEX5x64eCFVCVLJOPGTUf7x3JSymNMHHim5Tw9V5s%2Ff0V2Ij3Cpsp2KTrMFlbrq4J%2BXot32Qx1CcHsHpmSZRruOCkWWsf6kbDHdadlZYhH7mkz9RK%2BJdVXOHyDL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3233
+Last-Modified: Wed, 27 May 2026 05:30:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3043d8da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53546", "places": [{"place name": "Janesville", "longitude": "-89.0025", "latitude": "42.6683", "state": "Wisconsin", "state abbreviation": "WI"}]}

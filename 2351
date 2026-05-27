@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rZspq%2F8GF5DUTTN4LxRZQkt7A7UqbymvrAVuwnekEyqthH%2B9m4oElfqoMeulTUSm7Hf9a6lfp1y9RB8zeWAygo6UeFt3iYOoE8K0j3aSYPkg1Qjxx2SUr6TFT%2B%2Fi1raWXlZ4"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c3e6da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60131", "places": [{"place name": "Franklin Park", "longitude": "-87.8734", "latitude": "41.9339", "state": "Illinois", "state abbreviation": "IL"}]}

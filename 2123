@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Dbmq6mDwWdRXLtMnlTrwln7v8sz%2F%2Fyq0A0AGP30xfnl1LcF1LgKEk3L27NEaO%2B17ONRMi4oRgLiHufjiCZRh8F4ju%2BZEWDRLwJvS6idLz3XcxbFggFGuy0U5On15wMjb%2FUG8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:36:39 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3278965a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68845", "places": [{"place name": "Kearney", "longitude": "-99.1291", "latitude": "40.7514", "state": "Nebraska", "state abbreviation": "NE"}]}

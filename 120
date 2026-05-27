@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MUCYYJgBHu9VGVfrv%2BM%2FWlQmqoa4ym2nuq1SrXTASHD2mTFOkeJTqdipokMGFchM1km3W0a%2FfBdUAkC6R9cLNqHWQ0F3ebglYuF4Kpjb96hw2xqKuTju%2FDsPTAhp5gACkEBa"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3833
+Last-Modified: Wed, 27 May 2026 05:29:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f0dc9ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63028", "places": [{"place name": "Festus", "longitude": "-90.4286", "latitude": "38.1879", "state": "Missouri", "state abbreviation": "MO"}]}

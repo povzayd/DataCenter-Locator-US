@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=E3lJc8xeoK0O%2Fm7v8zG%2FpBvPv2A7mpTTwGp2jQdCqHmfNgXvOH7k%2FvlzHJ3JG%2BVqcN9QNIlmcUJ1hdemBc%2BkbuvYkeDaDFKhCH2lMyrB9Fw58V6ivk3boVv3iYuT0YcTUvnj"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6073
+Last-Modified: Wed, 27 May 2026 05:30:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f91bb4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76458", "places": [{"place name": "Jacksboro", "longitude": "-98.1681", "latitude": "33.2347", "state": "Texas", "state abbreviation": "TX"}]}

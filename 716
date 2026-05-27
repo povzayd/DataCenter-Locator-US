@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rIFgWDKlMiSnS6QyY6dSmTmN7AIA60DblEU9w3ONRAIHtQNlq2IQ3fxxdW9FE2IanLZlmVk13WxGz%2BuzbTcfT5QNGK0lLUlPaxZTjB4kM%2FB4C99MRh4NFVeo2k3xKm5Roequ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6475
+Last-Modified: Wed, 27 May 2026 05:32:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ffc9b1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "26419", "places": [{"place name": "Pine Grove", "longitude": "-80.6667", "latitude": "39.5755", "state": "West Virginia", "state abbreviation": "WV"}]}

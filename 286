@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tStdGU%2FaQRwPq%2F0brO8tnVyLucweKGDyUpU3OAPXA10%2FT4Dq66%2BJ0DKS4jnZUpu%2FFbyUtgTFQYU1I20ubwSMkspltqm2y9W4X62PMEr9lnx6GqmkklwbxPV2KTCDR%2F94UGB%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1442
+Last-Modified: Wed, 27 May 2026 05:52:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f6493ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46928", "places": [{"place name": "Fairmount", "longitude": "-85.6713", "latitude": "40.4188", "state": "Indiana", "state abbreviation": "IN"}]}

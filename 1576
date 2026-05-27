@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PElVonHz3yHhh7bvP0qgDnCQLx9LjgZdsMDsncSLrA%2Brvfza%2BrUjW6R4s%2FxuqxzsBRsyxq1156tDwC1QkCGhZ0%2FgCW5p%2FgTV0Mv8T23UilOyJcVr45pyEd0jGv%2BzstUWHxY6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3828
+Last-Modified: Wed, 27 May 2026 05:33:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316a9d4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85323", "places": [{"place name": "Avondale", "longitude": "-112.3438", "latitude": "33.4321", "state": "Arizona", "state abbreviation": "AZ"}]}

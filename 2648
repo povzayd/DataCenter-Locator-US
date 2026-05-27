@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Gi5LOfNAunaYoIBNxIwhHCXUq0Cy1erOuLtQthS%2FuvorcVRt46W5A9g7I6R8psHxSKE%2FeiUgWD6l7ofvtdAzLzbFAPdGsejXYtZEaUqswTg8ytCQUBvqDg1LAx%2F8irfjOUt0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1846
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3367830a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77830", "places": [{"place name": "Anderson", "longitude": "-96.0018", "latitude": "30.5443", "state": "Texas", "state abbreviation": "TX"}]}

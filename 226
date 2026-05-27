@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=91we%2BYvF2zFHa9TFeq2OWgqOlD43vLTJ6Rw06cY5FKCMqnyL7LDeUsSLcn8C69m9mvPf2m8KPgBa8dXFUq5tEXCRl6wJs80slF8jNP2oUCryV7Pho58Dv54siJGYs64g1shQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1606
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f4fffca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "55811", "places": [{"place name": "Duluth", "longitude": "-92.1998", "latitude": "46.8147", "state": "Minnesota", "state abbreviation": "MN"}]}

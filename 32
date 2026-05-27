@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G0nFQsXgF4u1y97jrzo5zP2y0Nuv%2FhMP2cEFb%2BtNg%2FHsMEQoL9L3LUMPwUl3qFWgwfQdQEEDJzU%2FolAYbau7utxirEuWsIYBAWAl%2BRiYJfBKACiQ26zUCOV5i1KUu%2BdZIJcn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3412
+Last-Modified: Wed, 27 May 2026 05:29:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed896ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76679", "places": [{"place name": "Purdon", "longitude": "-96.5856", "latitude": "31.9483", "state": "Texas", "state abbreviation": "TX"}]}

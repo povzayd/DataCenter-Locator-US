@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=a2MXZbY4392cB1uC%2Fsr13HH3S4zkRTFSnYxKQHCgfLQHgTvVdOuoAtwwkOR3TxU2ViafIP4zg0A1pwkT5i3bfwKyG40hyL0a3KPsadoI3AqGgYBKmEk3d3Meoxwk2Fa5rmDC"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5710
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30bfdf0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45177", "places": [{"place name": "Wilmington", "longitude": "-83.8417", "latitude": "39.4488", "state": "Ohio", "state abbreviation": "OH"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7SUFU4J4ebGXTg43AwmaC6Ba%2BV%2F4zHSlojN6QUabSMqVRvPSWidAhol1fjg2iTCP%2B%2BmfeZNKhsgm79WnryeqoiwOBPX4jpXN1p8fohkVa0vAY2046Y1n5YtXOCkvVM0DWJeo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1070
+Last-Modified: Wed, 27 May 2026 06:10:37 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32badd0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "32420", "places": [{"place name": "Alford", "longitude": "-85.3756", "latitude": "30.6412", "state": "Florida", "state abbreviation": "FL"}]}

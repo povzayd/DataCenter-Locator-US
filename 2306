@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KFKSPzh3PcrDHcoQAwIX7SS6g89ssb929PSwOuUAvVBzqPFR%2FU%2BtITS2twibXjv9uSfa0V8bsNQ37vpz2GILjU%2FXsaS32qZy%2B7DPZRKb1fBn%2Bggi1EgZmRtbaiXeVZRu%2BZ%2FZ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b4d6ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79765", "places": [{"place name": "Odessa", "longitude": "-102.3944", "latitude": "31.9375", "state": "Texas", "state abbreviation": "TX"}]}

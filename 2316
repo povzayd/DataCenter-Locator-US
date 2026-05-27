@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4n8Uuv1FrnvEveNXTkB5WuUIfX9hd4rEfKQaTAVArtiepndnGRBod1HDoJeh92MJ94IGT8Ajmy6tBlb0WorhB79xuto0EDHgNFyVi%2B42emI%2BUi0WDAq0bO%2B%2BrmS56Cob2uDc"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5528
+Last-Modified: Wed, 27 May 2026 05:30:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b7d9fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60431", "places": [{"place name": "Joliet", "longitude": "-87.9391", "latitude": "41.4712", "state": "Illinois", "state abbreviation": "IL"}]}

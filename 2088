@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2L0ptPtH%2F2btH1fILDvtH%2FO1swtoGvUWHduJN46L9zdTKMz0vCW%2FHdLDy5Y6cqhNJznoJB3gsrTXwFn4a1qkIQg4XkA4O4eDkCl%2FeE6cTMlV6eFHYQ%2FzaZGxZDLbJHxeT8fQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5144
+Last-Modified: Wed, 27 May 2026 05:36:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326e8baa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43026", "places": [{"place name": "Hilliard", "longitude": "-83.1383", "latitude": "40.0322", "state": "Ohio", "state abbreviation": "OH"}]}

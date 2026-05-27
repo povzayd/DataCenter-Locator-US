@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q6gJiQqvF8eHG%2BR0uh8nSC7Oqxzvn%2Bcr6fGNEahaf8ruZu9RarszxpoC%2BCMcU%2FcLS8KdNbpCdLDHEZDr2SneFR6kssMMvFZ%2FpCOaI72rIfxH6u1fp7tjfc3lLMo7ITnQqfYv"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1303
+Last-Modified: Wed, 27 May 2026 05:55:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3133e72a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77865", "places": [{"place name": "Marquez", "longitude": "-96.2375", "latitude": "31.2309", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ljNg5CV3U0e3hwKzdShltD9hbaBDWxfF441WGPa9t89o5rKvi%2Fq%2F4h72MZb%2BJhocOEUoyeIi0JftOpC2BF9oWeB7jllYhJPyKWIEbv4YefY7nfGvVYrjXMqhqV3PyKp94th1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6473
+Last-Modified: Wed, 27 May 2026 05:30:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f3ff40a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78160", "places": [{"place name": "Stockdale", "longitude": "-97.9351", "latitude": "29.2319", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CCnnorf7iaeiwDwCRjVaKX9pgs8KBwFtNAU9Of6HwdEGWk6bgaf0UA0U0PeNGdTUmftXJrRZpAf8DvgKcoFpGE8oD2rlVS%2BLRzGpA%2BpBU%2B9BIg4f89k2DDCVUVVKjWD4hZyY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:35 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32718eda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76578", "places": [{"place name": "Thrall", "longitude": "-97.2893", "latitude": "30.592", "state": "Texas", "state abbreviation": "TX"}]}

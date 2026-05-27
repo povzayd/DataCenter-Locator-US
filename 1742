@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0xvhAI1LqrVmK%2BOL1KCyfIqr4Tik5DETiG%2BuC6rneFi%2BX%2Fz5vsSC6wPulENHbcHesEnyoMBOBAomrekHyDJRFUFnaM1bnMePDfulinsIQGX1atYV0kLFGlIt9%2BmHSGtrkWZ%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3829
+Last-Modified: Wed, 27 May 2026 05:33:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31bae84a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29577", "places": [{"place name": "Myrtle Beach", "longitude": "-78.9137", "latitude": "33.6994", "state": "South Carolina", "state abbreviation": "SC"}]}

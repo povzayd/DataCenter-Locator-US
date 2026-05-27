@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0Wsh0mm4yf%2BVVdu7MGyQ%2B7e1fdzfNylIc5ursbhmXHBrp2ggm0Nuyk%2FyD8hNpSiMwyUosk9oxsj85sGp26CHLejgfp5a7PyxYAOGb0Za75jnnRPU7vheOo3gAp2MbLVfBFmT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3570
+Last-Modified: Wed, 27 May 2026 05:29:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3213bd5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29745", "places": [{"place name": "York", "longitude": "-81.2245", "latitude": "34.9947", "state": "South Carolina", "state abbreviation": "SC"}]}

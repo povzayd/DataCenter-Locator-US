@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Cah4751EAIlWl44y7cHuYFrjQ0jVp7uqKzOeAylwWYheeNyN7RoeTW6oaQWppz9C3aBK%2Bu2V%2Bl6xUC31ZJx5QwgO4pzpJBEWFi7DVqgM3PkVFvwmqmJ4ymYDgE%2F9SYceusJH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5702
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3184b69a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48162", "places": [{"place name": "Monroe", "longitude": "-83.4448", "latitude": "41.9293", "state": "Michigan", "state abbreviation": "MI"}]}

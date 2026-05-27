@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2DtsXjT20SZahfFVHExbv0nMEpEsGRjyf8XXAB0aA8ZIskZqIMtCVwiyGwllsVWDUPLIRXGGImJKeIfoul9arIG2CaIqlyJFu4nSGvZJv2u62eKVjFndqttmdYN5uJwc9Zf5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1826
+Last-Modified: Wed, 27 May 2026 05:52:05 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31dd8a4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "24083", "places": [{"place name": "Daleville", "longitude": "-79.9211", "latitude": "37.4125", "state": "Virginia", "state abbreviation": "VA"}]}

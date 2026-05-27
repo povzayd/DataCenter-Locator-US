@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2kja%2BkhDVqLPvY%2B3%2FmmgYIeXv9bUKdnzt8G4nkIZuQIW1PCsl5fg4oowYMEyrWqL32lDzFbNdXaYP5dqzSqpX0Jhb6l7Vz6P6VbJBL3ZODK9Ce7FRXmfN1Ifsdztetiqh3gy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 7117
+Last-Modified: Wed, 27 May 2026 05:35:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31b6e35a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "50226", "places": [{"place name": "Polk City", "longitude": "-93.6893", "latitude": "41.7549", "state": "Iowa", "state abbreviation": "IA"}]}

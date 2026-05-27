@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9Bmzr9KJABnFuOQ2xwyMKrbNp6fZx5Ulz5%2FPlc24oGiopUM7woNA7HcAozPwnmauTLiHuw2Arb2yS1oVnXF0JQIvKUNNt2iKqx26O1hQ1Z8gHXRNNYU%2B%2BZ0leY0%2Ffn3LiNT7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b3d50a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "82834", "places": [{"place name": "Buffalo", "longitude": "-106.7073", "latitude": "44.3485", "state": "Wyoming", "state abbreviation": "WY"}]}

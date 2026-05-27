@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EapoixCSmUWiHD3rWCxkYk2A2kPc3Ds%2B3Bo6ppyApevzoHjjDGxLP%2B9PpJvqwl%2B%2B5VCfyRIs3jJt9Z1SvjvagfIum6AEcpwsrFtnfzID6T35ErNqw%2BpdmNt2fSQ4Ne19eiOL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e333ddbba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "17356", "places": [{"place name": "Red Lion", "longitude": "-76.6081", "latitude": "39.9026", "state": "Pennsylvania", "state abbreviation": "PA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aqkVEhDT%2FvorCgW%2Fpr0F7Jw4dBXO2Sl5%2F%2FM1405D8l%2F0iiPb%2FtRaHF0Yo9bCOj3Adt4NbFQuLzs9rqM7xAByu9iQaS6J2Vt8dX0BRxf%2BUYUqxQPkS6SWsKEvimrXISG5twMS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2835
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30c9ea4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "99654", "places": [{"place name": "Wasilla", "longitude": "-149.3959", "latitude": "61.5923", "state": "Alaska", "state abbreviation": "AK"}]}

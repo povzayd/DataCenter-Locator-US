@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P4QMVqYKCoaOkxlwF%2FIQnX3yZqrZDA%2FzwvRTsUj1hM5OwhxLCFheixN1XyaBFuw12NgjAfideI4O7UFLKKXliZrzhO0lPRqt1CfZ74KsGTxkvcGnDn0vtDnSDRJfFyKQ5N3c"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3294b33a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76681", "places": [{"place name": "Richland", "longitude": "-96.4373", "latitude": "31.9018", "state": "Texas", "state abbreviation": "TX"}]}

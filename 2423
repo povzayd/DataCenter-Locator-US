@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=u62Q8uNrAZrm%2BGFVrrABoZhaVhSZdMp5kv6D0OL8D6g4gJEu6gOacqT4mGhN2QyEGigQuL6JxzosM9lpCQLFDfsEGYw7zY62FUDz7ea3boPUUn9wSxwHRsP%2F4UDHk0MSJCge"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4999
+Last-Modified: Wed, 27 May 2026 05:30:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32ee8e5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31029", "places": [{"place name": "Forsyth", "longitude": "-83.9362", "latitude": "33.0508", "state": "Georgia", "state abbreviation": "GA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7wZ4vSXuBpmOYFwRczZk4DwRYqcexQ%2FyYvZL%2F%2FxZhmqjlDqcyb8RsVK5IGv3RFSj4I%2BgxVN2xYizZxyDuhY%2FcLskv7NDYtlILQHUUyyfTkf0IqkIt%2FE8vXIfDoAZmt2P44rd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1505
+Last-Modified: Wed, 27 May 2026 05:55:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e313ef19a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19007", "places": [{"place name": "Bristol", "longitude": "-74.8536", "latitude": "40.1159", "state": "Pennsylvania", "state abbreviation": "PA"}]}

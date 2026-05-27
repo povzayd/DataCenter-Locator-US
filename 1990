@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jQL6XoKk6dUh0EWt1Gu0pA9APW%2FryuXPfXLEeqHYC9Ee8%2FsnGzym%2F88rAtDPYidod5yl41a6Ua%2BWSpbr5l%2BwWSfSqWhPw0%2F6G7o53Hm3zkzYnrCUloI2clbvcnfB8hL4QjHV"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3228d14a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75155", "places": [{"place name": "Rice", "longitude": "-96.4606", "latitude": "32.2258", "state": "Texas", "state abbreviation": "TX"}]}

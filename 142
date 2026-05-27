@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U%2FJfJL1pdC%2FmMR3Nq5XSgAtD0E1o5OtwG7slUB8vqpz3inP2FT1yRL%2BTtdU3HPk0GMSPaCTGvTfKnxxNGWhkN%2BQoqX7WVPSsbQXIGNw%2FgF3lc34nBtp3C%2BOdfD2X4Zw8ABkK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5276
+Last-Modified: Wed, 27 May 2026 05:29:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f14d04a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "82930", "places": [{"place name": "Evanston", "longitude": "-110.9631", "latitude": "41.2609", "state": "Wyoming", "state abbreviation": "WY"}]}

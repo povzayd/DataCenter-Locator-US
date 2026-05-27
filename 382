@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1eNyxOt%2FsjA0FwhIAt1OzrMyR53QHqj2s%2BA1oFOmHzeQU7AOoFVNWEc9m8eGAgxnXA62mdMYVhXJmx5qTZYNGF3SD428T%2BbAbjTytCQJkExKTdRLS9ETXWIZFfo%2B%2Bled03Oe"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5136
+Last-Modified: Wed, 27 May 2026 05:30:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f91ba5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29301", "places": [{"place name": "Spartanburg", "longitude": "-81.9654", "latitude": "34.9352", "state": "South Carolina", "state abbreviation": "SC"}]}

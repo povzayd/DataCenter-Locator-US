@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cXzbqwvcSdnXCmk8S0QCt032KE95feimdi7u6%2FDbGBHywERDQrP6v9fhPYSFaIjQHqjxXFJHv46kcjytp68d9yBwLOF1Jb7Hiy%2FY18cXZZF7fpZECHi4bLu2leWTRsXxdRJ5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4296
+Last-Modified: Wed, 27 May 2026 05:33:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e888ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85747", "places": [{"place name": "Tucson", "longitude": "-110.7272", "latitude": "32.0984", "state": "Arizona", "state abbreviation": "AZ"}]}

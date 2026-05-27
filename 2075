@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sW9w58x47hL58DdfIY%2BZ5N9bVGHZINwD69ESUGi4ISwg2wuM3fLmTy2FMsebegbXdnfixTLzBd6Pb5s4a2vwf4oYVum8qqIcTrGGmgApgQG0FOZUu5FwHCPWckGkse4%2FcO4y"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:25 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326986ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "35740", "places": [{"place name": "Bridgeport", "longitude": "-85.7277", "latitude": "34.9446", "state": "Alabama", "state abbreviation": "AL"}]}

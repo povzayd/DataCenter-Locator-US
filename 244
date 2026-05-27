@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YKLZqKAGfFY%2Bikc2phPKZ%2B9pFzIUNTEryXuUENrjxlGmn7dUCLGBdUgu9akh%2BM63spKhVF7IdVVXQtuOOFwK2oou2iKQ2tPtzrt4S4NqPaRWiyxI6IX%2BWlZmjtifKfGxt90%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3232
+Last-Modified: Wed, 27 May 2026 05:30:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f57865a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60421", "places": [{"place name": "Elwood", "longitude": "-88.0864", "latitude": "41.426", "state": "Illinois", "state abbreviation": "IL"}]}

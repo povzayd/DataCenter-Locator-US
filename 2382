@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0DhH5%2Fvetantz8UWomN4oa6eOZStB3WdjdJuwZVCz8hBXCd%2FFmhdk3tYDGEhYD0Tbjs%2BzJX1MJa2va9T2OjrIWbgAHOER1Yv9NvFh83BCdOfDjUzhlapfeGa7peFnezxLg5i"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e1826a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62830", "places": [{"place name": "Dix", "longitude": "-88.9657", "latitude": "38.4333", "state": "Illinois", "state abbreviation": "IL"}]}

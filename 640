@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FYfC%2FxGx7kBVZG%2B%2BPn3yHq3SvewVVHhbHUVnKaVVNwcGs%2B1XTmtOi1CrJGvUtcVyXYNPotlryVKnc4x0kumyqkGkU4d9145H0DHAMsSmODTwW0SrZzFs1ZXCdYVpfqmhLXAP"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3231
+Last-Modified: Wed, 27 May 2026 05:29:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe4872a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84302", "places": [{"place name": "Brigham City", "longitude": "-112.0152", "latitude": "41.5079", "state": "Utah", "state abbreviation": "UT"}]}

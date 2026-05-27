@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JbfkFaAiJQ%2FXJQYnJ4QEVfR5YZ%2Fa0sYeMoGq11snp2ezu1%2BtNCpYKl%2BYeEXI54FzW%2BfFN7bkKRg1rT2avlQpV%2FsK1l7JmsunmoPUtkITudDq%2FQgTmrpH4QgrkSaw8f4tRjDQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5144
+Last-Modified: Wed, 27 May 2026 05:36:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3335d3ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97739", "places": [{"place name": "La Pine", "longitude": "-121.5194", "latitude": "43.7091", "state": "Oregon", "state abbreviation": "OR"}]}

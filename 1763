@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7z2mL%2Fq5SyK%2FLbTi8o3NSKz8%2FZGwr91qE7JOBLjov%2Febr19%2Bgci9rJVCvB5XYDh5GMo3AEWIP8ykLan0hIXyNyw04Pv3spAmQeWZyIw4M3Fmh0vfFqmvohHPDh5%2FmLSiG2bN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3137
+Last-Modified: Wed, 27 May 2026 05:35:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31c1effa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29036", "places": [{"place name": "Chapin", "longitude": "-81.3318", "latitude": "34.1312", "state": "South Carolina", "state abbreviation": "SC"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OpqQoRJUIN98zTp4Cjs71s0XBdKDIipQy88Zva%2Bxlo6SVVqW90%2FWHNwPn5kwOxN1fu4Gi%2BkiEdHzSWmTGy3iP20HUJnkEwRpMF4AUF67pX10qlHn25BOAqJllzn1DB513EOs"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3529
+Last-Modified: Wed, 27 May 2026 05:32:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ffc9aea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19465", "places": [{"place name": "Pottstown", "longitude": "-75.6653", "latitude": "40.1919", "state": "Pennsylvania", "state abbreviation": "PA"}]}

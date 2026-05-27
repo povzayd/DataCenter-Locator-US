@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b866dE5eRlncixPYRDBrl61ZX%2BsOfnPxRrM4XGaRGozlwKP1NjolM8irUwX%2BiWa53PVney1Un8tRN19E6gUmwT0EAL56H8x01BqWy8k8efcSg04WbOjr%2Ba7PLNb6%2FKa6cBFq"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a4c2da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "39851", "places": [{"place name": "Fort Gaines", "longitude": "-85.0548", "latitude": "31.6264", "state": "Georgia", "state abbreviation": "GA"}]}

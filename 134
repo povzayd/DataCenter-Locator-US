@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sef2jgvpBGQcJE1u3qnCZnkxRdeQTjUIjoMR3dmv90OC183q1w%2Fr28OdPN3eHYggTghvXM7VpyZmxCrswYrrE6vwMuK9sHp%2BjLmXOIaYJjHNNRF1X7hHyi4njterUZV8VZG%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1470
+Last-Modified: Wed, 27 May 2026 05:51:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f11cdda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "64057", "places": [{"place name": "Independence", "longitude": "-94.3533", "latitude": "39.0731", "state": "Missouri", "state abbreviation": "MO"}]}

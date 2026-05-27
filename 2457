@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JRQpBBWqvlTWXvha7Nic0jsMYWYEZHzFDT0oVW8%2F6RG%2BzIJinkaHxZ%2BrMmiBa0801WY%2BLcI8d%2BjGNDaQYoeq3YAUVwi1ZxpZFPDlDAt%2B7oM%2FHueFHX9Zvdwm5oPWTCmQQko3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1386
+Last-Modified: Wed, 27 May 2026 05:55:45 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3305a7ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46392", "places": [{"place name": "Wheatfield", "longitude": "-87.0699", "latitude": "41.1779", "state": "Indiana", "state abbreviation": "IN"}]}

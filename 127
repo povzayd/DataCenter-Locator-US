@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tCxQJLUpWKtzHynTqJZfc7%2BHdScmeBOFIF2AUN5IDJKpN70a56iA9SPc8H69ESo1X4J9ZE0vzav%2BR5iHGjReX3u3mBPiZu1zUzwFu8cLqSZD2uXrukRq4zhjMg2H9cE3QHcB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1470
+Last-Modified: Wed, 27 May 2026 05:51:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f11ccca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76939", "places": [{"place name": "Knickerbocker", "longitude": "-100.592", "latitude": "31.2501", "state": "Texas", "state abbreviation": "TX"}]}

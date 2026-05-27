@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=u393iFTG2TYBo54%2BHuN7B3sP4TZovxT1XopowE5QvSK77ydY0zjrhU3p3vyncJwxcFVLuOgq8Niq%2Fmw4DnD4OgTunHnwf%2FID%2BxeJE5Nys9K5xpoSVIt7UHXP%2BcOn7q3%2B3Thl"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5705
+Last-Modified: Wed, 27 May 2026 05:33:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e306f811a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77875", "places": [{"place name": "Roans Prairie", "longitude": "-95.9579", "latitude": "30.6075", "state": "Texas", "state abbreviation": "TX"}]}

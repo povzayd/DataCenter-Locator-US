@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Qb3%2FnmaYI0d%2BETKFjftZtUaXOG4OmFQsk3nJm1dFpzpNg3AvOO7Mw5Hz5JxiIo7uh%2Fmip1PCiJx9Kd9s%2Flz%2BUjsSbRZSUo7sFdYnkE1O2laLfR%2FNStf2YvfDIblFZoBMM6xJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c0e44a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28650", "places": [{"place name": "Maiden", "longitude": "-81.1745", "latitude": "35.5759", "state": "North Carolina", "state abbreviation": "NC"}]}

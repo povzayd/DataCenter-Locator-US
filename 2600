@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cWPcCvPAbbtEV8o3VqhD7%2BR%2FzilamLOwiijI1nyQlaRlFALvWMjAXzay25YiNrDXX88Dye2ubSK8IVv0uohUJzeLo7U%2BxfgKeiggUrWPB71OkYs83EvYRizrsF9x83R4bOQK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3349e77a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27801", "places": [{"place name": "Rocky Mount", "longitude": "-77.7608", "latitude": "35.9426", "state": "North Carolina", "state abbreviation": "NC"}]}

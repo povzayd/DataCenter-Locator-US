@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QiE7vRkT3ZxVELk%2F0CbE6%2FxbCAS9jOrLTaL4DYgQbCA70MeVhgG6K3GYqNZUri4RvAxffvCT6D%2Bw0ZkR2sw7ijoBRPkFweXDWsSyGIq%2FlSJOHDP4fCn4FZYzgxl4Gv5TKBWT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1553
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e326481aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "59015", "places": [{"place name": "Broadview", "longitude": "-108.8091", "latitude": "46.0821", "state": "Montana", "state abbreviation": "MT"}]}

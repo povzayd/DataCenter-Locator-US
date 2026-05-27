@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IlaWTaeJMjOME06XAcQxvrOqyLIHtEDpOQ%2F%2FIoh1PlW9LdN08lIjpfI%2FERYCLjHoFpX1Erb5Jl7djInc%2B%2BqPS2IYDBiNlYeuk7L6iNyjWd7Auqfku4zb9yqPUdJWzJjUwpjI"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3569
+Last-Modified: Wed, 27 May 2026 05:29:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d4807a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76501", "places": [{"place name": "Temple", "longitude": "-97.3343", "latitude": "31.0895", "state": "Texas", "state abbreviation": "TX"}]}

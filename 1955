@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SXCz5kJM86byyZ7Xb6c6kuVDP0xQA18eo9ygB2OGMOdA2dhHuZVuMlzCOU0uQjfpz2dStU9BwKX7qN8XpV1tyqYRiqMBP%2BN8ZhtFiC%2Bbg6VU8ll580ZtYZwfxU0Dl%2FqdjyWH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e321ec83a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83201", "places": [{"place name": "Pocatello", "longitude": "-112.4381", "latitude": "42.8876", "state": "Idaho", "state abbreviation": "ID"}]}

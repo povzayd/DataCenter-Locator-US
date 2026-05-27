@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1epI43B0%2FtMe%2BWx0ooW9OaSFp3gg0F2ptEpcnCar35HjBK%2FP1wtsSg%2FPCMt%2FRV4O2YLZCbd9t6UpT0E%2BrBAjzJutd24YD0mMmwrHaYSNLRGdHfc%2BirDrfj1%2BMOlwOW%2Fv%2F%2F6s"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4924
+Last-Modified: Wed, 27 May 2026 05:32:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e302bc07a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "04073", "places": [{"place name": "Sanford", "longitude": "-70.7585", "latitude": "43.4285", "state": "Maine", "state abbreviation": "ME"}]}

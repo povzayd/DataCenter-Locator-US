@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HogqJJxfn8yVBjrp4Ydn48pLVIhakbz3w24346EacJ6P3%2FDiIjGxVORBSNzz9v6BcWuEwUriAH1%2FojCv9Rs%2BRCetHG3DfP4Yio4zcZA9%2FhuyKoamR%2F61Ou1uQ1lwQwfQgpsL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3556
+Last-Modified: Wed, 27 May 2026 05:31:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a1c0ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "99363", "places": [{"place name": "Wallula", "longitude": "-118.9061", "latitude": "46.0846", "state": "Washington", "state abbreviation": "WA"}]}

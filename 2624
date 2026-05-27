@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=axhXYIX6dn9vHXOEVCWC0zO01tXP2W%2BTSwajHM7a545ziTTjFLvinzswDSE2sXFyXDb94TaCTd6F%2BA4FacBeUDKiPyJldMF3gjg6%2Fsi0SEK5RwMRrutvBFgzTZE4wkF%2B91m5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3350f00a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "61010", "places": [{"place name": "Byron", "longitude": "-89.2659", "latitude": "42.1292", "state": "Illinois", "state abbreviation": "IL"}]}

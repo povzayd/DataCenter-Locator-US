@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TtNgLtXHZ0i7K4swD7lG2WO%2BP1UScNzWqI2PEw8P6W60NgnwEoIBiX%2B1K2WEs%2B2X7FjAfLowi6ckEpo%2BW8WxkiQ%2BOzG6NchoQrczp76U7C03fhmIhQpBSNdKZtovYNNcNdtZ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3865
+Last-Modified: Wed, 27 May 2026 05:32:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e303bd33a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30120", "places": [{"place name": "Cartersville", "longitude": "-84.8204", "latitude": "34.187", "state": "Georgia", "state abbreviation": "GA"}]}

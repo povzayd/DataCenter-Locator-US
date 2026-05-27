@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gvxMfhp%2B0S%2FyX7CCzMDwBHlzQEPYWqQBQ%2FpyVTtVG%2FC22GnmwiYVKwCjT%2BD8ZSjg6Ovc1w%2FlTe%2FfaMbLbLwkzoQC%2BMJS6GsKzVT%2FXAxN8HXNF%2F%2F2QaUHoRlE0g2HjMLM9XvB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 662
+Last-Modified: Wed, 27 May 2026 06:10:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32728f7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "78245", "places": [{"place name": "San Antonio", "longitude": "-98.6895", "latitude": "29.4189", "state": "Texas", "state abbreviation": "TX"}]}

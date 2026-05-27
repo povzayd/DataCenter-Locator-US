@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SZrcv0ztPVbzY3fo2vwUW3M1GcHGri8eEYKunw2muBtbFaZTsUTGXX6P25DemCl8enCwpuO7W8GJb9liO4HjlZqig94a%2FE2xwiD3QuL30yCBjRKKLIERgbBhxik7H2HvKWsm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5147
+Last-Modified: Wed, 27 May 2026 05:36:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a5c5aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18237", "places": [{"place name": "Mcadoo", "longitude": "-75.9971", "latitude": "40.8979", "state": "Pennsylvania", "state abbreviation": "PA"}]}

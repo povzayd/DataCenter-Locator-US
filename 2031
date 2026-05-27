@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kA10mGW0%2BLO8E%2BYb6fpCl8nrPUjFdPYAnRGqXDyoDORvU4yXUVdLz%2F%2BUlKZE5i8zt6WLw%2B8tNJyLnJQ9lRoLZvznck0mGGDDdY1lqtZeZkfdEirg7wmQ93tx3VxrmjRXNKo%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3246eb2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27401", "places": [{"place name": "Greensboro", "longitude": "-79.7682", "latitude": "36.0697", "state": "North Carolina", "state abbreviation": "NC"}]}

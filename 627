@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BcD6rMaqWBNskEW%2BOdPh3ZbYXZiqllsLenx4%2BpK062JUhjbjWjr0ELaygJlEs9O%2BSwBum%2FkBuRcGbdBaCXO1CGf%2Fg5NFqotshgH%2B%2FbAB3FubNqEN8GqWayFL8c5D6fFH7wul"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5707
+Last-Modified: Wed, 27 May 2026 05:32:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe1832a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43123", "places": [{"place name": "Grove City", "longitude": "-83.0839", "latitude": "39.8814", "state": "Ohio", "state abbreviation": "OH"}]}

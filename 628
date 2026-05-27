@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=93GWvM5qCuyzIQlr%2Byf8VCGOd4%2FgcKkbNCVqt3FWbm%2B6NuNSLwCTO%2FyQkFRIxJYchaIbYUaJ8%2BB8ry0tRdajFfvB0kDq8bVTk7RCKGCP34u3A0Et%2B6fmYlfKMqm9nH5K%2FWQG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3227
+Last-Modified: Wed, 27 May 2026 05:32:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe1834a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48823", "places": [{"place name": "East Lansing", "longitude": "-84.4764", "latitude": "42.7388", "state": "Michigan", "state abbreviation": "MI"}]}

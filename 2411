@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IV3mgGpYDuERD42Gyi0TBP9lrRikQn%2B8tVj2ZojLXoUMqv7tCfkG4NZKV3ygVOcM91fkgy4%2BC4R%2FZSMMLxOYwnHG5mwvEzpBCkLoWSnqmrOzLjN47MRRWU%2FaY5%2BFDl32gPJA"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32eb8ada6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "08852", "places": [{"place name": "Monmouth Junction", "longitude": "-74.5558", "latitude": "40.3869", "state": "New Jersey", "state abbreviation": "NJ"}]}

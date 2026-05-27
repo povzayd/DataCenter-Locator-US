@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Rk4eA7k3vMnfDi%2BuOQbMzFLNqmrViOh%2F77QHiOB1mIljHeDCncuE1mvSJrGNmQtNFgINwJuYU9q7O6CcvyxgLflhsof%2FgDqPsJlTjphi3oUeisG2H7pjZZf%2B%2B6dJWfJENUOm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5245
+Last-Modified: Wed, 27 May 2026 05:37:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332ecbfa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63077", "places": [{"place name": "Saint Clair", "longitude": "-90.9713", "latitude": "38.3299", "state": "Missouri", "state abbreviation": "MO"}]}

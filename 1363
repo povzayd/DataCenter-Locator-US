@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BUgo9CHnZ%2F0ETrgH0IGIOjFDdbyMxbSmLV%2Bflnjv2R3WdhoEzQi5mut6s7kGIBhwZtzcZ5T1bxVh3%2Bs7e3cQzGFi3M8qaAsEX%2F8Ch3gaBQO1r93Flh966LjfQWtD7OxNLEZs"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3139
+Last-Modified: Wed, 27 May 2026 05:34:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e311bd0ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63072", "places": [{"place name": "Robertsville", "longitude": "-90.8016", "latitude": "38.3816", "state": "Missouri", "state abbreviation": "MO"}]}

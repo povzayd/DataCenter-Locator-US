@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3n35zGq%2BtNtaa7wbqOS%2BOVdsYdNg22Oa5VLauufAhnuYjvfFZ9EN4rw9PQNVJqr01E8MxHKhd43lah9f44Js1N%2BRWx3l8wSRZptKjQj8dwwyIa7VLRWuQgOcqZ7RDn5JVVaB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4993
+Last-Modified: Wed, 27 May 2026 05:33:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e312ce09a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43021", "places": [{"place name": "Galena", "longitude": "-82.8749", "latitude": "40.2011", "state": "Ohio", "state abbreviation": "OH"}]}

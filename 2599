@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iKiMwzLYj%2FRPv932D9YSy26%2BEzyX8hyrCH4qodpjgtvperT7iSDTHh%2B2orAPeN3F02UzTQIiv2%2FcY0sXKQpxoTuleUlL6uEPFNUnhjBBuptxyjwfSvtduohR7z%2Fdx8ZEP2j7"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:27 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3349e76a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "55350", "places": [{"place name": "Hutchinson", "longitude": "-94.3847", "latitude": "44.8946", "state": "Minnesota", "state abbreviation": "MN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tym06bXSWma0E16fQPkji0wOt2ZfMLGQoImnhhVCn%2F8v4yeyZRKXFiIY6F%2FuCKIx%2B1TchuJpdocZko0VmqUCPn9eOSpUL8Vxca%2FdQ6RfwHgUNHQSWyq9ZcjHsa9LxxvF2Nzq"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4907
+Last-Modified: Wed, 27 May 2026 05:33:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30cced9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "66083", "places": [{"place name": "Spring Hill", "longitude": "-94.8246", "latitude": "38.7631", "state": "Kansas", "state abbreviation": "KS"}]}

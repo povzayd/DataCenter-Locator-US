@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nxKNtjpWMEofckSOa7el4DzkflWpmtx3g7SaVfgJi0BxiKtJo5ZlGR%2FC8EV6kbS%2BK7NWO8rbeDcPD%2F7ThnQ%2FIF%2BBZ6RDNQ%2Fu9vmBKgYJAEKFPTRBOqV5zoqk%2FMyp0zjVHls9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3294b2da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "42351", "places": [{"place name": "Lewisport", "longitude": "-86.8957", "latitude": "37.909", "state": "Kentucky", "state abbreviation": "KY"}]}

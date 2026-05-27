@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pV4yrqR1ayCleRocqVLNr%2Bq3VMQW8VMk%2BMsWoFad9el5Dsxl4fizaQA%2FRlWazCiZnQh99GNSRowvCMRTkyrLN95gB6D03udC6hWjnyfrbIltplBPNUCr9HqpVxbGZkNMtDhG"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3208b0ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97741", "places": [{"place name": "Madras", "longitude": "-121.1349", "latitude": "44.6376", "state": "Oregon", "state abbreviation": "OR"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yD1X8ULNY7tDV9fxndtYdL71k4HJIodE6tw7TGMcosyl3wMPgN4PgSIxpdJ4Q6IxZNIAurz%2BKLAj5LOlqoRC3qaTRTGqlrr9apIKAWBYP59F%2Fk3d98m6eT7HoX5lR3e96G3t"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3219
+Last-Modified: Wed, 27 May 2026 05:33:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30f9a37a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "04750", "places": [{"place name": "Limestone", "longitude": "-67.8451", "latitude": "46.9248", "state": "Maine", "state abbreviation": "ME"}]}

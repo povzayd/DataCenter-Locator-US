@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Fdde4FXfSg3SL4HjAN%2Btxbg%2Br5i721JenhSNwnZdlfrulZbiK4qiCo6C4oPRoQYjdXTWeASGwu0Yhf5lSvGvCdOtnJc9rIgwdmiocBiVKjOZMqX%2BmYaNst4H1mETmA%2FwvvCf"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1392
+Last-Modified: Wed, 27 May 2026 05:55:43 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ef3b4da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "52405", "places": [{"place name": "Cedar Rapids", "longitude": "-91.7098", "latitude": "41.9804", "state": "Iowa", "state abbreviation": "IA"}]}

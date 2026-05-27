@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dN%2BcUwTykQF2DaPhmaRMoE%2F3xFNQTIo2Xy6iuRr7Roq%2Fgdj9HZmXYYb4V1BFbTNPXwSSXbV3uOPB3RUvN4sMJOivvH9gwmIP4lBidzGDc2KLoWHhcNKJnAUmhmKdC7BLHW8q"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 151
+Last-Modified: Wed, 27 May 2026 06:15:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f719fda6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "50211", "places": [{"place name": "Norwalk", "longitude": "-93.6573", "latitude": "41.4861", "state": "Iowa", "state abbreviation": "IA"}]}

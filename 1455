@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=f9kv2RmTAQjFHUOkBi3P9DTP%2Fjox2en299YlgvVazTjCQZch19aZ4SqhV7uHnGdrbiICCiwlVu77bad8jc2EsJeJtMw%2FoF5d%2BYESf%2BCWwEjGixl7b8R9q5erO5t6arUamdSt"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2861
+Last-Modified: Wed, 27 May 2026 05:34:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3138eb4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75048", "places": [{"place name": "Sachse", "longitude": "-96.6012", "latitude": "32.9643", "state": "Texas", "state abbreviation": "TX"}, {"place name": "Garland", "longitude": "-96.5753", "latitude": "32.9504", "state": "Texas", "state abbreviation": "TX"}]}

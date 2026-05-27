@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YjBqlOjrAvRYN9QVmQW6Gi%2FuSSsPbixy58qzMG0gtxqt8Qjrae%2FiU2lcGhGlumO00jd66RkYw4CJ1soeDc3Dt%2FSV40Eumq8Hg54yktTrWjFg9ko82m4vpP7vds3hZHH%2FzCI%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1498
+Last-Modified: Wed, 27 May 2026 05:52:13 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fcbf01a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31606", "places": [{"place name": "Valdosta", "longitude": "-83.1891", "latitude": "30.7989", "state": "Georgia", "state abbreviation": "GA"}]}

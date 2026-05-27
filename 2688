@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gdFA0FoCPHR%2F4Zg%2BWc6Y4jT8ffDLCnXNmOa4GaPH1nA%2F1e1JzeyEjUcyhvLWB2Z2Cwh%2Bt6MmEpJm9UU7GuNk8RrA3sU32DN5TChEL7T3RtcMgjtKF6gjMNjaEmP8mXaGNlfy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5526
+Last-Modified: Wed, 27 May 2026 05:32:29 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33748f6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "24301", "places": [{"place name": "Pulaski", "longitude": "-80.771", "latitude": "37.0567", "state": "Virginia", "state abbreviation": "VA"}]}

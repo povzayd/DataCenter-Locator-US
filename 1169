@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ll2dm0%2Fy2KfIjKklJ%2FsDUiXTNiiR2XzGetNqrk5LW2SmhkcYB1p%2FL%2Bsvbb9TCnN10qD%2FfXbeEymDYwykSOf4AM%2FN8RW9D%2BYX0LE4t4wSW6rcT4P7eUY69zckEybH3wDVlfCo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5820
+Last-Modified: Wed, 27 May 2026 05:29:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30d7f92a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43116", "places": [{"place name": "Commercial Point", "longitude": "-83.0602", "latitude": "39.7699", "state": "Ohio", "state abbreviation": "OH"}]}

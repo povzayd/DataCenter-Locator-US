@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rlFA0Q7eQJbcoY936jJT6ejNeKm2LToWOwvbLXlFQDvJmmBLnYkWs4TE0AU7TQ5MeSDrGN2kRkKMJV2dzs0M3TwWlNQx3PzCcAG3gaIIoS300qFNC%2FY%2Fn7xKF0pKI8yp%2FP%2F5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3418
+Last-Modified: Wed, 27 May 2026 05:29:51 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e312de16a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36579", "places": [{"place name": "Stockton", "longitude": "-87.8633", "latitude": "31.0129", "state": "Alabama", "state abbreviation": "AL"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Cw9ikwBLhTp0HIT4V1GAnIq60Je4UPipri5%2BDcUnVYfOO1vgxP94dVBF2JizwOeLPzRf8Wc6Tk1KqE2ifme6HkovZsneyyKvNNOe69CRDoYskagLIQAW2VQNqnrF2bYZBFsn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3219
+Last-Modified: Wed, 27 May 2026 05:34:07 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3111bf6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75429", "places": [{"place name": "Commerce", "longitude": "-95.9089", "latitude": "33.2377", "state": "Texas", "state abbreviation": "TX"}]}

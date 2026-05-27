@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XfGm0Bvt%2Fa6kyWNpKitwwU%2Flx7hgARBcD7mQ47iC6eY%2B3Fo5bN1RObSfB3uBFIc9%2BKxcX900KCS9ITejHbr%2BE5VfxlEN9ZiPHCrtVk3umHG%2Bzaf1PUxQKHlqvoRn5AN4bnVi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1437
+Last-Modified: Wed, 27 May 2026 05:52:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330dacea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "37729", "places": [{"place name": "Duff", "longitude": "-84.0454", "latitude": "36.5086", "state": "Tennessee", "state abbreviation": "TN"}]}

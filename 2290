@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G7gSx8TP3Zz8dObYtQw55jquDG0MUoH%2Bwy%2BBtnemSAvmEif%2BAfuUChAgsVAZi57DRf0HrD%2Fb%2Fhq5RB0XZ14f2Ta2yNzdKYlER99db4aawt5kNyviaQ31gkb17O%2BtH5NP89nW"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3817
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32afcf8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "20166", "places": [{"place name": "Sterling", "longitude": "-77.4723", "latitude": "38.9814", "state": "Virginia", "state abbreviation": "VA"}]}

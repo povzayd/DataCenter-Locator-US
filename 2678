@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QuSklHBP75o2y18ujDGd3eFFgr%2B0lA8WqW%2FpMrbXtOPmUFxJktv59n9ZmfGHNhXGIzwyhmzF947%2Fbc8EesEIRt3w66AllfB17ew8wdhJDoeTaLeKQxyJCH2oNBNc7qz44bgX"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33718c2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "38106", "places": [{"place name": "Memphis", "longitude": "-90.033", "latitude": "35.1021", "state": "Tennessee", "state abbreviation": "TN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J5xBchrfuE0iP%2Bt%2FvGe4mQfXdAKp2hTjICAZCC%2FExiwFmQdYG6Q6yUym60nlOFin%2BHn9lnGdBLHG0EMnKyuYABAO%2BhiAHI0y5865n7TUCGoK3t7lx5c4SlTkjuFZUg5xbs%2Bm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1601
+Last-Modified: Wed, 27 May 2026 05:55:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3206ae9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46064", "places": [{"place name": "Pendleton", "longitude": "-85.7946", "latitude": "39.9792", "state": "Indiana", "state abbreviation": "IN"}]}

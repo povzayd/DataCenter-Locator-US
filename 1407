@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fy4cSJACYIP0c2y5JCiW0P%2BIWLk0pchUzADXMvXjMn9NeypX6QKQq3Af3EiX25YxJtBEGt20GwS698grTRiQYo8EnaxrN%2BBOkArXFlu8z%2FoiI4h7mM7ze3bMScZpURQuDYLd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1461
+Last-Modified: Wed, 27 May 2026 05:52:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3129de4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85212", "places": [{"place name": "Mesa", "longitude": "-111.6353", "latitude": "33.3425", "state": "Arizona", "state abbreviation": "AZ"}]}

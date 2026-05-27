@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k8l%2FvhF6sMlFe%2BPebfDTpQjO%2BsKfDknez%2FTjtsniu1syI1J%2Bq44C3rQZxRFWo65V5V354YyfD1OufL%2Fpo73N1EK0AooJvMyj1h5SR%2FG07dKDI2%2FfzX7bNrTr014ZYe7QEgpm"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5518
+Last-Modified: Wed, 27 May 2026 05:32:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fd0f52a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "16920", "places": [{"place name": "Elkland", "longitude": "-77.3134", "latitude": "41.9882", "state": "Pennsylvania", "state abbreviation": "PA"}]}

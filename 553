@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dgOVpblH3bblZyGgyMtxf%2Bxr3XeF7%2Bo3QhjRWKxdzNTJOIUKX8Sd%2FNvmuiu7pPtOjuA7Ssf8bSt3CwKJKnKVvsSXZ4wVZE0Flz%2FvfQF4l4ryluNEFECRL8djcAYe4nebluLJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5709
+Last-Modified: Wed, 27 May 2026 05:31:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fc8edba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18249", "places": [{"place name": "Sugarloaf", "longitude": "-76.0717", "latitude": "40.9971", "state": "Pennsylvania", "state abbreviation": "PA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Djb0HEokSUmiYdtDqbrH5fx4tZM%2BjjuU%2FTluDX8mGjBBHoA4ZREpwgQ9oZU6MuX6w3VhTc1OiP4E6lZ2SyTP15PNuqcNq9TWbmD41LTEE5Lh0suh8Q%2F207t9bH9OLX2VVJq4"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e5864a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79101", "places": [{"place name": "Amarillo", "longitude": "-101.8421", "latitude": "35.2032", "state": "Texas", "state abbreviation": "TX"}]}

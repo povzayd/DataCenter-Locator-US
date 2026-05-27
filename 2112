@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4nUMdAHrgcdkN71fTCw2w44HLKk%2Bq8idPFkjL3Emb9gKjRScXIQSgyn5OMHtRRt%2FQFp8Jr%2BQH8pDI8yuesBwFleacK9Lp98aVuHTtYRxD0xOIb9j41ykvphl2piF%2BTgEauK9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 642
+Last-Modified: Wed, 27 May 2026 06:10:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327592ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22657", "places": [{"place name": "Strasburg", "longitude": "-78.3386", "latitude": "38.9884", "state": "Virginia", "state abbreviation": "VA"}]}

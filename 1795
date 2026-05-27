@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PapZ7H0Ctd3LuQ4fUaZU%2FQ2gGhB2u5wz9F5lOaHn6%2B87Ogf%2B%2FKiyTXBvzQkwM1LjCgknhz6h%2BRF7uQFzxpDn40GapU8oMemfoQoNTAbOXW%2BP2U9HNXXDuOl2aBrEEy%2FEr%2BS%2B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3567
+Last-Modified: Wed, 27 May 2026 05:30:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31d884ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "53074", "places": [{"place name": "Port Washington", "longitude": "-87.8797", "latitude": "43.3955", "state": "Wisconsin", "state abbreviation": "WI"}]}

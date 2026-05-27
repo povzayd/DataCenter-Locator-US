@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5pP%2BRSvzU53MWhktEfvkvBDJ6AlUSwWYdUf1f1TQUUkAW1Q2PYrafS%2FPvPJfPHPWTBPKfbgC7ql3KOCXcRquP9KZywRJnW%2BGMSlm1i2pUs1kYNNuA2CGMtUuKK8YeSJeSCF0"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3138
+Last-Modified: Wed, 27 May 2026 05:34:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3146f88a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76648", "places": [{"place name": "Hubbard", "longitude": "-96.8", "latitude": "31.8436", "state": "Texas", "state abbreviation": "TX"}]}

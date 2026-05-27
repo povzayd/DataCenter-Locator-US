@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GenoahdNdtQ1Uiu1ZDxkpQ0ro6tjDKQPQ7yBb1IUV0uHyHfk4p3ke029IH39x6eTQ8WUVJuNOliwpK90IEXGTQcjwv%2FhKr8w1hYMIWR6edpDs6TjRrEcnTS1YzF8J0%2FFetMi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1915
+Last-Modified: Wed, 27 May 2026 05:55:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31a3d40a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "95391", "places": [{"place name": "Tracy", "longitude": "-121.5397", "latitude": "37.7695", "state": "California", "state abbreviation": "CA"}]}

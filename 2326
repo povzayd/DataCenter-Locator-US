@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9%2FSPujFjiMl7ZPp4o1hVAvTNWE7Mg7zxNn68J9eND0eOfB3qao7ovy8aRLXnq7sAy7v3a46lM6KpaU93E0q5v2hiaNYTOSPXb%2Fx8WNI6pE37ET97JMpspMjQywbv6wZGdV1Z"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5147
+Last-Modified: Wed, 27 May 2026 05:36:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32badd2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "85326", "places": [{"place name": "Buckeye", "longitude": "-112.6077", "latitude": "33.389", "state": "Arizona", "state abbreviation": "AZ"}]}

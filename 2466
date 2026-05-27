@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CVgcna0rto1VZ6jx2m6DzFUxLJmvAEHylQ4TQBm%2FrnH1FPldfgOhGWEhphLgpmcAtJKlp5i%2BRwui%2BAhTtVSK0Aphq7gQ%2BI06Y7RPYh%2BPWvzK5NZDEm9zbDsWb9QheE3eghYb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1194
+Last-Modified: Wed, 27 May 2026 05:56:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3309aa2a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "93527", "places": [{"place name": "Inyokern", "longitude": "-117.857", "latitude": "35.6397", "state": "California", "state abbreviation": "CA"}]}

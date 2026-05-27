@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JfI%2F0VQ2KmIudOmG7WAEZ8H76tPDRygGHYw4mB4IccvIOysX%2Bkx5K2bLWtvNq9laDyL3M%2BoVLF1mJSR4yJlEbQVhm%2BgFYQ2%2FooATtxLgazfWIgq%2F5r39UJziRwoMDJJXymf8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3542
+Last-Modified: Wed, 27 May 2026 05:30:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5382fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "48094", "places": [{"place name": "Washington", "longitude": "-83.0268", "latitude": "42.7262", "state": "Michigan", "state abbreviation": "MI"}]}

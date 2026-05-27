@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lQSZ%2FoZxw1SxjL3jARNpWxCzrVgqwdbMIKkzJPO0UGBxO7lxnEpgqyA04sVfGB6Ib0EdCV%2BTk22B4C%2Ba2h4fgihQ2Z3owXB5GmOPTDdTFTIZM0n4BcQLYMo56m21vQlF%2FOBL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3549
+Last-Modified: Wed, 27 May 2026 05:32:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fcff38a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "93210", "places": [{"place name": "Coalinga", "longitude": "-120.3489", "latitude": "36.1624", "state": "California", "state abbreviation": "CA"}]}

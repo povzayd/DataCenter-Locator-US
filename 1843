@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FZ4cTlXJV1omkNrOYKIrvelAF9PGh64lAvn7qfJY1pDMmr2IitGYmJKja5YS0TGrCNu%2BLt2YAqpRDPcAULBhdQ%2FVadQp%2FlNVW%2FisvbuMbHfokBzxKONBeVh2sfB9zvZt5wNM"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4995
+Last-Modified: Wed, 27 May 2026 05:33:24 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31ea981a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43031", "places": [{"place name": "Johnstown", "longitude": "-82.6973", "latitude": "40.1445", "state": "Ohio", "state abbreviation": "OH"}]}

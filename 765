@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cSpg2cfqtsaRrJmrL4xcJ%2BzcjY3SoBFJ8zYYTBoVRH8IATKe0zslfuI26w8ssTTzquZMZVEyITApb69dqkiHnPpO3zI50Ds26iPRvw0WG76dO0uPDZ1UzhxwiluNjrEI93ov"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4993
+Last-Modified: Wed, 27 May 2026 05:33:13 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e300da9ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "24090", "places": [{"place name": "Fincastle", "longitude": "-79.8511", "latitude": "37.4911", "state": "Virginia", "state abbreviation": "VA"}]}

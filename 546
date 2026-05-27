@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Bjvd9W23t69%2BBTi4JMLvZOmClxD6wqSGFI03QfCa0DCmFY0qMX9l35P58%2F3s0y%2FBoF1LJCQMTO9FSTsrZg6T0q0BYlnd%2BzB2utzV6fVN4TvfVdIALbIVDGSBsIspWAdP8yT9"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1498
+Last-Modified: Wed, 27 May 2026 05:52:12 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fc8ecba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76380", "places": [{"place name": "Seymour", "longitude": "-99.2587", "latitude": "33.5914", "state": "Texas", "state abbreviation": "TX"}]}

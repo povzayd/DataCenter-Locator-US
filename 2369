@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CwtLKXmXXrNcUo9fU89yU4NIEiSldUZU4VPT9cwEfRZOtlnH3l0gOjC%2B30liRXmjdgYZ%2FdokOXOHHyA0mPRNbGGMC5GRiILrHVk7%2BBeuJ%2Bv55yooT%2FvQ1qC1qqwr2VAIUD%2Fz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5716
+Last-Modified: Wed, 27 May 2026 05:32:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32caecba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79227", "places": [{"place name": "Crowell", "longitude": "-99.6983", "latitude": "33.9912", "state": "Texas", "state abbreviation": "TX"}]}

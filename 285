@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5R1BljAik3CWaouZ%2BCdl48n6Zk8swRpgTfBtmj7FlxeWB7sg%2FBtj8SjD%2FfV4pMdpsOxtpGW2do06k9rScjx8e5YFaqieUn1MlgwB2dcmgJDw6F6TgmY2kBJDYTv25J%2BO80yH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5136
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f64938a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45154", "places": [{"place name": "Mount Orab", "longitude": "-83.948", "latitude": "39.0454", "state": "Ohio", "state abbreviation": "OH"}]}

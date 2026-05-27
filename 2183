@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NDUjfXmR5usnirbhg1tziYtIusmJqKAoXkVdY51OnuCy59%2BVRXsrqmwO0bXhi0gxXul%2FvH1ZGPfYfTwQVxkJX19cy%2FgSSUXTu4impisNYXW%2BJVS7L2QDjnf65aNKJGcsCyy%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1606
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e328bab6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49068", "places": [{"place name": "Marshall", "longitude": "-84.9583", "latitude": "42.272", "state": "Michigan", "state abbreviation": "MI"}]}

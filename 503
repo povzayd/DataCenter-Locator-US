@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rs6vukpDawbfbrhL%2Fo477eb9%2BKnS2lOfI1hEnGAXXt1ob9GNXSq0foYCRb2MuWZm4HMv1SRxu36TtqUK%2FQ6wbDRgNmdO78Va7NvztGNv7u3S4JsmxfgElC7Y7wyWlpuMB5XS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1608
+Last-Modified: Wed, 27 May 2026 05:51:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fb9de4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62543", "places": [{"place name": "Latham", "longitude": "-89.1725", "latitude": "39.9711", "state": "Illinois", "state abbreviation": "IL"}]}

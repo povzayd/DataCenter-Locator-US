@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iPMYr4g2l9iyq8Pe4xWqIW%2FpUIsPpvMPQtELm74GbjH%2B3gPb4eDujogiMebDExtTtf%2F%2Bayx%2FDD%2FBwBoioekdDcUJrA%2B7Wjb4mHTfAUIdJhPuvljSiEFe24XJVmch%2BWn4R4b3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5715
+Last-Modified: Wed, 27 May 2026 05:29:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f14d09a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43402", "places": [{"place name": "Bowling Green", "longitude": "-83.6507", "latitude": "41.3815", "state": "Ohio", "state abbreviation": "OH"}]}

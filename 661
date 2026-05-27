@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QKyjo1L9wF3TsyqzBfX5YJtmzAdLAC1S%2FOR7FvaPn5mLc9OTN4KBBoa9p4liZY3XTdb60ZkXiQ2rTcWvvNTjVCVpwUvEKsL5VHNXWyPoacjw2ooFbSSH3pdjy6trYm5jPSaN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1557
+Last-Modified: Wed, 27 May 2026 05:52:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2feb8bba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "23005", "places": [{"place name": "Ashland", "longitude": "-77.4784", "latitude": "37.7395", "state": "Virginia", "state abbreviation": "VA"}]}

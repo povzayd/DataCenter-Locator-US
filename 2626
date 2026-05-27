@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=F8of2rGokjR9U4XDEtRTRDPl%2BWmQyO%2BMUc0d%2FESkykT8fHMI6xtYbjCfuafy%2B7yf0badJ2A95Ol5hoXGo3mXLDgveK1RNbUNP50cjaCauRTRO%2FSOeomaM8iaH29USFLxocGO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3533
+Last-Modified: Wed, 27 May 2026 05:34:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3352f21a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "34266", "places": [{"place name": "Arcadia", "longitude": "-81.8667", "latitude": "27.1861", "state": "Florida", "state abbreviation": "FL"}]}

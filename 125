@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ofkd5zT6sWEr8JkcszJ0pWjBrl45VnHW6Dq4KO74wwW9folaf38lUIsnbOlEGrke0HHqbFkcI4CAApyqxquZChAqUwlvCvxExql2kla62dsvic4HdSVIfpLOKB9qoOqXCNEF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3142
+Last-Modified: Wed, 27 May 2026 05:29:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f0dca0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60560", "places": [{"place name": "Yorkville", "longitude": "-88.4438", "latitude": "41.6387", "state": "Illinois", "state abbreviation": "IL"}]}

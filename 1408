@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pnXaeDyStcsTlHcDyPY8KF7kCEvS7X0AsyGxdk8ku56J3yYk5E%2FbrOscPBV0VeAkqv2rLcVlMtOjxPQSmMJSPuJR%2BgTaQ54O3x%2FpRgADaa2Lf9wVXJCjJr90piTsDJyJNFAB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4752
+Last-Modified: Wed, 27 May 2026 05:34:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3129de5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83338", "places": [{"place name": "Jerome", "longitude": "-114.5012", "latitude": "42.7178", "state": "Idaho", "state abbreviation": "ID"}]}

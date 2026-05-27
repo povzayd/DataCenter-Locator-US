@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q0igmr0DrhNltCx1ePMx%2BBCha%2BCJ%2FtLaXp4i2Wl3SSvLc2JwxNR%2FEAziLPaUPL6ud2bdovaPfQwB1Nik9HJdI4acmYQDDHwCuRpDWlfDa1WyU81l7qzO6KFGAD3B6SL4cN%2FS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f1914a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18214", "places": [{"place name": "Barnesville", "longitude": "-76.0611", "latitude": "40.8138", "state": "Pennsylvania", "state abbreviation": "PA"}]}

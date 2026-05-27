@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=68Mm0DZSafk6LZot2vQF0x1%2BOOiQlouCbX9mLnAYog6rwPwYQ%2BKKYNUon6pne5Rgp4yL81jcFJd6yM7QEPK6tryU3olt6J3wGFB841EaSBL7dD5%2FRwsCz5wdI7MxA7Lvzg9d"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5008
+Last-Modified: Wed, 27 May 2026 05:29:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed08cca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "42134", "places": [{"place name": "Franklin", "longitude": "-86.57", "latitude": "36.7254", "state": "Kentucky", "state abbreviation": "KY"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LYEw5x6xn%2BRKIYDpKz9YLxjkh5caiK1bjU0iDGVSBSvpO%2BfyzXwg%2BNFnG2Glcy%2FlM0oldZqHekxRw3hn1hMD9pNCba8uGLs%2FAoIPOuRGcm8pMpcobphbUTT6qYitDfEKQBNS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3554
+Last-Modified: Wed, 27 May 2026 05:31:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31f19dea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72830", "places": [{"place name": "Clarksville", "longitude": "-93.4911", "latitude": "35.4908", "state": "Arkansas", "state abbreviation": "AR"}]}

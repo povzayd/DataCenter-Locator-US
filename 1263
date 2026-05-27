@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A8ikP3euYs0CC2vxbIkXJmodtsdB9HjdMd%2B78W3Z1KBICEYvf2uOPE0MU5%2F0UdFd7CfW3jvnYThXQ8Wld2sP9gP%2FAg0lmqkZPixkxeUmXOMqb7oS%2BbcnSQGcE22OTzny5SWh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3229
+Last-Modified: Wed, 27 May 2026 05:32:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30f9a31a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15068", "places": [{"place name": "New Kensington", "longitude": "-79.7129", "latitude": "40.5616", "state": "Pennsylvania", "state abbreviation": "PA"}]}

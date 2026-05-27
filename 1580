@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UVDNAduItLatOM281I3xmP9vpO47sucsKcShTHPTlexpT8sBysWB35jdgWqFTv6%2F1pTLXZ%2B%2BuT5qHbOdVlhOUYrgwEIPUwCK5DR9NHgUax2gvFgU3aQB9HAL433TL3TlJYex"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3888
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e316a9d7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "65020", "places": [{"place name": "Camdenton", "longitude": "-92.7677", "latitude": "38.0185", "state": "Missouri", "state abbreviation": "MO"}]}

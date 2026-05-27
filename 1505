@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=35utK3VYHYIQU%2FK6mxmmpIHW6b7K0jfounzpYaunk6qwRQ3ERK%2BNU6PKNeVsTRRgVAdHn8forgxT%2FttC2RWuhbAUYIbr10bNIXuHNGvHwxRdfrJMdjjdK6dOUOU6aLyQmDPR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3138
+Last-Modified: Wed, 27 May 2026 05:34:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3147f9da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "33844", "places": [{"place name": "Haines City", "longitude": "-81.5929", "latitude": "28.0758", "state": "Florida", "state abbreviation": "FL"}]}

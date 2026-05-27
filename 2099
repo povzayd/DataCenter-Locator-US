@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=B5AaLio66QL3sGlF7akvy0xV5iXH3ehWYg9BCr%2ByjTegnBp0UyX1IwBo6Esed1Nho%2BZUiZFU5NZ2y1ZrWJpEH7TZ7mLswxGfe7NDb2eVwozDe6si5lFRjOJLE0ZtCHfe4fH3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:36:22 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32718eea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "16115", "places": [{"place name": "Darlington", "longitude": "-80.4556", "latitude": "40.7968", "state": "Pennsylvania", "state abbreviation": "PA"}]}

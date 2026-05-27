@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UxSFU9Bvh2OaeCptPOiEi3EGydyJt21USz4plkpvz7WOllTofBq%2BH8BOovKNzF7vGYUZltj%2BkSa%2BzrzJlzA0LFkQ792nWlO8CryECj2Cf2Pll9yOudlM0kHKHUMmbO6zDMgg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5720
+Last-Modified: Wed, 27 May 2026 05:30:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31bdebea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "42348", "places": [{"place name": "Hawesville", "longitude": "-86.7638", "latitude": "37.8503", "state": "Kentucky", "state abbreviation": "KY"}]}

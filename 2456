@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rSNC5D%2BGksmwnVResXMA%2BP3KwcpysCHccsWyBjDNifBF%2Fev2hT8Hrc3NDdNNlM987y4jJJMVyrG2%2FW7q5xoxnWB4WtfP%2FriXkdWZtLuKBmeeoxS1ZbFcMvsGS5II%2FqPaa5fB"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3305a70a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "64804", "places": [{"place name": "Joplin", "longitude": "-94.5103", "latitude": "37.0465", "state": "Missouri", "state abbreviation": "MO"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7geVJTaYQGWeCDrvBFdD%2FWurwHlq1bYXaJjzVywpg6MfvQx1BXwUi6GpNbdZ6142A%2BLjwSOWdzFEMvgPbV38h4F2AQAgWX2sCxNrpDCNyHr6%2BMuDkWEWZ%2FVHW929HpaizmR%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4999
+Last-Modified: Wed, 27 May 2026 05:33:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3181b49a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76301", "places": [{"place name": "Wichita Falls", "longitude": "-98.4976", "latitude": "33.9053", "state": "Texas", "state abbreviation": "TX"}]}

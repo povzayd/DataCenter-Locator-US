@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JlTO%2FBwrJVPcz2%2FcV6%2BI3a7kQu9KeNUpqhBCN48D5yacQQ1J54pEElZiSIHHjCq0jeH5Y%2Bz9zyO%2BgbynrmkfTOl776yd1eNJxiDAWLHDpqRYqEkuHqGUcLoROQWUXAe1ccmt"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1468
+Last-Modified: Wed, 27 May 2026 05:55:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fdf81da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "21001", "places": [{"place name": "Aberdeen", "longitude": "-76.1805", "latitude": "39.5109", "state": "Maryland", "state abbreviation": "MD"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iIrclhLyMCwlb6FNYdfdxEqHKXa9%2BHqz4YLXn22VSD5tlI3wYzxzQj0NvL%2B6yGFGkWOyyFxQ3F1Smx5dJUqDv7Pkxkla6dvV406GfILz3%2Fbw8wmVvpw0rCUA9rpP9RsrS1yQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3815
+Last-Modified: Wed, 27 May 2026 05:34:18 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3167994a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "68122", "places": [{"place name": "Omaha", "longitude": "-96.0458", "latitude": "41.3333", "state": "Nebraska", "state abbreviation": "NE"}]}

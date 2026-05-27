@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zui9V30SUkEcwxPcGkNow29qH0q2Q88gkySxWMuggERTYp9LOuP5YgLF8UNsZjNwt3n9jtiaRiqiX1LfoKonK%2FkPpMW9F21rUNj6W9nRGRMbau6giTMv9U2jeaCeKKBYGfU%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c3e68a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "57107", "places": [{"place name": "Sioux Falls", "longitude": "-96.8028", "latitude": "43.5566", "state": "South Dakota", "state abbreviation": "SD"}]}

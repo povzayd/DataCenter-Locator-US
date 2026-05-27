@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1aZ0%2F5xFIogBdCqIgNeQvaQ7NOAH1ZyGA9%2FX5Q1%2FV2IsSlGIIs7yd2V2FkhA%2BCSjiA%2FQpe1bnJl3MUu8o4Ce%2BSnj8ECgL6ow%2FlwR2H%2BlBaXNKwq%2FvHc3jD26Be1Yvr1Li1WS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6474
+Last-Modified: Wed, 27 May 2026 05:29:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ed3905a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "33470", "places": [{"place name": "Loxahatchee", "longitude": "-80.276", "latitude": "26.7383", "state": "Florida", "state abbreviation": "FL"}]}

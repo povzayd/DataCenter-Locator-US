@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1GZSc5f2pHjfJNF9fADYdZdzT%2BcwC%2F4xcvk0dx4pudKDWH2XJYu6hCCwpE1xCxzWytxIaFhensvuuoSIYKYsynHqGa3Kbiq1NTGm4utM2nBINydOy5PUPVHrj6jBgmTSuKlc"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3862
+Last-Modified: Wed, 27 May 2026 05:33:13 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3177aaba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62040", "places": [{"place name": "Granite City", "longitude": "-90.1106", "latitude": "38.7261", "state": "Illinois", "state abbreviation": "IL"}]}

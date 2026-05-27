@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3Woz%2FeE2d2jdYpV5Wnf%2FVLFYaeww0zTCzYk3tshR00yyDDmFTB8EP9Q6exhT5MMgkY6Zcvq5j%2BLuDSgHEL0fVDDfrOMPxuFEDgqHDyjGcofUGzD2luI2qAl1ICFtJ6Dfm8nz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1460
+Last-Modified: Wed, 27 May 2026 05:52:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3068f9fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "42001", "places": [{"place name": "Paducah", "longitude": "-88.6632", "latitude": "37.0634", "state": "Kentucky", "state abbreviation": "KY"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b3KCA%2FtaqfLAIyk31DIW3xVFRpgZwLsQj9OeCXeMJdxc25m%2Bj%2B3Dev9NS3ekz3OsA4C7i3bgMTltJX0PuLcktimcKAPOBLDFQhXGRCP%2FThC6%2F63jnZbcUycosnDRqJWZdSh1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4925
+Last-Modified: Wed, 27 May 2026 05:30:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f5786ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75501", "places": [{"place name": "Texarkana", "longitude": "-94.1774", "latitude": "33.4113", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=20Q8nZGZggOQzkrvqvUdj%2BfDnRHHN4bQWuJo6EUWCHDxRH220ggdrO%2Fai1yMaN8Zhczl3Z3SoX3VASEPGh527%2BLL5tMouBl%2BNbASMzOjFxY1Dfpuq%2FYujb%2B%2BbasY9ebHQQIi"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4991
+Last-Modified: Wed, 27 May 2026 05:32:33 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3103aeba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "83634", "places": [{"place name": "Kuna", "longitude": "-116.3819", "latitude": "43.487", "state": "Idaho", "state abbreviation": "ID"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ygTfgxqj6D%2B5jHFriJoDu8LMup26PkLs20ui9sCK%2FzU%2F9Cso20KCIJ7%2FlH9ntdYbVj6bVW7ePia1A5mb0N9WGPBRKtred8fQGKjJzx%2Bt4dHUkUJe365g8fb7uOWOD62E4McY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3563
+Last-Modified: Wed, 27 May 2026 05:29:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ef2b49a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "34461", "places": [{"place name": "Lecanto", "longitude": "-82.4641", "latitude": "28.8197", "state": "Florida", "state abbreviation": "FL"}]}

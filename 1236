@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BC%2B%2FjGQlMqOXNVKNp2ssngXoFUumh%2FqLCr4qIMi7R8caKdNwFtKNQFDBma66gMConD4%2BUPCDwjKgBI4OPvxjUlc0ys1Scps6zJbcD1mVggVyvUIhFJ0yLvvBp8dpfdS1fhs5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4992
+Last-Modified: Wed, 27 May 2026 05:32:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30ef965a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19475", "places": [{"place name": "Spring City", "longitude": "-75.5697", "latitude": "40.1765", "state": "Pennsylvania", "state abbreviation": "PA"}]}

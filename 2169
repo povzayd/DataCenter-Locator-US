@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zoMK80eEoyt2DAaSFA7yNjZJ%2FfeBFGQCD3OjQh4AEFjWMmPy%2FZcGJYBSovosOjuOhpcI9ExVQLw%2B2mXdk7PtwbzRGKmCxdRAheJZ%2FQ4L7mygTd0WYwpZdUKyNZfnC91AVA2a"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5140
+Last-Modified: Wed, 27 May 2026 05:36:46 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3287a65a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76519", "places": [{"place name": "Burlington", "longitude": "-96.9642", "latitude": "30.9736", "state": "Texas", "state abbreviation": "TX"}]}

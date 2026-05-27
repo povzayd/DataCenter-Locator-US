@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Abh0%2Fue2b1kVnzpoAVD%2FQJTrquQLO8OpWqlr0ylb7LuuazN5G%2FMEMN3iuS7m%2BoX2qmejWQdm3bp0brI3B16nyfUCpeMvQ5qoal11Mhwr%2F4MPpxk8vZBO4%2FBLndvB55TQ8Gcw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1832
+Last-Modified: Wed, 27 May 2026 05:55:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31e2902a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84081", "places": [{"place name": "West Jordan", "longitude": "-112.0411", "latitude": "40.6037", "state": "Utah", "state abbreviation": "UT"}]}

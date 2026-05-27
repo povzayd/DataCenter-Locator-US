@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Tt%2BjoaRUnEKVkQb49%2FMm8b2IX6r7WSVUHmO114SDu57YMQhNPg0%2Fv4z3Q2L50mQgNF4LwO6M%2BdtqjRlkrebWWI7VJuAolOuX%2B3MWxL8osuxx1YEhCTwSloX%2BGu1DrxinuK1F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4989
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff292aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18229", "places": [{"place name": "Jim Thorpe", "longitude": "-75.7397", "latitude": "40.87", "state": "Pennsylvania", "state abbreviation": "PA"}]}

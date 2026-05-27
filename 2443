@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xtN2Eo%2BbdFet2XVNN7ExHcKPCBAIum6%2FLfVqSnqunJCc%2BAUNBMpx6wQQZkp03oXYl2%2BKaOIUzX9k%2FLPuZF2rIZwNyRaCSwLvWb7wsju5cisEZ2NydaZE%2BsDqu0bGeA2CI5tb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f5954a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31558", "places": [{"place name": "Saint Marys", "longitude": "-81.5652", "latitude": "30.7735", "state": "Georgia", "state abbreviation": "GA"}]}

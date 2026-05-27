@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Wcxm5qqy8TpF73K%2F2XUqwN%2Bx3Cw0bTPomr0IkmaSM7Rh3Zx%2FVmkdiWVpiZ07j0E%2FNnonK3Qqaghpic3PBt6XqkdZhMbbS7erZvx9tKJ9R4fq94P0ni584tofIkQEcbXD1v6z"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4992
+Last-Modified: Wed, 27 May 2026 05:30:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f6b9a0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49316", "places": [{"place name": "Caledonia", "longitude": "-85.5244", "latitude": "42.8187", "state": "Michigan", "state abbreviation": "MI"}]}

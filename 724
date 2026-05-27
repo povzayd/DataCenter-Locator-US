@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uxHe7BENiipB2XctkeBy9U3O0YJSbKkmzDr3tJdSky%2BWZYTXq1A0hYiXxYO4CYOIGeGMo3%2F%2FO9F9taKefuFu8BStir1eJqSIF3UXpOTJupJFTxzCKrd%2F%2BOzcYHuGRgNndbS8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1509
+Last-Modified: Wed, 27 May 2026 05:55:48 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fff9daa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "45502", "places": [{"place name": "Springfield", "longitude": "-83.8546", "latitude": "39.9172", "state": "Ohio", "state abbreviation": "OH"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WT5Fc4mzNr330v3rBH1vLKOW2q3A4Lky6unagL5I%2FprFcTOs5m1QAJR3eXigBWxhbI1UTs6adGJxQ0UqysakaIUTgx5oiOZiLbsrTvCgsgHuPRkGfJ%2F0rF84CPZwvxVQgaA%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5608
+Last-Modified: Wed, 27 May 2026 05:31:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3309aa6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "86025", "places": [{"place name": "Holbrook", "longitude": "-110.1434", "latitude": "34.9085", "state": "Arizona", "state abbreviation": "AZ"}]}

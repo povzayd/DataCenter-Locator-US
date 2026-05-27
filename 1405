@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mpUJMqaK6wHgjTzmCXFSleE7hSYTO5iCtPjfYxAWMpaD%2FyWDzVTJgrnv2hF5tN02KYMMQn0yMrWjY42qzVpjx7X8nvcXUCVPXpE6JkXIH9v77w9QD4fB%2F%2FzEI6wCUzPC%2Bifg"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5721
+Last-Modified: Wed, 27 May 2026 05:29:56 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3128dd5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27537", "places": [{"place name": "Henderson", "longitude": "-78.3906", "latitude": "36.36", "state": "North Carolina", "state abbreviation": "NC"}]}

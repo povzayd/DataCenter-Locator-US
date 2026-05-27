@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HF3LLOm0TlC1xrRi%2Bn383YVVB82y%2Fy%2FR1JluxGD3eZjvLsNXV2Y%2B5Au2V%2BxSfm9Mrj346B0hKg4odDrq9vay1c2cOzYF0f%2B1NT883gIv7sG%2BGlmBflJIb9661R2m3REmY1BX"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4908
+Last-Modified: Wed, 27 May 2026 05:32:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff292ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "72521", "places": [{"place name": "Cave City", "longitude": "-91.5444", "latitude": "35.9517", "state": "Arkansas", "state abbreviation": "AR"}]}

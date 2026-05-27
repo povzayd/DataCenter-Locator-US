@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Cmbakkl5xCaQt7Fu%2B97y4dn3ZvjzCcTQzZlGbLS6US%2BcjhXecG%2Fh1NEaa6Hw17AHP3GhHZP7AKC4oud9%2BwXnBrJa8BthrG%2BLG%2BdsYIBcBQO%2BX789XuJLl%2FE0B60wMJhWMnOb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1605
+Last-Modified: Wed, 27 May 2026 05:52:10 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e302bc01a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58042", "places": [{"place name": "Harwood", "longitude": "-96.9654", "latitude": "46.9565", "state": "North Dakota", "state abbreviation": "ND"}]}

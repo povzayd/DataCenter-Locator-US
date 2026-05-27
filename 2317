@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0LTL%2F5pwYhLHjXRvn4AJthYOCoWN66fMHgYabb8YF5EqvNhzCdF1lNNYJGGKcteFHzi9ZtnpG1nzZ6BCclwvBaY2444Wit8PinGiWUOt0BaXgPUwfY5W1iE9rsV9DqAb0Gqx"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:06 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b9dbba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "89179", "places": [{"place name": "Las Vegas", "longitude": "-115.5269", "latitude": "36.2542", "state": "Nevada", "state abbreviation": "NV"}]}

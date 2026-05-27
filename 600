@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RdJeHvsIex1RQU%2FxVtEFiuMbHecvmxR2q8%2FWIgm%2B4LBuIkjhRr%2FWPF6N6kmb0As8iG8HjGjD9uTaNKVNW9H72TiAW5RA3sRKZoxUrpj%2FmGmandzPUurWY1%2FLJFrVwaqzSQrw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2139
+Last-Modified: Wed, 27 May 2026 05:42:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fd8fbba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "32164", "places": [{"place name": "Palm Coast", "longitude": "-81.2045", "latitude": "29.4861", "state": "Florida", "state abbreviation": "FL"}]}

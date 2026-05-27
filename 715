@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DXHUb3qCFUsT0X0OEm8xV2jVYcEWv5DpHYNISJvBz5UY%2B%2F5tPOXsiuWhJXG36YFXRAYBpSY6pPUhSsrxw2mgJMsGOa7BnI6W40kgNwWxxy%2FdDCgZRrJTuFi0G8xHtqSTiss%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 150
+Last-Modified: Wed, 27 May 2026 06:15:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ffc9aaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "58801", "places": [{"place name": "Williston", "longitude": "-103.649", "latitude": "48.2257", "state": "North Dakota", "state abbreviation": "ND"}]}

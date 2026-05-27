@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VBgSIj4MMFi9Yvl9Mpriehv7wDbixLHHt0BlzYe%2F1h2MdVzMiSN4%2B8vEamqclsXMR14m82njPdeZMefpt4SlLQLqKj4JiwYinA0YkV2XKkpA%2F7Zru1cZ3pcJLpCSwobGC2GH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1601
+Last-Modified: Wed, 27 May 2026 05:55:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30879eaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74028", "places": [{"place name": "Depew", "longitude": "-96.4897", "latitude": "35.7561", "state": "Oklahoma", "state abbreviation": "OK"}]}

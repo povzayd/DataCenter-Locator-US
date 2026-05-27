@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WSqM%2BMCE3lCDqUtD%2BpCAuKjFW%2BwO9nhoNem%2F8Xnxp7VON%2BI%2BclIAvd4RP%2FWFPU4BqTe2IOwed5NkQXMAMCj2V5Vyn%2F4V%2FHmA0rT%2BIEq7oQiz0MpoKL2rLYHdb7KGBlKDLTc8"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3209b17a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "13637", "places": [{"place name": "Evans Mills", "longitude": "-75.8305", "latitude": "44.0817", "state": "New York", "state abbreviation": "NY"}]}

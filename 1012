@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Yb34KUPWHvJnRqwvN4HQTMjlld2cEd263LpzgUvvED0pc1wtEWrYRd%2FZfKeRsRVNWg4rDnDLGbH%2BbukRGRmMKyRVbmNSOjRBJONIieRgmmOrLdBs%2BD%2F910Pf9NcP1UYbh%2Fuz"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3229
+Last-Modified: Wed, 27 May 2026 05:32:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30849b1a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77414", "places": [{"place name": "Bay City", "longitude": "-95.9173", "latitude": "28.8636", "state": "Texas", "state abbreviation": "TX"}]}

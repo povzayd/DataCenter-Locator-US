@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PIErUwfyyBJogqT9TIOV0cEDqIpooosJ69Ixmuj1K4%2Bcx0V08S%2Bnf5eMRAe6Rc9JB2qY3Ga5NLk7ZBj7EE6cAGkKJuFy9yvQpC3f56aYX0WN6cf1CZo9525kDk5SDR%2FrFd%2By"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1624
+Last-Modified: Wed, 27 May 2026 05:51:52 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e308ba27a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18519", "places": [{"place name": "Dickson City", "longitude": "-75.6243", "latitude": "41.4623", "state": "Pennsylvania", "state abbreviation": "PA"}]}

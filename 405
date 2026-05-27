@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VB6V6Rb0vZlzXoiRwGYYiGXKNAe1wytixOkEP6XYf1HqarXE6%2BVXeCsUcJy5nGJ%2BpkOmqe7Sn3LH%2BmM9K9QjPmh7kIbYmqCNRS%2BnOq5dTH0yHDbZY242drfNf8AqDZvF5XzT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1377
+Last-Modified: Wed, 27 May 2026 05:55:45 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f99c10a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60449", "places": [{"place name": "Monee", "longitude": "-87.7748", "latitude": "41.4191", "state": "Illinois", "state abbreviation": "IL"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5vvdwjHexiue%2FlcylyQZrS3uT4xiMCrmF3nttHNYgvtwv6qRT6pc%2BfJN2GPrxTrC2pLI6tz6a20jOknakbJd7J3c1u7GHpB%2BJD3PfjzDurwDaJVPDMudWjESXu12nuLGnyZn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 640
+Last-Modified: Wed, 27 May 2026 06:10:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30849b5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79506", "places": [{"place name": "Blackwell", "longitude": "-100.3111", "latitude": "32.082", "state": "Texas", "state abbreviation": "TX"}]}

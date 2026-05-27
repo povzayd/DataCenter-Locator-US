@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KXsYAUiLUAPnqUpB6yRkrVJQC%2B3lTgTZqDrXhCmD0ktodowDq9NCW6EYeSwFfKBzGI35GFiTmUKivllW7Zt1RKwXBxSaRjYo3%2BlwFMTMM5iIjeAJgkbJRx3cY%2Bt97u5A0ZFR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6478
+Last-Modified: Wed, 27 May 2026 05:32:26 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3233dc5a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43103", "places": [{"place name": "Ashville", "longitude": "-82.9446", "latitude": "39.7316", "state": "Ohio", "state abbreviation": "OH"}]}

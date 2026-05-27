@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mXIg0xfax7GDNP4rHW%2Baih4NB37OaBSFBU7%2FnD6dPAJln%2Btv%2BDa1eO3goYchf8xlRZ8XGEbby8WSAPrTD9TUD4t08sSNdo5vH8a0V6Z%2FN3j%2BHf%2F9ftHAfpgM144lRU8g24Xy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3147
+Last-Modified: Wed, 27 May 2026 05:31:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327b997a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "59823", "places": [{"place name": "Bonner", "longitude": "-113.7279", "latitude": "46.8702", "state": "Montana", "state abbreviation": "MT"}]}

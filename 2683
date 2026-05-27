@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cvsIdVzgSy0X6mcknOaRkPOAPcQXCleZ80JioZd6zW4IY%2Bm6xF%2FLsCUBNvFE83mlBayMwaH0dQ5xVEMpk9lNXo1YFFhNHLTWsFmYh8D6oHmbjb9YHMGrVnpw7ncC4STCBL%2BQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5141
+Last-Modified: Wed, 27 May 2026 05:37:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33718c4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49236", "places": [{"place name": "Clinton", "longitude": "-83.9442", "latitude": "42.0639", "state": "Michigan", "state abbreviation": "MI"}]}

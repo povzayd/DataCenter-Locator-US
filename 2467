@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i9ldLwfraVOjqDsZSit9oFD6%2B3KJGMYRC8CVkHYFbgKDfrGOu8cLPHo5H3SKozbXsbHGY7Bsu0CKjjZZkqn%2BZgWytuDfethliFzn6TIyAWo2V46MFLgwa3Plkbt6aHghZrxb"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5137
+Last-Modified: Wed, 27 May 2026 05:37:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3309aa8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "96813", "places": [{"place name": "Honolulu", "longitude": "-157.8521", "latitude": "21.3179", "state": "Hawaii", "state abbreviation": "HI"}]}

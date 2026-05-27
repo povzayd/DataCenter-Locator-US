@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J0sIDuSfnt9z8a6joz8cpo3vFZCGS9srldtfuenzYnxTpmduztDc5%2BLEWDvq0MNyMq1Q3n5HhFl%2FpcN72xIIQ%2Fdd4U0L695Fwwx1PJFvk5rPkHrg84qxvCj8tFb7tzqDkSmn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5702
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3181b4ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74367", "places": [{"place name": "Strang", "longitude": "-95.0773", "latitude": "36.4141", "state": "Oklahoma", "state abbreviation": "OK"}]}

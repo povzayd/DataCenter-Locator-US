@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cGXVnayBaeuTTMJwJQ%2F7btSBnbD%2BsU7T6mPscB%2FuXYRZSXmREoOdBGm9mlcoc6K0DMSPFT6RNyIGoElThAqJpb5dAGViJpyGxA%2BX%2BTvg1%2B%2BuaAKo%2Fjazjhg7W6TKaYjGtTD6"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5602
+Last-Modified: Wed, 27 May 2026 05:30:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3073856a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76541", "places": [{"place name": "Killeen", "longitude": "-97.7278", "latitude": "31.1164", "state": "Texas", "state abbreviation": "TX"}]}

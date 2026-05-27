@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9Kkim3%2FCuDaZ3DPPdZw%2BlWvXzhXwVDr7tOkGAED4IZ%2BYzoAbCvxUdBK0nNHIYhrm2BhfI%2BJq0xEN4QyCfKiPxhva3bQ4o58%2BVsLrf64kZwUVHuCDpPeORZrwtzg1jIVM7ICY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4061
+Last-Modified: Wed, 27 May 2026 05:30:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e319dcc7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "84052", "places": [{"place name": "Myton", "longitude": "-110.0481", "latitude": "40.194", "state": "Utah", "state abbreviation": "UT"}]}

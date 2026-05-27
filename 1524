@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CRYNgvI4CO7jD6p8CZ3KCMFCNCGZofUxKvdgdJU0ay6pm%2Bj11PkezfIITf0hCbh4fJp4Q6Y0i7pXtI40%2BMLJS7ADA3SEct4mf1TJ9AiJi903mvy0nN3Wea%2FxEgzA152d5zg1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4943
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31598caa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43016", "places": [{"place name": "Dublin", "longitude": "-83.1537", "latitude": "40.0985", "state": "Ohio", "state abbreviation": "OH"}]}

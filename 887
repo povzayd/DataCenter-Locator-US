@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mcDnFIOYA0nHnH0LptjfOK8%2FNp6Z859PVpjIT%2FmMigS84qV8oDc%2BSaOV7xa53cId65hkaVM6ehFexbQKfi3AQwFu5xrizwKeNIQkR8mpvUl9k5fdzam92TO2UWf1N6mDFEB2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1507
+Last-Modified: Wed, 27 May 2026 05:55:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3046dbba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14125", "places": [{"place name": "Oakfield", "longitude": "-78.2702", "latitude": "43.0717", "state": "New York", "state abbreviation": "NY"}]}

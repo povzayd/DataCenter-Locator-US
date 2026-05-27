@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ANZgysf9N69s1mIGV1Q2QktEzswhK2wDfwfaZlQjon6zj4FNIMcqVLXj1FfzA9acT7x3zWr5gfu4OauVcT8z6n0B9J88MakX%2FzOU905KeDnbGEVlNheXnY5M9mIPYiWXZ%2Fq3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5090
+Last-Modified: Wed, 27 May 2026 05:30:23 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3199c90a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43046", "places": [{"place name": "Millersport", "longitude": "-82.5283", "latitude": "39.8993", "state": "Ohio", "state abbreviation": "OH"}]}

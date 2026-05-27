@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=E8oLzl%2FB1DsmSKFC59MuX21VtgfLc2e7QXxYTt5ejjxT5TGGzYmZssOiSjHL48w5rHZ3SZtWImLhjVgZ6DWQdTRlKsm5mkZJ%2FTQnVlRsjJI%2BRe4%2BVwBFbdKy8YdCex3DJHwR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3230
+Last-Modified: Wed, 27 May 2026 05:29:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f38ee6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "71009", "places": [{"place name": "Blanchard", "longitude": "-93.8871", "latitude": "32.5719", "state": "Louisiana", "state abbreviation": "LA"}]}

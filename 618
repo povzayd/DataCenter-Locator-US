@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=l9op5v6T5YJBP8oZefhV6n12XKdtu5yyL56uJKa1K13Trh9c7vtSoOcqf%2BlBUjxerGZPuinKV%2FLorXUvbB17eTsiVRCYPrBTkGx88%2FicQBD6t4mFjNYst861i5r%2BHN9S3HKv"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1472
+Last-Modified: Wed, 27 May 2026 05:51:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fde80da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "46342", "places": [{"place name": "Hobart", "longitude": "-87.2525", "latitude": "41.5263", "state": "Indiana", "state abbreviation": "IN"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aMQeaIaAc5Y3xbXjUoKNCsiZkVMABILP2g86t7%2FWWiABjg64p6fKcYIhihKaa30ViWmCcRK6RG62alFZKytuEFYQ4HtYbz9s4rrPZK9Pb9YIc%2FkiZ0gnGUw1ONgQZNC8NwHR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4907
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30bfdf4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "14011", "places": [{"place name": "Attica", "longitude": "-78.2798", "latitude": "42.8499", "state": "New York", "state abbreviation": "NY"}]}

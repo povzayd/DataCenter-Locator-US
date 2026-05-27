@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NeMjD7t3qehHbLOc8mV0jTiWFRHINWcKP6POe1g0DbZC%2F3qUlBs3z6KjF%2Ft5T0P5aQQwB7E%2FZ%2FS%2FgoanZl6oyed1eAo0E3%2BwP2kdjtkPMqb3hgm7U2JRDYWjVY0vB1YN0F2V"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4908
+Last-Modified: Wed, 27 May 2026 05:34:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3102acba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "99645", "places": [{"place name": "Palmer", "longitude": "-148.9872", "latitude": "61.6303", "state": "Alaska", "state abbreviation": "AK"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SFIK%2FtyDeQS7jd7FlJ9AfZ7DsaANXdjIdN7jzl7ogkG1P9%2B%2Frni6KxJxDuOtLbWIpxEL1QZ4U3GTNgC7Q10JD2C5BpO0JyqhYOxuJZy788PntMOYx62d0Rx9gIJv5kLRXyB2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1864
+Last-Modified: Wed, 27 May 2026 05:51:53 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31e7952a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "25550", "places": [{"place name": "Point Pleasant", "longitude": "-82.1132", "latitude": "38.8632", "state": "West Virginia", "state abbreviation": "WV"}]}

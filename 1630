@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zi%2BeEuPllT8gD7tM1XIgSnaQK7GHLsoRyreMoV8rS1%2BDYfDJUNBiCUoNcWmJh2ZwYdQ2v1u5icgoRdZzUVzWaYiputWTP%2BCNmM5zvrcX%2FGuTSnDiwn1STE77iIbuvIfU3gux"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6470
+Last-Modified: Wed, 27 May 2026 05:34:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e317bae0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "80907", "places": [{"place name": "Colorado Springs", "longitude": "-104.817", "latitude": "38.876", "state": "Colorado", "state abbreviation": "CO"}]}

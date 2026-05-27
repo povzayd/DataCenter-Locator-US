@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SD7OIB%2FtcMqKVtjUVDmY5Xm3QD1BHFLyOHzltC1%2Fb0mjBtBPv9pgezj%2BzfxsMbiwsVd%2BL1cm4OtS1FM9vzEEE02jHCPRG3hUExxGAQyzVdj%2BzcF1NHonizLry0PnStE%2BAGPZ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1602
+Last-Modified: Wed, 27 May 2026 05:55:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30f9a29a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "38555", "places": [{"place name": "Crossville", "longitude": "-85.0514", "latitude": "35.9623", "state": "Tennessee", "state abbreviation": "TN"}]}

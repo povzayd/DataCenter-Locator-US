@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2Ff0SkoQRn4WDSIwKHnVmIvJ6HK%2FyPdv0We4hBvgiF3WlmeTu2uo05d%2BJuiCCa5WpVKhP%2Fp4OnNZOQihqJWvgx3JG2JsjTHtcISX0n8ATBkbb%2F0EFFV9ldnn3r7BiB8JvIdk"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3139
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e31ed9a6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "19067", "places": [{"place name": "Morrisville", "longitude": "-74.8291", "latitude": "40.2084", "state": "Pennsylvania", "state abbreviation": "PA"}]}

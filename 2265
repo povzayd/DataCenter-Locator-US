@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FZ1uzLoahVogfAqluojMFDUqFI7LYr%2Fk9accESDHalIzNkeZGU4fBXhYm7omt6ORqgBLFfYNSxGUZymjX3j1X7mqgSKI9WaC4tSiX%2BOJ1vyY0sVpTy2qEUkOhm%2FcB6vc3vdn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:36:21 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32a7c7ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27562", "places": [{"place name": "New Hill", "longitude": "-78.9365", "latitude": "35.6809", "state": "North Carolina", "state abbreviation": "NC"}]}

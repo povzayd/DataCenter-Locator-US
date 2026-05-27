@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=o%2BB7IwRzyDb%2B%2FdO5PB6opzFW%2FlYkJdHcrqcw34ap%2FmLsBmW5h9QEZAfRmOntCoiwsIP7fOXcoJhQD8PXYvY7udzEVRDnwJ9U7DzJBSoQbwkyW14WWmppsuI3iex2A2guIYeh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3219
+Last-Modified: Wed, 27 May 2026 05:33:59 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30d0f21a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "29607", "places": [{"place name": "Greenville", "longitude": "-82.3516", "latitude": "34.8285", "state": "South Carolina", "state abbreviation": "SC"}]}

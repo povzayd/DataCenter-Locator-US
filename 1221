@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DjHI%2FowPkwwsD%2FN6kuAioTTxfVh2TrNUeX1auhY%2FP08yA6VHnZr5LtgySwg6ay0jWazux1XSC%2FemPVlODhmWc5kC5Dl8keezd94bpN%2F2OkGorCk0yCUjLgnNC5T7feB0%2FsF%2F"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3861
+Last-Modified: Wed, 27 May 2026 05:33:08 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30ea902a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "97818", "places": [{"place name": "Boardman", "longitude": "-119.7206", "latitude": "45.8272", "state": "Oregon", "state abbreviation": "OR"}]}

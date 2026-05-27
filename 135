@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:40 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PlmTPubFu8%2BbCFzUhLVpvzVyJyDXO0%2F8FcvqQ2%2FDVuJkXknRI0JY97M1NZ7kbgOSc3C3N%2BSf%2BCRVu7I6VVpdD6zWFAnaSofiXbzyPrrh1Pn2VG8R9o%2FCyepnrtSvIjzA22jr"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5276
+Last-Modified: Wed, 27 May 2026 05:29:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f11cdea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "67846", "places": [{"place name": "Garden City", "longitude": "-100.8621", "latitude": "37.9769", "state": "Kansas", "state abbreviation": "KS"}]}

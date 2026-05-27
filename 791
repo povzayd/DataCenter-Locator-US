@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZBfwKgP8hJB7vA7QgHrwpULctx0Yfs9vXtudLXghx2js9hBt8bmWAAxXe3E8%2BpurnD00iZ6NG8b1109omuvCs0gofn7%2Fr73O5gS800i42F%2FRA5ZgWkXS7AT23PV2h4mMuz1E"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1508
+Last-Modified: Wed, 27 May 2026 05:55:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3028bd7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18087", "places": [{"place name": "Trexlertown", "longitude": "-75.5961", "latitude": "40.5482", "state": "Pennsylvania", "state abbreviation": "PA"}]}

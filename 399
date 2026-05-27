@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fU6AOKHTsQ40s17%2Bzzy979hp7mkAUc8uz%2BD56bwB6HE82Bm1hJUM2MMO6Qm3GskKjn5PXPEE1u6DvJfwaVEIx3N62xOLDVxYAepMDu3OXf0REHxerBBAhJVYYTkZDWvRdyqw"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5136
+Last-Modified: Wed, 27 May 2026 05:30:19 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f95be9a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79936", "places": [{"place name": "El Paso", "longitude": "-106.3016", "latitude": "31.7677", "state": "Texas", "state abbreviation": "TX"}]}

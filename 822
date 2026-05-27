@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OH%2Bn2EjkajyJidq%2FWStGr%2FgwlJ2zw4qSFahXWCYsGPuHhnIrq2KRvEMhxdCtxsxTZJaX23sIFG0jwDO2bDSxazXQP%2FONL4dMNPndeDSqZsPN6oSk1m4fYT3kbti%2FTsQv6ZH1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4903
+Last-Modified: Wed, 27 May 2026 05:33:30 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3031c79a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "28345", "places": [{"place name": "Hamlet", "longitude": "-79.7022", "latitude": "34.8894", "state": "North Carolina", "state abbreviation": "NC"}]}

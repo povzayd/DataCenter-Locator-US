@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ovk7QXqaV9grLyvggnPaqfI1hFNSYPALHAaHPrOMdWs1raumeev7zuOJTWBcW%2FIbQxkOAoP%2FVYyKV8n%2BlmN6Lk43pQkdI6OoCx%2FlSRvrgnigvSm0cXV2Ob63LACYlqtNQEDU"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:03 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3219c2da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43128", "places": [{"place name": "Jeffersonville", "longitude": "-83.5687", "latitude": "39.659", "state": "Ohio", "state abbreviation": "OH"}]}

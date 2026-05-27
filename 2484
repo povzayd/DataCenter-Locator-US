@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iQZA35%2BUStKqAYt%2B%2F0ANr0z5QFNftT%2FJfNU3p2G1CCtdphsCuHsKEW3RqrjvKJVIG3x8gKgDlH06dAOcpY8Zf1ReBCICzU2QrNPDHvBnAt38LuB65uKAV7wyCo%2F0lmnDn2IJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1615
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e330fae8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30161", "places": [{"place name": "Rome", "longitude": "-85.1465", "latitude": "34.2507", "state": "Georgia", "state abbreviation": "GA"}]}

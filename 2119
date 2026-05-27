@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hPht88lN35x1pNA%2BiyysGrcsD%2Bnc7c0NzwHbCrCn23b%2BJgSB55YHLjxXak4yzjx9iWzaXQ6NicWIuhY3q07Lt2zgYgX9UqI%2FkcT3p7HddEb1mKFqUMmoxmOAflMxw3865BPR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5142
+Last-Modified: Wed, 27 May 2026 05:36:39 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e327895ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "60060", "places": [{"place name": "Mundelein", "longitude": "-88.0048", "latitude": "42.2636", "state": "Illinois", "state abbreviation": "IL"}]}

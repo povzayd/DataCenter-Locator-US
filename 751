@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qWAyEYTLEHZlMw6EuibVsAp3KNKlN5as8u8olyVHXpjXoQPzjX8wTq3rHAATvFwXYJKNrhvGtIP6L1rlOk07D0nAayCN3pf1T6h7IzZ7O85mIzq4aSvAHlOoKr0l%2BZjWE3YJ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4994
+Last-Modified: Wed, 27 May 2026 05:33:11 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3009a52a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27573", "places": [{"place name": "Roxboro", "longitude": "-78.9737", "latitude": "36.4059", "state": "North Carolina", "state abbreviation": "NC"}]}

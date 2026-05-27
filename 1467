@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tu1OMZi8JWfmFoLaXbNQ9jibIXQLPSt%2BHN7BXe1jR%2Fe8XpSr5bDFef%2BUrLvfFI5y5%2F6ENsR0nM6wyHQdsJ85QERxFjEd4wDeHfhpo%2FeSvssVSpN4bS%2B%2BpiNHeVGd5LLeD7dn"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5614
+Last-Modified: Wed, 27 May 2026 05:34:17 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e313cee7a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "63361", "places": [{"place name": "Montgomery City", "longitude": "-91.5085", "latitude": "38.9839", "state": "Missouri", "state abbreviation": "MO"}]}

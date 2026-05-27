@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i3CUoHDzfhKYQWrzbc3Jxp8P%2FM0bGn4LCgV%2Bvbo8OxmliS05dPuYiOsCU5iN09A11gn5Hrv%2FTCOdlbHn6hW0wixsdganjNWlluVOAsvv3%2Bb1Hk1brEWqiMPFpBK6andRz47B"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3220
+Last-Modified: Wed, 27 May 2026 05:34:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32afcf3a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "08061", "places": [{"place name": "Mount Royal", "longitude": "-75.2082", "latitude": "39.8097", "state": "New Jersey", "state abbreviation": "NJ"}]}

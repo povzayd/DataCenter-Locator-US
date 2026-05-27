@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k787l4z7%2FXJCwYY5sMSSjpDHB7zN%2B40RBAICzr1CEw1KYefVueryit5iwaehDsOW3Ei5qsMcwnzZX4ieqWToK%2B2%2BWKvmHEkkw6AGIiGaQb0cMPzgY7HrByQD79IfKRM559GO"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1603
+Last-Modified: Wed, 27 May 2026 05:55:47 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe888fa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "61554", "places": [{"place name": "Pekin", "longitude": "-89.6243", "latitude": "40.5674", "state": "Illinois", "state abbreviation": "IL"}]}

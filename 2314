@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JeudvH8ARGroMdKLwm7eIUn8Rk1PTsTogt%2Fs%2Fo481OK2amP84TqNzECL4rw27PnHsKZ5bS6ak%2BdYtWCiDgvcLliplwq9qsnjpYB9MxxRhl1W7RenovAFTLTVMDdmXPajHiCh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3422
+Last-Modified: Wed, 27 May 2026 05:29:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b6d9ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43137", "places": [{"place name": "Lockbourne", "longitude": "-82.9764", "latitude": "39.8142", "state": "Ohio", "state abbreviation": "OH"}]}

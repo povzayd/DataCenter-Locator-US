@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PX0USm8KMjNvcbnvGeMGJkb9nxDqK4cyqt1TJeOcgadrVdwk6kQ5EIbG2jgl6%2BYlanJ5gHYJZV1gBV6ZOPMeJtFoR17WuuDWutSVm9e26Z8qEL60F1FizA7N0t%2BNWHrYH%2BoK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5443
+Last-Modified: Wed, 27 May 2026 05:32:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2ff5947a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "62656", "places": [{"place name": "Lincoln", "longitude": "-89.3684", "latitude": "40.1451", "state": "Illinois", "state abbreviation": "IL"}]}

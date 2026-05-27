@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:42 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dKQ4mJQRG0DmSaSPiFMUzJ9t5e55XLBastXuqIr8S89pHlRKM0s4ontA%2Bgc641mlXWTWfo%2F2jM035s8Go8qSbbXrGUrs8az%2F9qNnop1MWkD2zKN6D9CBO2CqGEMJl%2BCfrKRd"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1546
+Last-Modified: Wed, 27 May 2026 05:52:01 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f8eb81a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "43551", "places": [{"place name": "Perrysburg", "longitude": "-83.5927", "latitude": "41.5429", "state": "Ohio", "state abbreviation": "OH"}]}

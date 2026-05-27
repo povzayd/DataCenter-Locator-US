@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4rOhKzDp46LUsZQOzE%2F%2B7sjyBxCvM%2BqvfinebgJu4V3VxDdOJblTrrNTGkdU0MheUYFLEzP2Jz3ok4JJxr5uZJkiZHQ35PqD5L20hrrKIl71tY%2Fwnf32fP9y8Z%2BX2fV7hiMy"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5614
+Last-Modified: Wed, 27 May 2026 05:34:16 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3138eada6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "71064", "places": [{"place name": "Plain Dealing", "longitude": "-93.6905", "latitude": "32.9074", "state": "Louisiana", "state abbreviation": "LA"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BnPzD3Oo1odZR%2BBQ81RhEfl4P%2Fat8z8xMRm5W9ZaEteqClaew4nX8stayYFTr6I2ZQp8cNhlYnwUrU9iSZJWg552%2BS48hhjXKcflDCVuhFBTgJQ%2BZeAtRh6zNvQZTuSHr8FN"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6470
+Last-Modified: Wed, 27 May 2026 05:34:20 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3144f70a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "66067", "places": [{"place name": "Ottawa", "longitude": "-95.2745", "latitude": "38.6142", "state": "Kansas", "state abbreviation": "KS"}]}

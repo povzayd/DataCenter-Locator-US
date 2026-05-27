@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NSkv2DVSrqMWXRLmEZsuK6Bsd%2FnjCUKijwJMWEUTHwyPyVoLGNN2%2FCOsAlncR8aj6bx%2FFpDbmSbFb0lv2xZ1BMvo1ozsVGcYXnnNo9x%2FM3K%2FAaefN841CcyBySBiBK08uw1u"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3814
+Last-Modified: Wed, 27 May 2026 05:34:34 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3171a33a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "22551", "places": [{"place name": "Spotsylvania", "longitude": "-77.6854", "latitude": "38.162", "state": "Virginia", "state abbreviation": "VA"}]}

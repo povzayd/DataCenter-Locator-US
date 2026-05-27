@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:43 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aIlPzn%2F9MZto7QXu7vpJwGOPa5QzUiUbn%2BK%2BwWkLlVf73PU7pGpOV4mXjmiTkkYPtUr0Adbsl%2FRrU9Goa2945RWy%2FC7PHm0eX3Ex7h9ZtmrEwNldJlokV1Ys9eVZr93DcuZL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3410
+Last-Modified: Wed, 27 May 2026 05:31:49 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2fe5876a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "40216", "places": [{"place name": "Louisville", "longitude": "-85.8335", "latitude": "38.1865", "state": "Kentucky", "state abbreviation": "KY"}]}

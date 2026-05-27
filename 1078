@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=56b6PJvAD%2B3i12nzpQUtxMy41qkIfcNphVGKiKASaZdgFeXOyQGW7S0fLxGRnUgkMZofdH3GEEIjOF9nLPaqI%2FnIl0mBL%2FFQbTTLK7N2%2BIxsNx4f8HJBF4vB5TIuNDRfzkoY"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 2835
+Last-Modified: Wed, 27 May 2026 05:33:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30b8d5ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "70001", "places": [{"place name": "Metairie", "longitude": "-90.1695", "latitude": "29.9871", "state": "Louisiana", "state abbreviation": "LA"}]}

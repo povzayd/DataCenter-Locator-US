@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:44 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xdn4r2qF%2B9pMbCDir%2FbS9LAD%2FZJ4oIMQqKeGTb6cxK720nGEU2uj12vVBSzQ5LfQ7StztDibYSnsiACg2p9vujd3X%2Fsu1EdC19Oboc%2F%2BaRqAzxJipwDZhkIXIVKpFoTmaOQT"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4901
+Last-Modified: Wed, 27 May 2026 05:33:41 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3048dd0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18063", "places": [{"place name": "Martins Creek", "longitude": "-75.1735", "latitude": "40.7825", "state": "Pennsylvania", "state abbreviation": "PA"}]}

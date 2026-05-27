@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4BUzj4TXOuKY0E39HfAMJnQwHX9MkeMJXuCw5%2BoTnoZ%2BJ9cBX3TMdiOYMaLlA1s%2B3fvqjxKClRG2tY2Zk3RrASIdZ6uMhQtz6EgHLiCMEog%2FlE%2BB9q5X1%2FLAVqQNqGcKlVE5"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5138
+Last-Modified: Wed, 27 May 2026 05:37:07 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32bcdf8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "77303", "places": [{"place name": "Conroe", "longitude": "-95.3749", "latitude": "30.3814", "state": "Texas", "state abbreviation": "TX"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NAXJ4vjTk%2BvbYOSZFbmQcqAUER003zRnp3OCJta2WdTQO9xS7k2Heh79VK6gyag2mpShqB6ZyTS8eLVHE0Quw1KQVdn5p72ZyRaxQgUdP2BbtGzUg2X%2FTc48r6IVpq3aJAwS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5714
+Last-Modified: Wed, 27 May 2026 05:31:55 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3210b9aa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "38671", "places": [{"place name": "Southaven", "longitude": "-89.9992", "latitude": "34.9771", "state": "Mississippi", "state abbreviation": "MS"}]}

@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5FogyYg7%2FXY7yguOP6i7OlrVtkV4h1KKcRUJ2AruJGei%2BKy3Ae%2BoLUe5Sf8ddperk%2BIHYFcWfXKK4BHEOCmzGqQRVdzbsol1dYCWr%2FxeFASKyufTrJPtmGgyE%2FHjH2sSgmFF"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:36:50 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3295b35a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "15059", "places": [{"place name": "Midland", "longitude": "-80.4908", "latitude": "40.6793", "state": "Pennsylvania", "state abbreviation": "PA"}]}

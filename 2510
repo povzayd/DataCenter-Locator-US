@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D8gnnW7Q0dZVZ5XstxhB6H3z1OncTHBtGIcJkeMWSPjP0Dd%2F%2BRirSH8y2h48Gu8m66udyG6zd0eNnVS%2BDS5IaVW3KVD7U78KgCqPORY3j2fxN7Esm7UEZNR%2B4dyy86fCPyTL"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:37:04 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e332ac8ea6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "30228", "places": [{"place name": "Hampton", "longitude": "-84.2947", "latitude": "33.4124", "state": "Georgia", "state abbreviation": "GA"}]}

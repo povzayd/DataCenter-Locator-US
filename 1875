@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:48 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PUx8GQB0lgQqqIgrCS0GrEUO3evbqbpTaQiBoP17bIBklgZU%2FbUJHI3VNW673wS6K9KIz9QXGCb7DbZ%2FZQsZw0sOCKEqfPun0EPek5FgMZukgXsLZgUJEq6SFgsqRJ0a0FbZ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:34:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3202ab4a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "75570", "places": [{"place name": "New Boston", "longitude": "-94.4375", "latitude": "33.4619", "state": "Texas", "state abbreviation": "TX"}]}

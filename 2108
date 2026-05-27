@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:49 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hoi0r29BWbEiRgUTE9%2FS0Zpf%2FlX01jYrA3nxjAtBN4Ee%2BFnK2OgI%2B15wF%2FO3StpAlVDiQFpeSa3xt0YcYHXDldu9K3ZGJOuyv85soO%2FQlqt90jIi7PqtXjABovf0SsxwkJuS"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5145
+Last-Modified: Wed, 27 May 2026 05:36:36 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3274920a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "55068", "places": [{"place name": "Rosemount", "longitude": "-93.0685", "latitude": "44.7378", "state": "Minnesota", "state abbreviation": "MN"}]}

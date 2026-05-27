@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IshQIIwG46Wql1elxMgcK9%2BFTMHClsOne158Kw8CiRngiZCTDPcn6gaGz7kdc%2F93LAdYQOxpZVYi4XIVbUfnsIywiWtwUvYEGCvFYlkgcOt%2BLq%2BiWflXc%2BulHDtgfbdrTapH"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5139
+Last-Modified: Wed, 27 May 2026 05:37:00 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32b3d53a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "37701", "places": [{"place name": "Alcoa", "longitude": "-83.9809", "latitude": "35.7852", "state": "Tennessee", "state abbreviation": "TN"}]}

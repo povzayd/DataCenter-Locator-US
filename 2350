@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D4nbtXlMgzrShAATy9D68V6lmuUaWhT%2F7yKYAGKkxQ14Qv%2F0%2ByrcJlYvdmp28cUBMsMLYCGveJMeZQUkFZjyoTmv3%2FYqEiDzeeuTyC8E3UWGSq6%2F1wYmXdhudKVGOok88XKs"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1818
+Last-Modified: Wed, 27 May 2026 05:55:57 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32c3e6ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "18421", "places": [{"place name": "Forest City", "longitude": "-75.5313", "latitude": "41.6523", "state": "Pennsylvania", "state abbreviation": "PA"}]}

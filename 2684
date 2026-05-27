@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OcYqNGRnWn58IYDbnOGcJotwIrMvv2KVXWtwUVFgBZ9eUQ7ll4U5%2FKyJhh%2FlixQGWS1lIGeShASo5hI65y42rp1%2FNCB0YU0FqmjEVWuuCwtwjmuZcB0U4eNy4xWhaWXbbsz2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3783
+Last-Modified: Wed, 27 May 2026 05:30:31 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e33728d0a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "80550", "places": [{"place name": "Windsor", "longitude": "-104.8994", "latitude": "40.4837", "state": "Colorado", "state abbreviation": "CO"}]}

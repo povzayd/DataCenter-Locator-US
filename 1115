@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:45 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=phhXntS0BCjTzhTu9LIlOcobuhESu55G2C7fvP%2B7R1axPmjHRx%2BggUl0rFExCfvqymG7XBlvkOPlpnIZ%2FcVME9QwT%2BLly7aSD78foAwey3yPQqyB2zTlMsg5lgFmMjWnhv9Y"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4907
+Last-Modified: Wed, 27 May 2026 05:33:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e30c5e62a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "79065", "places": [{"place name": "Pampa", "longitude": "-100.9579", "latitude": "35.538", "state": "Texas", "state abbreviation": "TX"}]}

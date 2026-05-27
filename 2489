@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lhV1kgstM1GDMrjE4pWYVc6zcwK0Zpy7AeejZ%2Bocb9yRK7CMq5CaZURiN6S2jqpTf8OJuLvmdKxP%2F3UuDxIST6RGyAZL5SmUgCAuBKferSqrv6OL214r7374zVKzcoCc3zbQ"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5148
+Last-Modified: Wed, 27 May 2026 05:35:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3310af8a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "98223", "places": [{"place name": "Arlington", "longitude": "-122.1121", "latitude": "48.1829", "state": "Washington", "state abbreviation": "WA"}]}

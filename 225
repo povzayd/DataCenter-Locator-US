@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:41 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Eog25I33sRJC0vgi5jHbKBhGBiKjvu7f%2BLtxNZ%2FLC2KHsYPAA57POFId6ivGKqtkVoVknuWNZO1ededeMuKxT9l3klN3Qak0tvGrRGfVeKoaIyAoj8TrnZMd%2FLPOV64y4%2Bv2"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 6049
+Last-Modified: Wed, 27 May 2026 05:30:02 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e2f4fff6a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "27025", "places": [{"place name": "Madison", "longitude": "-79.9654", "latitude": "36.3695", "state": "North Carolina", "state abbreviation": "NC"}]}

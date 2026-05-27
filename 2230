@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5QQ58wAU813Xu8cdzE0GJO7nFXUuRVUeRe0OGiSkm%2Fwq3PrvYIQ9xZDtyCXpTM2hX0RvlemWndfG%2F8QliNYQT95MJYoxrFM4wGwpETUEoLu4BSqgn%2F%2BPCBsjsgbibLVTNafh"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 1818
+Last-Modified: Wed, 27 May 2026 05:55:58 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e329bb8da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "76373", "places": [{"place name": "Oklaunion", "longitude": "-99.107", "latitude": "34.1456", "state": "Texas", "state abbreviation": "TX"}]}

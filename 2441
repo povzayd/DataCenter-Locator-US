@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r2ZW4sBxjHEztkuxNxesXg7pp%2BXRyyiZiRArWOzeC902gOS%2ByljrTqTZ5OhYV0pE7DPMVhXD7biSwB5rw%2Bqyj%2FSrEjIe4%2BURPhxpyxrYeizARX0XXLnrr3%2BAZaIOobLhlgh3"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3843
+Last-Modified: Wed, 27 May 2026 05:29:54 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32f494da6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "74017", "places": [{"place name": "Claremore", "longitude": "-95.5985", "latitude": "36.3242", "state": "Oklahoma", "state abbreviation": "OK"}]}

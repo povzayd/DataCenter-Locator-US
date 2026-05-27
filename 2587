@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IrLNQFSIB46OG2mmenTBQw9j2s7bK7okY1AigSB39plLkGUL98pLhtvgp3N4co7uspMjVop%2FD4A%2Fm33JYwVxQ1mtgNmf9kQw5%2FlD5WSne54bV9IldtjBd7mZsnuJb8PV8Eis"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5527
+Last-Modified: Wed, 27 May 2026 05:32:14 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3345e2ba6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "31829", "places": [{"place name": "Upatoi", "longitude": "-84.7448", "latitude": "32.5601", "state": "Georgia", "state abbreviation": "GA"}]}

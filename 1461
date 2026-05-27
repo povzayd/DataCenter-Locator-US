@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=O2PeSEWYjfnde0oZHUnMSrIRNZdVs3V%2FdYWabm3J6Lh%2FFLiXxJY2txTql2bgaV43%2F0HF%2FrKMyREtOY5%2FomX6zNhE%2FG1XJPyJxUFMA5aL5F8FhJ3900l%2FwcVYPsLz%2B04RZQM1"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 5703
+Last-Modified: Wed, 27 May 2026 05:34:09 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3139ecaa6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "67042", "places": [{"place name": "El Dorado", "longitude": "-96.8543", "latitude": "37.8226", "state": "Kansas", "state abbreviation": "KS"}]}

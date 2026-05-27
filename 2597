@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:51 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UobUVNjEuYRI6qYTyOGoh9fieaF4PCIjuvpkte4zyhOYS1PtujNsgplgd%2FEmXqrtxDHCTT5Z6vf6PtZPi1pXVR7Q%2F%2F26krslpecUe98EsA6bjwrJ72KWM0SGzzJ97tmz61aR"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 3151
+Last-Modified: Wed, 27 May 2026 05:30:23 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e3348e6ca6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "49331", "places": [{"place name": "Lowell", "longitude": "-85.3653", "latitude": "42.955", "state": "Michigan", "state abbreviation": "MI"}]}

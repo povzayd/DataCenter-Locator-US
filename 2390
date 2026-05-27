@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 27 May 2026 06:15:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Charset: UTF-8
+Server: cloudflare
+Vary: Accept-Encoding
+X-Cache: hit
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZnbUTk7yx5t3CsVREKBNVncv38igwKuUF2Jxo0TwIw8EuubHLajutKSAQTbaH%2FHyobAYNHOl1OXXUsBr4QoWszXQtxlL5HrjLpOMNQRTSJ9ZUNj66F2RtITjNcN4CxfoIBVK"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 4998
+Last-Modified: Wed, 27 May 2026 05:33:15 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Cf-Ray: a022e32e1837a6fb-DEL
+
+{"country": "United States", "country abbreviation": "US", "post code": "36752", "places": [{"place name": "Lowndesboro", "longitude": "-86.6471", "latitude": "32.2943", "state": "Alabama", "state abbreviation": "AL"}]}
