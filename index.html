@@ -1,35 +1,135 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Data Center Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Data Center Atlas</title>
+    
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <style>#map { height: 100vh; width: 100%; } body { margin: 0; }</style>
+    
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --accent-color: #58a6ff;
+            --text-color: #c9d1d9;
+        }
+
+        body, html { 
+            margin: 0; 
+            padding: 0; 
+            height: 100%; 
+            background: var(--bg-color);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        }
+
+        #map { 
+            height: 100vh; 
+            width: 100%; 
+            background: var(--bg-color);
+        }
+
+        #loader {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(13, 17, 23, 0.9);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            color: var(--accent-color);
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(88, 166, 255, 0.2);
+            border-top: 5px solid var(--accent-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 15px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .leaflet-popup-content-wrapper {
+            background: #161b22;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+        }
+        .leaflet-popup-tip {
+            background: #161b22;
+        }
+    </style>
 </head>
 <body>
+
+    <div id="loader">
+        <div class="spinner"></div>
+        <p>Mapping Infrastructure...</p>
+    </div>
+
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
     <script>
-        var map = L.map('map').setView([37.8, -96], 4);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-        function handleData(data) {
-            console.log("Data received via JSONP:", data);
-            data.forEach(location => {
-                const lat = parseFloat(location.latitude);
-                const lng = parseFloat(location.longitude);
+        
+        const map = L.map('map').setView([37.8, -96], 4);
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            subdomains: 'abcd',
+            maxZoom: 20
+        }).addTo(map);
+
+        
+        const dcIcon = L.icon({
+            iconUrl: 'https://cdn-icons-png.flaticon.com/512/900/900115.png', // Tech/Server icon
+            iconSize: [30, 30],
+            iconAnchor: [15, 30],
+            popupAnchor: [0, -30]
+        });
+
+        function handleMapData(data) {
+            console.log("Infrastructure Data Loaded:", data.length, "points");
+            
+            data.forEach(point => {
+                const lat = parseFloat(point.latitude);
+                const lng = parseFloat(point.longitude);
+
                 if (!isNaN(lat) && !isNaN(lng)) {
-                    L.marker([lat, lng])
-                        .addTo(map)
-                        .bindPopup(`<b>${location.place_name || 'Point'}</b>`);
+                    const marker = L.marker([lat, lng], { icon: dcIcon }).addTo(map);
+                    
+                    const popupContent = `
+                        <div style="font-family: monospace;">
+                            <strong style="color: #58a6ff;">UNIT: ${point.place_name || 'UNKNOWN'}</strong><br>
+                            <hr style="border: 0.5px solid #30363d; margin: 8px 0;">
+                            <b>REGION:</b> ${point.state || 'N/A'}<br>
+                            <b>POSTAL:</b> ${point.post_code || 'N/A'}<br>
+                            <b>COORD:</b> ${lat.toFixed(4)}, ${lng.toFixed(4)}
+                        </div>
+                    `;
+                    marker.bindPopup(popupContent);
                 }
             });
+
+            document.getElementById('loader').style.display = 'none';
         }
         const scriptURL = 'https://script.google.com/macros/s/AKfycbwm5dbxvIRSqPEcjECuzb5oGBP-C5kssSFVhZm7H0_FhiUClYxxkqwJKX0pB104Stzb1w/exec';
-        const jsonpScript = document.createElement('script');
-        jsonpScript.src = `${scriptURL}?callback=handleData`;
-        document.body.appendChild(jsonpScript);
+        const jsonpRequest = document.createElement('script');
+        
+        jsonpRequest.src = `${scriptURL}?callback=handleMapData`;
+        
+        jsonpRequest.onerror = function() {
+            alert("Security block or network error. Ensure the Apps Script is deployed to 'Anyone'.");
+            document.getElementById('loader').innerHTML = "<h3>Connection Failed</h3>";
+        };
+
+        document.body.appendChild(jsonpRequest);
     </script>
 </body>
 </html>
-
-
